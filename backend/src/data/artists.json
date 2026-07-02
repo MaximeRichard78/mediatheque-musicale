@@ -1,0 +1,6374 @@
+{
+  "created": "2026-07-02T15:03:05.000Z",
+  "count": 20,
+  "offset": 0,
+  "artists": [
+    {
+      "id": "b10bbbfc-cf9e-42e0-be17-e2c3e1d2600d",
+      "type": "Group",
+      "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+      "score": 100,
+      "name": "The Beatles",
+      "sort-name": "Beatles, The",
+      "country": "GB",
+      "area": {
+        "id": "8a754a16-0027-3a29-b6d7-2b40ea0481ed",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "United Kingdom",
+        "sort-name": "United Kingdom",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "c249c30e-88ab-4b2f-a745-96a25bd7afee",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Liverpool",
+        "sort-name": "Liverpool",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "UK rock band, “The Fab Four”",
+      "isnis": [
+        "0000000121707484"
+      ],
+      "life-span": {
+        "begin": "1960-03-27",
+        "end": "1970-04-10",
+        "ended": true
+      },
+      "aliases": [
+        {
+          "sort-name": "披头士乐队",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "披头士乐队",
+          "locale": "zh_Hans_CN",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "披头士乐队",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "披头士乐队",
+          "locale": "zh_Hans",
+          "type": "Artist name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "披頭四樂團",
+          "name": "披頭四樂團",
+          "locale": "zh_Hant",
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Beatles",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Beatles",
+          "locale": "en",
+          "type": "Artist name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Beetles",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "Beetles",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "披頭四樂隊",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "披頭四樂隊",
+          "locale": "zh_Hant",
+          "type": "Artist name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "fab four",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "fab four",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Պիթլս",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Պիթլս",
+          "locale": "hy",
+          "type": "Artist name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "ဘီးတဲလ်အဖွဲ့",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "ဘီးတဲလ်အဖွဲ့",
+          "locale": "my",
+          "type": "Artist name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "द बिटल्स",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "द बिटल्स",
+          "locale": "ne",
+          "type": "Artist name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "ᱫᱚ ᱵᱤᱴᱞᱮᱥ",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "ᱫᱚ ᱵᱤᱴᱞᱮᱥ",
+          "locale": "sat",
+          "type": "Artist name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "די ביטלס",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "די ביטלס",
+          "locale": "yi",
+          "type": "Artist name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Бітлз",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Бітлз",
+          "locale": "uk",
+          "type": "Artist name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Битлз",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Битлз",
+          "locale": "ru",
+          "type": "Artist name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "披头士",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "披头士",
+          "locale": "zh_Hans",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "披頭四",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "披頭四",
+          "locale": "zh_Hant",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Silver Beatles, The",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "The Silver Beatles",
+          "locale": "en",
+          "type": "Artist name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Beatles, I",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "I Beatles",
+          "locale": "it",
+          "type": "Artist name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Beatles, Die",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Die Beatles",
+          "locale": "de",
+          "type": "Artist name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "ბითლზი",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "ბითლზი",
+          "locale": "ka",
+          "type": "Artist name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "بیٹلز",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "بیٹلز",
+          "locale": "ur",
+          "type": "Artist name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "เดอะบีเทิลส์",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "เดอะบีเทิลส์",
+          "locale": "th",
+          "type": "Artist name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "ద బీటిల్స్",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "ద బీటిల్స్",
+          "locale": "te",
+          "type": "Artist name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "பீட்டில்ஸ்",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "பீட்டில்ஸ்",
+          "locale": "ta",
+          "type": "Artist name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "ਦ ਬੀਟਲਜ਼",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "ਦ ਬੀਟਲਜ਼",
+          "locale": "pa",
+          "type": "Artist name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Битлси",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Битлси",
+          "locale": "mk",
+          "type": "Artist name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "ദി ബീറ്റിൽസ്",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "ദി ബീറ്റിൽസ്",
+          "locale": "ml",
+          "type": "Artist name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "ದಿ ಬೀಟಲ್ಸ್",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "ದಿ ಬೀಟಲ್ಸ್",
+          "locale": "kn",
+          "type": "Artist name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Bítlarnir",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Bítlarnir",
+          "locale": "is",
+          "type": "Artist name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "द बीटल्स",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "द बीटल्स",
+          "locale": "hi",
+          "type": "Artist name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "더 비틀즈",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "더 비틀즈",
+          "locale": "ko",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "הביטלס",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "הביטלס",
+          "locale": "he",
+          "type": "Artist name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "ધ બિટલ્સ",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "ધ બિટલ્સ",
+          "locale": "gu",
+          "type": "Artist name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "بیتلز",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "بیتلز",
+          "locale": "fa",
+          "type": "Artist name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "দ্য বিটল্‌স",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "দ্য বিটল্‌স",
+          "locale": "bn",
+          "type": "Artist name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "البيتلز",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "البيتلز",
+          "locale": "ar",
+          "type": "Artist name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Beatles, Los",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Los Beatles",
+          "locale": "es",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "ዘ ቢተልስ",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "ዘ ቢተልስ",
+          "locale": "am",
+          "type": "Artist name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "ビートルズ（ザ）",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "ザ・ビートルズ",
+          "locale": "ja",
+          "type": "Artist name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Beatles, Les",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Les Beatles",
+          "locale": "fr",
+          "type": "Artist name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Beatles, The",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "The Beatles",
+          "locale": "en",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 47,
+          "name": "rock"
+        },
+        {
+          "count": 28,
+          "name": "pop"
+        },
+        {
+          "count": -3,
+          "name": "progressive rock"
+        },
+        {
+          "count": -3,
+          "name": "80s"
+        },
+        {
+          "count": -6,
+          "name": "heavy metal"
+        },
+        {
+          "count": -3,
+          "name": "pop-rock"
+        },
+        {
+          "count": -5,
+          "name": "orchestral"
+        },
+        {
+          "count": -3,
+          "name": "experimental"
+        },
+        {
+          "count": 22,
+          "name": "british"
+        },
+        {
+          "count": 0,
+          "name": "uk"
+        },
+        {
+          "count": 6,
+          "name": "60s"
+        },
+        {
+          "count": -3,
+          "name": "hard rock"
+        },
+        {
+          "count": -4,
+          "name": "indie rock"
+        },
+        {
+          "count": 0,
+          "name": "folk rock"
+        },
+        {
+          "count": 7,
+          "name": "psychedelic rock"
+        },
+        {
+          "count": -4,
+          "name": "psychedelic"
+        },
+        {
+          "count": -3,
+          "name": "blues rock"
+        },
+        {
+          "count": 1,
+          "name": "britpop"
+        },
+        {
+          "count": -1,
+          "name": "art rock"
+        },
+        {
+          "count": -2,
+          "name": "folk-rock"
+        },
+        {
+          "count": -1,
+          "name": "baroque pop"
+        },
+        {
+          "count": 2,
+          "name": "classic rock"
+        },
+        {
+          "count": 0,
+          "name": "1960s"
+        },
+        {
+          "count": 16,
+          "name": "psychedelic pop"
+        },
+        {
+          "count": 0,
+          "name": "experimental rock"
+        },
+        {
+          "count": 23,
+          "name": "pop rock"
+        },
+        {
+          "count": -1,
+          "name": "europop"
+        },
+        {
+          "count": 9,
+          "name": "british invasion"
+        },
+        {
+          "count": 2,
+          "name": "rock and roll"
+        },
+        {
+          "count": -4,
+          "name": "rock roll"
+        },
+        {
+          "count": 1,
+          "name": "beat"
+        },
+        {
+          "count": 0,
+          "name": "english"
+        },
+        {
+          "count": -3,
+          "name": "sunshine pop"
+        },
+        {
+          "count": -2,
+          "name": "folk pop"
+        },
+        {
+          "count": 1,
+          "name": "rock music"
+        },
+        {
+          "count": 1,
+          "name": "liverpool"
+        },
+        {
+          "count": -4,
+          "name": "parlophone"
+        },
+        {
+          "count": -1,
+          "name": "united kingdom"
+        },
+        {
+          "count": -4,
+          "name": "hair metal"
+        },
+        {
+          "count": 1,
+          "name": "europe"
+        },
+        {
+          "count": -2,
+          "name": "1"
+        },
+        {
+          "count": -1,
+          "name": "bbc"
+        },
+        {
+          "count": 1,
+          "name": "film soundtrack"
+        },
+        {
+          "count": -1,
+          "name": "classic pop and rock"
+        },
+        {
+          "count": -1,
+          "name": "singer songwriter"
+        },
+        {
+          "count": -2,
+          "name": "classical pop"
+        },
+        {
+          "count": -1,
+          "name": "instrumental pop"
+        },
+        {
+          "count": 15,
+          "name": "merseybeat"
+        },
+        {
+          "count": -1,
+          "name": "adult alternative pop rock"
+        },
+        {
+          "count": -3,
+          "name": "tribute albums"
+        },
+        {
+          "count": -1,
+          "name": "british psychedelia"
+        },
+        {
+          "count": -1,
+          "name": "orchestral pop"
+        },
+        {
+          "count": -3,
+          "name": "pop-metal"
+        },
+        {
+          "count": 1,
+          "name": "psychedelia"
+        },
+        {
+          "count": 0,
+          "name": "male vocalists"
+        },
+        {
+          "count": -4,
+          "name": "the-beatles"
+        },
+        {
+          "count": 1,
+          "name": "mainstream rock"
+        },
+        {
+          "count": 0,
+          "name": "boys band"
+        },
+        {
+          "count": 0,
+          "name": "abbey road"
+        },
+        {
+          "count": -1,
+          "name": "rock & roll"
+        },
+        {
+          "count": -1,
+          "name": "pop/rock"
+        },
+        {
+          "count": -3,
+          "name": "rhythm & blues"
+        },
+        {
+          "count": -2,
+          "name": "overrated"
+        },
+        {
+          "count": -1,
+          "name": "psychedelic/garage"
+        },
+        {
+          "count": -2,
+          "name": "art pop"
+        },
+        {
+          "count": -2,
+          "name": "one beatles"
+        },
+        {
+          "count": 1,
+          "name": "popular music"
+        },
+        {
+          "count": -4,
+          "name": "a filk artist"
+        },
+        {
+          "count": -1,
+          "name": "british rhythm & blues"
+        },
+        {
+          "count": -2,
+          "name": "beat music"
+        },
+        {
+          "count": -1,
+          "name": "get back"
+        },
+        {
+          "count": -2,
+          "name": "favoritos"
+        },
+        {
+          "count": -1,
+          "name": "the beatles - primal colours"
+        },
+        {
+          "count": 0,
+          "name": "reino unido"
+        },
+        {
+          "count": 1,
+          "name": "rock groups"
+        },
+        {
+          "count": 1,
+          "name": "vyrzukhisuc-artiest"
+        }
+      ]
+    },
+    {
+      "id": "0383dadf-2a4e-4d10-a46a-e9e041da8eb3",
+      "type": "Group",
+      "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+      "score": 100,
+      "name": "Queen",
+      "sort-name": "Queen",
+      "country": "GB",
+      "area": {
+        "id": "8a754a16-0027-3a29-b6d7-2b40ea0481ed",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "United Kingdom",
+        "sort-name": "United Kingdom",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "f03d09b3-39dc-4083-afd6-159e3f0d462f",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "London",
+        "sort-name": "London",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "UK rock group",
+      "isnis": [
+        "0000000115265309"
+      ],
+      "life-span": {
+        "begin": "1970-06-27",
+        "ended": true
+      },
+      "aliases": [
+        {
+          "sort-name": "皇后乐队",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "皇后乐队",
+          "locale": "zh_Hans_CN",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "クイーン",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "クイーン",
+          "locale": "ja",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 43,
+          "name": "rock"
+        },
+        {
+          "count": 0,
+          "name": "pop"
+        },
+        {
+          "count": 5,
+          "name": "progressive rock"
+        },
+        {
+          "count": 0,
+          "name": "70s"
+        },
+        {
+          "count": 1,
+          "name": "80s"
+        },
+        {
+          "count": 0,
+          "name": "heavy metal"
+        },
+        {
+          "count": 0,
+          "name": "90s"
+        },
+        {
+          "count": -2,
+          "name": "pop-rock"
+        },
+        {
+          "count": 15,
+          "name": "british"
+        },
+        {
+          "count": 5,
+          "name": "uk"
+        },
+        {
+          "count": 0,
+          "name": "band"
+        },
+        {
+          "count": 21,
+          "name": "hard rock"
+        },
+        {
+          "count": 0,
+          "name": "britannique"
+        },
+        {
+          "count": -1,
+          "name": "uplifting"
+        },
+        {
+          "count": 0,
+          "name": "melodic"
+        },
+        {
+          "count": 1,
+          "name": "disco"
+        },
+        {
+          "count": 24,
+          "name": "glam rock"
+        },
+        {
+          "count": -1,
+          "name": "queen family"
+        },
+        {
+          "count": 15,
+          "name": "art rock"
+        },
+        {
+          "count": 1,
+          "name": "baroque pop"
+        },
+        {
+          "count": 0,
+          "name": "fantasy"
+        },
+        {
+          "count": 7,
+          "name": "classic rock"
+        },
+        {
+          "count": 11,
+          "name": "pop rock"
+        },
+        {
+          "count": 6,
+          "name": "symphonic rock"
+        },
+        {
+          "count": -1,
+          "name": "arena rock"
+        },
+        {
+          "count": 0,
+          "name": "english"
+        },
+        {
+          "count": 0,
+          "name": "england"
+        },
+        {
+          "count": 1,
+          "name": "united kingdom"
+        },
+        {
+          "count": 0,
+          "name": "awesome"
+        },
+        {
+          "count": 0,
+          "name": "queen"
+        },
+        {
+          "count": 1,
+          "name": "film soundtrack"
+        },
+        {
+          "count": -1,
+          "name": "classic pop and rock"
+        },
+        {
+          "count": 1,
+          "name": "eclectic"
+        },
+        {
+          "count": 1,
+          "name": "queer"
+        },
+        {
+          "count": -1,
+          "name": "platinum"
+        },
+        {
+          "count": 0,
+          "name": "energetic"
+        },
+        {
+          "count": 2,
+          "name": "beholder"
+        },
+        {
+          "count": 0,
+          "name": "playful"
+        },
+        {
+          "count": 0,
+          "name": "anthemic"
+        },
+        {
+          "count": 0,
+          "name": "mainstream rock"
+        },
+        {
+          "count": 1,
+          "name": "medley"
+        },
+        {
+          "count": -1,
+          "name": "pop/rock"
+        },
+        {
+          "count": 1,
+          "name": "80's"
+        },
+        {
+          "count": 0,
+          "name": "90's"
+        },
+        {
+          "count": 2,
+          "name": "70's"
+        },
+        {
+          "count": -1,
+          "name": "rhythmic"
+        },
+        {
+          "count": -1,
+          "name": "langham 1 studio bbc"
+        },
+        {
+          "count": 0,
+          "name": "kind of magic"
+        },
+        {
+          "count": -1,
+          "name": "bombastic"
+        },
+        {
+          "count": 3,
+          "name": "glorious"
+        },
+        {
+          "count": 0,
+          "name": "sa-town anthem"
+        },
+        {
+          "count": 0,
+          "name": "server name"
+        },
+        {
+          "count": -1,
+          "name": "awe︎some"
+        },
+        {
+          "count": 0,
+          "name": "rx27"
+        },
+        {
+          "count": 1,
+          "name": "vyrzukhisuc-artiest"
+        }
+      ]
+    },
+    {
+      "id": "f27ec8db-af05-4f36-916e-3d57f91ecf5e",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 100,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Michael Jackson",
+      "sort-name": "Jackson, Michael",
+      "gender": "male",
+      "country": "US",
+      "area": {
+        "id": "489ce91b-6658-3307-9877-795b68554c98",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "United States",
+        "sort-name": "United States",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "34357067-8f7f-4c7a-8d5e-99b6e60f7891",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Gary",
+        "sort-name": "Gary",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "end-area": {
+        "id": "1f40c6e1-47ba-4e35-996f-fe6ee5840e62",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Los Angeles",
+        "sort-name": "Los Angeles",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "“King of Pop”",
+      "ipis": [
+        "00002961801",
+        "00523553664"
+      ],
+      "isnis": [
+        "000000011023081X"
+      ],
+      "life-span": {
+        "begin": "1958-08-29",
+        "end": "2009-06-25",
+        "ended": true
+      },
+      "aliases": [
+        {
+          "sort-name": "Jackson, Michael Joe",
+          "name": "Michael Joe Jackson",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "JACKSON MICHAEL JOE",
+          "name": "JACKSON MICHAEL JOE",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Jackson, Michael Joseph",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Michael Joseph Jackson",
+          "locale": null,
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Michaël Jackson",
+          "name": "Michaël Jackson",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Michel Jackson",
+          "name": "Michel Jackson",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Mozart, W.A.",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "W.A. Mozart",
+          "locale": null,
+          "type": "Artist name",
+          "primary": null,
+          "begin-date": "1997",
+          "end-date": "1997"
+        },
+        {
+          "sort-name": "MJ",
+          "name": "MJ",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "迈克尔·杰克逊",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "迈克尔·杰克逊",
+          "locale": "yue_Hans_CN",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "迈克尔·杰克逊",
+          "name": "迈克尔·杰克逊",
+          "locale": "zh_Hans",
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Майкл Джексон",
+          "name": "Майкл Джексон",
+          "locale": "ru",
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "マイケル・ジャクソン",
+          "name": "マイケル・ジャクソン",
+          "locale": "ja",
+          "type": null,
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "마이클 잭슨",
+          "name": "마이클 잭슨",
+          "locale": "ko",
+          "type": null,
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Micheal",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "Micheal",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Jackson, Michael",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Michael Jackson",
+          "locale": "en",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 0,
+          "name": "rock"
+        },
+        {
+          "count": 34,
+          "name": "pop"
+        },
+        {
+          "count": 1,
+          "name": "dance"
+        },
+        {
+          "count": 1,
+          "name": "american"
+        },
+        {
+          "count": 0,
+          "name": "blues"
+        },
+        {
+          "count": 1,
+          "name": "hip hop"
+        },
+        {
+          "count": -1,
+          "name": "singer"
+        },
+        {
+          "count": -1,
+          "name": "usa"
+        },
+        {
+          "count": 0,
+          "name": "funk"
+        },
+        {
+          "count": 5,
+          "name": "soul"
+        },
+        {
+          "count": 18,
+          "name": "disco"
+        },
+        {
+          "count": -1,
+          "name": "rnb"
+        },
+        {
+          "count": -1,
+          "name": "composer"
+        },
+        {
+          "count": -1,
+          "name": "américain"
+        },
+        {
+          "count": -1,
+          "name": "lyricist"
+        },
+        {
+          "count": 20,
+          "name": "dance-pop"
+        },
+        {
+          "count": 3,
+          "name": "pop rock"
+        },
+        {
+          "count": 1,
+          "name": "pop rap"
+        },
+        {
+          "count": 1,
+          "name": "boogie"
+        },
+        {
+          "count": -1,
+          "name": "rhythm and blues"
+        },
+        {
+          "count": 3,
+          "name": "new jack swing"
+        },
+        {
+          "count": 0,
+          "name": "folk pop"
+        },
+        {
+          "count": -1,
+          "name": "parolier"
+        },
+        {
+          "count": -1,
+          "name": "chanteur"
+        },
+        {
+          "count": -1,
+          "name": "compositeur"
+        },
+        {
+          "count": 0,
+          "name": "motown"
+        },
+        {
+          "count": -1,
+          "name": "classic pop and rock"
+        },
+        {
+          "count": -1,
+          "name": "cool"
+        },
+        {
+          "count": -1,
+          "name": "united states"
+        },
+        {
+          "count": 9,
+          "name": "pop soul"
+        },
+        {
+          "count": -1,
+          "name": "michael-jackson"
+        },
+        {
+          "count": -1,
+          "name": "contemporary rnb"
+        },
+        {
+          "count": 3,
+          "name": "post-disco"
+        },
+        {
+          "count": 4,
+          "name": "r&b"
+        },
+        {
+          "count": 17,
+          "name": "contemporary r&b"
+        },
+        {
+          "count": 0,
+          "name": "death by drug overdose"
+        },
+        {
+          "count": 0,
+          "name": "cultural icon"
+        }
+      ]
+    },
+    {
+      "id": "79239441-bfd5-4981-a70c-55c3f15c1287",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 100,
+      "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2",
+      "name": "Madonna",
+      "sort-name": "Madonna",
+      "gender": "female",
+      "country": "US",
+      "area": {
+        "id": "489ce91b-6658-3307-9877-795b68554c98",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "United States",
+        "sort-name": "United States",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "903111d9-9dc2-4129-b08a-3cf52bc72757",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Bay City",
+        "sort-name": "Bay City",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "“Queen of Pop”",
+      "ipis": [
+        "00125053706",
+        "00128246872",
+        "00211854787"
+      ],
+      "isnis": [
+        "000000010782262X"
+      ],
+      "life-span": {
+        "begin": "1958-08-16",
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "Ciccone, Madonna Louise",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "麥當娜",
+          "locale": "zh_Hant",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Ciccone, Madonna Louise Veronica",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Madonna Louise Veronica Ciccone",
+          "locale": null,
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "マドンナ",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "マドンナ",
+          "locale": "ja",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Ciccone-Ritchie, Madonna",
+          "name": "Madonna Ciccone-Ritchie",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Ciccone, Madonna Louise",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Madonna Louise Ciccone",
+          "locale": null,
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Madonna",
+          "name": "Madonna",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "M. Ciccone",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "M. Ciccone",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 2,
+          "name": "electronic"
+        },
+        {
+          "count": -1,
+          "name": "downtempo"
+        },
+        {
+          "count": 32,
+          "name": "pop"
+        },
+        {
+          "count": 0,
+          "name": "80s"
+        },
+        {
+          "count": 2,
+          "name": "jazz"
+        },
+        {
+          "count": 0,
+          "name": "dance"
+        },
+        {
+          "count": -2,
+          "name": "american"
+        },
+        {
+          "count": -2,
+          "name": "arabic"
+        },
+        {
+          "count": 1,
+          "name": "new wave"
+        },
+        {
+          "count": -2,
+          "name": "singer"
+        },
+        {
+          "count": -2,
+          "name": "usa"
+        },
+        {
+          "count": 1,
+          "name": "easy listening"
+        },
+        {
+          "count": 2,
+          "name": "electronica"
+        },
+        {
+          "count": 3,
+          "name": "synth-pop"
+        },
+        {
+          "count": 6,
+          "name": "electropop"
+        },
+        {
+          "count": -2,
+          "name": "américain"
+        },
+        {
+          "count": 1,
+          "name": "female vocals"
+        },
+        {
+          "count": 14,
+          "name": "dance-pop"
+        },
+        {
+          "count": 1,
+          "name": "adult contemporary"
+        },
+        {
+          "count": 2,
+          "name": "pop rock"
+        },
+        {
+          "count": 1,
+          "name": "country pop"
+        },
+        {
+          "count": 1,
+          "name": "trip hop"
+        },
+        {
+          "count": 1,
+          "name": "club"
+        },
+        {
+          "count": -2,
+          "name": "chanteur"
+        },
+        {
+          "count": -2,
+          "name": "greatest hits"
+        },
+        {
+          "count": -2,
+          "name": "tell me"
+        },
+        {
+          "count": 1,
+          "name": "edm"
+        },
+        {
+          "count": -2,
+          "name": "pop and chart"
+        },
+        {
+          "count": 2,
+          "name": "dance music"
+        },
+        {
+          "count": 2,
+          "name": "folk music"
+        },
+        {
+          "count": -2,
+          "name": "multiple ipi"
+        },
+        {
+          "count": 2,
+          "name": "contemporary pop/rock"
+        },
+        {
+          "count": 4,
+          "name": "contemporary r&b"
+        },
+        {
+          "count": 7,
+          "name": "art pop"
+        },
+        {
+          "count": 1,
+          "name": "bubblegum pop"
+        },
+        {
+          "count": -2,
+          "name": "secret"
+        },
+        {
+          "count": 1,
+          "name": "adult contemporary music"
+        },
+        {
+          "count": 0,
+          "name": "nuno"
+        }
+      ]
+    },
+    {
+      "id": "20244d07-534f-4eff-b4d4-930878889970",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 100,
+      "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2",
+      "name": "Taylor Swift",
+      "sort-name": "Swift, Taylor",
+      "gender": "female",
+      "country": "US",
+      "area": {
+        "id": "489ce91b-6658-3307-9877-795b68554c98",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "United States",
+        "sort-name": "United States",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "bfb8ed5a-7342-4a01-a1f2-94e620c3416b",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "West Reading",
+        "sort-name": "West Reading",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "ipis": [
+        "00454808047",
+        "00454808145",
+        "00454808243",
+        "00804356845"
+      ],
+      "isnis": [
+        "0000000078519858"
+      ],
+      "life-span": {
+        "begin": "1989-12-13",
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "泰勒丝",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "泰勒丝",
+          "locale": "zh_Hans_SG",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "泰勒·斯威夫特",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "泰勒·斯威夫特",
+          "locale": "zh",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "טעילאר סוויפט",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "טעילאר סוויפט",
+          "locale": "yi",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "ٹیلر سوئفٹ",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "ٹیلر سوئفٹ",
+          "locale": "ur",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Тейлор Свіфт",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Тейлор Свіфт",
+          "locale": "uk",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Teýlor Swift",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Teýlor Swift",
+          "locale": "tk",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "เทย์เลอร์ สวิฟต์",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "เทย์เลอร์ สวิฟต์",
+          "locale": "th",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "టేలర్ స్విఫ్ట్",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "టేలర్ స్విఫ్ట్",
+          "locale": "te",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "டேலர் ஸ்விஃப்ட்",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "டேலர் ஸ்விஃப்ட்",
+          "locale": "ta",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Тејлор Свифт",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Тејлор Свифт",
+          "locale": "sr",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "ٹیلر سوئفٹ",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "ٹیلر سوئفٹ",
+          "locale": "skr",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Swiftová, Taylor",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Taylor Swiftová",
+          "locale": "sk",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "ටේලර් ස්විෆ්ට්",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "ටේලර් ස්විෆ්ට්",
+          "locale": "si",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Swift, Taylur",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Taylur Swift",
+          "locale": "shi",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Тэйлор Суифт",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Тэйлор Суифт",
+          "locale": "sah",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Тейлор Свифт",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Тейлор Свифт",
+          "locale": "ru",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "ਟੇਲਰ ਸਵਿਫਟ",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "ਟੇਲਰ ਸਵਿਫਟ",
+          "locale": "pa_Guru",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "ٹیلر سوئفٹ",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "ٹیلر سوئفٹ",
+          "locale": "pa_Arab",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "टेलर स्विफ्ट",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "टेलर स्विफ्ट",
+          "locale": "ne",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "တေလာဆွစ်ဖ်",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "တေလာဆွစ်ဖ်",
+          "locale": "my",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "टेलर स्विफ्ट",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "टेलर स्विफ्ट",
+          "locale": "mr",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Тэйлор Свифт",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Тэйлор Свифт",
+          "locale": "mn",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "ടെയിലർ സ്വിഫ്റ്റ്",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "ടെയിലർ സ്വിഫ്റ്റ്",
+          "locale": "ml",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Тејлор Свифт",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Тејлор Свифт",
+          "locale": "mk",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "टेलर स्विफ्ट",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "टेलर स्विफ्ट",
+          "locale": "mai",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Teilora Svifta",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Teilora Svifta",
+          "locale": "lv",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "ເທເລໍ່ ສວິຟ",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "ເທເລໍ່ ສວິຟ",
+          "locale": "lo",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Тейлор Свифт",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Тейлор Свифт",
+          "locale": "ky",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "ٹیلر سوئفٹ",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "ٹیلر سوئفٹ",
+          "locale": "ks",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "ಟೈಲರ್ ಸ್ವಿಫ್ಟ್",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "ಟೈಲರ್ ಸ್ವಿಫ್ಟ್",
+          "locale": "kn",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "ថេល័រ ស្វីហ្វត៍",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "ថេល័រ ស្វីហ្វត៍",
+          "locale": "km",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Тейлор Свифт",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Тейлор Свифт",
+          "locale": "kk",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "ტეილორ სვიფტი",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "ტეილორ სვიფტი",
+          "locale": "ka",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Թէյլըր Սուիֆթ",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Թէյլըր Սուիֆթ",
+          "locale": "hy",
+          "type": "Artist name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Թեյլոր Սվիֆթ",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Թեյլոր Սվիֆթ",
+          "locale": "hy",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "टेलर स्विफ्ट",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "टेलर स्विफ्ट",
+          "locale": "hi",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "טיילור סוויפט",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "טיילור סוויפט",
+          "locale": "he",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "تیلور سوئیفت",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "تیلور سوئیفت",
+          "locale": "fa",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Τέιλορ Σουίφτ",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Τέιλορ Σουίφτ",
+          "locale": "el",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Swiftová, Taylor",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Taylor Swiftová",
+          "locale": "cs",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "تایلر سویفت",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "تایلر سویفت",
+          "locale": "ku",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Svift, Teylor",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "تیلور سوئیفت",
+          "locale": "az",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "টেইলর সুইফট",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "টেইলর সুইফট",
+          "locale": "bn",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "टेलर स्विफ्ट",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "टेलर स्विफ्ट",
+          "locale": "bho",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Тейлър Суифт",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Тейлър Суифт",
+          "locale": "bg",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Тэйлар Свіфт",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Тэйлар Свіфт",
+          "locale": "be",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "টেইলৰ ছুইফ্ট",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "টেইলৰ ছুইফ্ট",
+          "locale": "as",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Meimei",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "霉霉",
+          "locale": "zh",
+          "type": "Artist name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Taylor Swift",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "テイラー・スウィフト",
+          "locale": "ja",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Taylor Swift",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "테일러 스위프트",
+          "locale": "ko",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Swift, Taylor",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "泰勒·史薇芙特",
+          "locale": "zh_Hans",
+          "type": "Artist name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Swift, Taylor",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Taylor Swift",
+          "locale": "en",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Swift, Taylor Alison",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Taylor Alison Swift",
+          "locale": "en",
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "T-Swizzle",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "T-Swizzle",
+          "locale": "en",
+          "type": "Artist name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Swift, Taylor Alison, Dr.",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Dr. Taylor Alison Swift",
+          "locale": "en",
+          "type": "Artist name",
+          "primary": null,
+          "begin-date": "2022-05-18",
+          "end-date": null
+        },
+        {
+          "sort-name": "Tàilēi sī",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "泰勒絲",
+          "locale": "zh_Hant_TW",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Sjöberg, Nils",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Nils Sjöberg",
+          "locale": "sv",
+          "type": "Artist name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 38,
+          "name": "pop"
+        },
+        {
+          "count": 11,
+          "name": "singer-songwriter"
+        },
+        {
+          "count": 25,
+          "name": "country"
+        },
+        {
+          "count": 6,
+          "name": "synth-pop"
+        },
+        {
+          "count": 3,
+          "name": "electropop"
+        },
+        {
+          "count": 1,
+          "name": "americana"
+        },
+        {
+          "count": 17,
+          "name": "female vocals"
+        },
+        {
+          "count": 2,
+          "name": "indie pop"
+        },
+        {
+          "count": 11,
+          "name": "icon"
+        },
+        {
+          "count": 4,
+          "name": "2000s"
+        },
+        {
+          "count": 1,
+          "name": "dance-pop"
+        },
+        {
+          "count": 4,
+          "name": "indie folk"
+        },
+        {
+          "count": 8,
+          "name": "pop rock"
+        },
+        {
+          "count": 24,
+          "name": "country pop"
+        },
+        {
+          "count": 3,
+          "name": "alternative pop"
+        },
+        {
+          "count": 2,
+          "name": "folk pop"
+        },
+        {
+          "count": 2,
+          "name": "chamber pop"
+        },
+        {
+          "count": 7,
+          "name": "contemporary country"
+        },
+        {
+          "count": 2,
+          "name": "teen pop"
+        },
+        {
+          "count": 1,
+          "name": "top 40"
+        },
+        {
+          "count": -1,
+          "name": "country-pop"
+        },
+        {
+          "count": -2,
+          "name": "taylor-swift"
+        },
+        {
+          "count": 3,
+          "name": "re-recording"
+        },
+        {
+          "count": 20,
+          "name": "singer/songwriter"
+        },
+        {
+          "count": 2,
+          "name": "list"
+        },
+        {
+          "count": 11,
+          "name": "2010s"
+        },
+        {
+          "count": -2,
+          "name": "fixme label mess"
+        },
+        {
+          "count": -2,
+          "name": "hp"
+        },
+        {
+          "count": 3,
+          "name": "millennial"
+        },
+        {
+          "count": 1,
+          "name": "relic inn"
+        },
+        {
+          "count": 11,
+          "name": "2020s"
+        },
+        {
+          "count": -2,
+          "name": "loves planes"
+        },
+        {
+          "count": 4,
+          "name": "late 2000s"
+        },
+        {
+          "count": 2,
+          "name": "nuno"
+        },
+        {
+          "count": 4,
+          "name": "artist of the decade"
+        },
+        {
+          "count": 3,
+          "name": "cultural icon"
+        }
+      ]
+    },
+    {
+      "id": "9fff2f8a-21e6-47de-a2b8-7f449929d43f",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 100,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Drake",
+      "sort-name": "Drake",
+      "gender": "male",
+      "country": "CA",
+      "area": {
+        "id": "71bbafaa-e825-3e15-8ca9-017dcad1748b",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Canada",
+        "sort-name": "Canada",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "74b24e62-d2fe-42d2-9d96-31f2da756c77",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Toronto",
+        "sort-name": "Toronto",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "Canadian rapper",
+      "ipis": [
+        "00529397022"
+      ],
+      "isnis": [
+        "000000012032246X"
+      ],
+      "life-span": {
+        "begin": "1986-10-24",
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "Drake",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "ドレイク",
+          "locale": "ja_JP",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Champagne Papi",
+          "name": "Champagne Papi",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Graham, Aubrey Drake",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Aubrey Drake Graham",
+          "locale": null,
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "C. Papi",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "C. Papi",
+          "locale": null,
+          "type": "Artist name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 2,
+          "name": "pop"
+        },
+        {
+          "count": 1,
+          "name": "rap"
+        },
+        {
+          "count": 2,
+          "name": "hip-hop"
+        },
+        {
+          "count": 17,
+          "name": "hip hop"
+        },
+        {
+          "count": 1,
+          "name": "southern hip hop"
+        },
+        {
+          "count": 6,
+          "name": "pop rap"
+        },
+        {
+          "count": 0,
+          "name": "rapper"
+        },
+        {
+          "count": -1,
+          "name": "lesbian"
+        },
+        {
+          "count": 1,
+          "name": "sxsw"
+        },
+        {
+          "count": 1,
+          "name": "top 100"
+        },
+        {
+          "count": 7,
+          "name": "r&b"
+        },
+        {
+          "count": 5,
+          "name": "contemporary r&b"
+        },
+        {
+          "count": 0,
+          "name": "2010s"
+        },
+        {
+          "count": 1,
+          "name": "hardcore hip hop"
+        },
+        {
+          "count": 4,
+          "name": "alternative r&b"
+        },
+        {
+          "count": 3,
+          "name": "trap"
+        },
+        {
+          "count": 0,
+          "name": "canadian hip hop"
+        },
+        {
+          "count": 2,
+          "name": "trap rap"
+        },
+        {
+          "count": -1,
+          "name": "rap us"
+        },
+        {
+          "count": 1,
+          "name": "top 10"
+        },
+        {
+          "count": -1,
+          "name": "hardcore hip"
+        },
+        {
+          "count": -1,
+          "name": "cotm candidate"
+        },
+        {
+          "count": 0,
+          "name": "luxury rap"
+        },
+        {
+          "count": 0,
+          "name": "relic inn"
+        },
+        {
+          "count": 0,
+          "name": "2020s"
+        },
+        {
+          "count": 0,
+          "name": "pedophilia"
+        },
+        {
+          "count": 1,
+          "name": "top 5"
+        }
+      ]
+    },
+    {
+      "id": "859d0860-d480-4efd-970c-c05d5f1776b8",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 100,
+      "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2",
+      "name": "Beyoncé",
+      "sort-name": "Beyoncé",
+      "gender": "female",
+      "country": "US",
+      "area": {
+        "id": "489ce91b-6658-3307-9877-795b68554c98",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "United States",
+        "sort-name": "United States",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "c920948b-83e3-40b7-8fe9-9ab5abaac55b",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Houston",
+        "sort-name": "Houston",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "ipis": [
+        "00341826274"
+      ],
+      "isnis": [
+        "0000000114914936"
+      ],
+      "life-span": {
+        "begin": "1981-09-04",
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "碧昂絲",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "碧昂絲",
+          "locale": "zh_Hant_TW",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Beyoncé",
+          "name": "Beyoncé",
+          "locale": "zh_Hans_CN",
+          "type": null,
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Knowles-Carter, Beyoncé",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Beyoncé Knowles-Carter",
+          "locale": "en",
+          "type": "Artist name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "ビヨンセ",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "ビヨンセ",
+          "locale": "ja",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Beyonce",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "Beyonce",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Beyonce'",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "Beyonce'",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "B1C",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "B1C",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Knowles-Carter, Beyoncé Giselle",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Beyoncé Giselle Knowles-Carter",
+          "locale": "en",
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": "2008-04-04",
+          "end-date": null
+        },
+        {
+          "sort-name": "Knowles, Beyoncé Giselle",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Beyoncé Giselle Knowles",
+          "locale": "en",
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": "1981-09-04",
+          "end-date": "2008-04-03"
+        },
+        {
+          "sort-name": "Knowles, Beyoncé",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Beyoncé Knowles",
+          "locale": "en",
+          "type": "Artist name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Queen Bey",
+          "name": "Queen Bey",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 19,
+          "name": "pop"
+        },
+        {
+          "count": 0,
+          "name": "rap"
+        },
+        {
+          "count": 4,
+          "name": "dance"
+        },
+        {
+          "count": 2,
+          "name": "house"
+        },
+        {
+          "count": 2,
+          "name": "american"
+        },
+        {
+          "count": 3,
+          "name": "vocalist"
+        },
+        {
+          "count": 2,
+          "name": "singer-songwriter"
+        },
+        {
+          "count": 4,
+          "name": "hip hop"
+        },
+        {
+          "count": -2,
+          "name": "hard rock"
+        },
+        {
+          "count": 1,
+          "name": "funk"
+        },
+        {
+          "count": 2,
+          "name": "country"
+        },
+        {
+          "count": 1,
+          "name": "bass"
+        },
+        {
+          "count": 0,
+          "name": "actress"
+        },
+        {
+          "count": 6,
+          "name": "soul"
+        },
+        {
+          "count": 1,
+          "name": "electropop"
+        },
+        {
+          "count": 2,
+          "name": "disco"
+        },
+        {
+          "count": -2,
+          "name": "rnb"
+        },
+        {
+          "count": 1,
+          "name": "pianist"
+        },
+        {
+          "count": 1,
+          "name": "americana"
+        },
+        {
+          "count": 0,
+          "name": "director"
+        },
+        {
+          "count": 1,
+          "name": "southern hip hop"
+        },
+        {
+          "count": 0,
+          "name": "icon"
+        },
+        {
+          "count": 3,
+          "name": "2000s"
+        },
+        {
+          "count": 5,
+          "name": "dance-pop"
+        },
+        {
+          "count": 2,
+          "name": "adult contemporary"
+        },
+        {
+          "count": 0,
+          "name": "pop rock"
+        },
+        {
+          "count": 8,
+          "name": "pop rap"
+        },
+        {
+          "count": 1,
+          "name": "neo soul"
+        },
+        {
+          "count": 1,
+          "name": "progressive house"
+        },
+        {
+          "count": 1,
+          "name": "club"
+        },
+        {
+          "count": 2,
+          "name": "dancer"
+        },
+        {
+          "count": -3,
+          "name": "hip hop rnb and dance hall"
+        },
+        {
+          "count": 1,
+          "name": "hip hop soul"
+        },
+        {
+          "count": 1,
+          "name": "contemporary country"
+        },
+        {
+          "count": 2,
+          "name": "teen pop"
+        },
+        {
+          "count": 2,
+          "name": "pop soul"
+        },
+        {
+          "count": 1,
+          "name": "sxsw"
+        },
+        {
+          "count": 1,
+          "name": "top 100"
+        },
+        {
+          "count": 3,
+          "name": "grammy winner"
+        },
+        {
+          "count": 15,
+          "name": "r&b"
+        },
+        {
+          "count": 0,
+          "name": "singer/songwriter"
+        },
+        {
+          "count": 8,
+          "name": "contemporary r&b"
+        },
+        {
+          "count": 3,
+          "name": "2010s"
+        },
+        {
+          "count": -1,
+          "name": "mbs-333"
+        },
+        {
+          "count": 0,
+          "name": "art pop"
+        },
+        {
+          "count": 2,
+          "name": "alternative r&b"
+        },
+        {
+          "count": 0,
+          "name": "moombahton"
+        },
+        {
+          "count": 2,
+          "name": "trap"
+        },
+        {
+          "count": 1,
+          "name": "slim thug"
+        },
+        {
+          "count": -2,
+          "name": "contemporary pop"
+        },
+        {
+          "count": 1,
+          "name": "future bass"
+        },
+        {
+          "count": 1,
+          "name": "top 10"
+        },
+        {
+          "count": 1,
+          "name": "texas rapper"
+        },
+        {
+          "count": 3,
+          "name": "2020s"
+        },
+        {
+          "count": 1,
+          "name": "texas music"
+        },
+        {
+          "count": 0,
+          "name": "nuno"
+        },
+        {
+          "count": 2,
+          "name": "cultural icon"
+        },
+        {
+          "count": -1,
+          "name": "businesswoman"
+        },
+        {
+          "count": -1,
+          "name": "philanthropist"
+        },
+        {
+          "count": 1,
+          "name": "houston texas music"
+        },
+        {
+          "count": 1,
+          "name": "best female artist"
+        },
+        {
+          "count": 1,
+          "name": "top 5"
+        },
+        {
+          "count": 1,
+          "name": "best female emcee"
+        },
+        {
+          "count": 1,
+          "name": "best female rapper"
+        }
+      ]
+    },
+    {
+      "id": "b95ce3ff-3d05-4e87-9e01-c97b66af13d4",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 100,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Eminem",
+      "sort-name": "Eminem",
+      "gender": "male",
+      "country": "US",
+      "area": {
+        "id": "489ce91b-6658-3307-9877-795b68554c98",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "United States",
+        "sort-name": "United States",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "bfae8151-2ba2-4f8f-bf2e-8fc16ce352c6",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "St. Joseph",
+        "sort-name": "St. Joseph",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "US rapper",
+      "ipis": [
+        "00354929235",
+        "00354929431"
+      ],
+      "isnis": [
+        "0000000117699370",
+        "0000000368611900"
+      ],
+      "life-span": {
+        "begin": "1972-10-17",
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "Mathers, Marshall",
+          "name": "Marshall Mathers",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Mathers, Marshall Bruce, III",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Marshall Bruce Mathers III",
+          "locale": null,
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Marshall Bruce Mathers",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "Marshall Bruce Mathers",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "M. Mathers",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "M. Mathers",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Marshall Mathers III",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "Marshall Mathers III",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Slim Shady",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Slim Shady",
+          "locale": "en",
+          "type": "Artist name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "에미넴",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "에미넴",
+          "locale": "ko",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "EminemMusic",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "EminemMusic",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "M&M",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "M&M",
+          "locale": null,
+          "type": "Artist name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Em",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Em",
+          "locale": null,
+          "type": "Artist name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Ominem",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "Ominem",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "The Real Slim Shady",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "The Real Slim Shady",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "エミネム",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "エミネム",
+          "locale": "ja",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Eminem",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Eminem",
+          "locale": "en",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "EMINƎM",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "EMINƎM",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": -2,
+          "name": "turkish"
+        },
+        {
+          "count": 0,
+          "name": "90s"
+        },
+        {
+          "count": 16,
+          "name": "rap"
+        },
+        {
+          "count": 0,
+          "name": "american"
+        },
+        {
+          "count": 4,
+          "name": "hip-hop"
+        },
+        {
+          "count": 1,
+          "name": "actor"
+        },
+        {
+          "count": 37,
+          "name": "hip hop"
+        },
+        {
+          "count": 1,
+          "name": "songwriter"
+        },
+        {
+          "count": 1,
+          "name": "singer"
+        },
+        {
+          "count": 8,
+          "name": "detroit"
+        },
+        {
+          "count": -1,
+          "name": "hiphop"
+        },
+        {
+          "count": 0,
+          "name": "2000s"
+        },
+        {
+          "count": 0,
+          "name": "midwest hip-hop"
+        },
+        {
+          "count": 0,
+          "name": "detroit hip-hop"
+        },
+        {
+          "count": 0,
+          "name": "gangsta rap"
+        },
+        {
+          "count": 6,
+          "name": "pop rap"
+        },
+        {
+          "count": 1,
+          "name": "record producer"
+        },
+        {
+          "count": 0,
+          "name": "english"
+        },
+        {
+          "count": 1,
+          "name": "horrorcore"
+        },
+        {
+          "count": 0,
+          "name": "rapper"
+        },
+        {
+          "count": 0,
+          "name": "us"
+        },
+        {
+          "count": -1,
+          "name": "pop and chart"
+        },
+        {
+          "count": 0,
+          "name": "eminem"
+        },
+        {
+          "count": -1,
+          "name": "8 mile"
+        },
+        {
+          "count": 3,
+          "name": "boom bap"
+        },
+        {
+          "count": 0,
+          "name": "v"
+        },
+        {
+          "count": -1,
+          "name": "comedy rap"
+        },
+        {
+          "count": 5,
+          "name": "midwest hip hop"
+        },
+        {
+          "count": 2,
+          "name": "conscious hip hop"
+        },
+        {
+          "count": 7,
+          "name": "hardcore hip hop"
+        },
+        {
+          "count": 1,
+          "name": "trap"
+        },
+        {
+          "count": -1,
+          "name": "kun"
+        },
+        {
+          "count": 5,
+          "name": "detroit hip hop"
+        },
+        {
+          "count": 0,
+          "name": "relic inn"
+        },
+        {
+          "count": 1,
+          "name": "2008 universal fire victim"
+        },
+        {
+          "count": 0,
+          "name": "midwestern hip hop"
+        },
+        {
+          "count": 0,
+          "name": "rap god"
+        },
+        {
+          "count": 2,
+          "name": "midwestern hip-hop"
+        },
+        {
+          "count": 1,
+          "name": "music trade"
+        }
+      ]
+    },
+    {
+      "id": "cc197bad-dc9c-440d-a5b5-d52ba2e14234",
+      "type": "Group",
+      "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+      "score": 100,
+      "name": "Coldplay",
+      "sort-name": "Coldplay",
+      "country": "GB",
+      "area": {
+        "id": "8a754a16-0027-3a29-b6d7-2b40ea0481ed",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "United Kingdom",
+        "sort-name": "United Kingdom",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "f03d09b3-39dc-4083-afd6-159e3f0d462f",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "London",
+        "sort-name": "London",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "isnis": [
+        "000000011551394X"
+      ],
+      "life-span": {
+        "begin": "1996-09",
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "Coolplay",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "Coolplay",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "콜드플레이",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "콜드플레이",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "コールドプレイ",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "コールドプレイ",
+          "locale": "ja",
+          "type": "Artist name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Cold Play",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "Cold Play",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Coldplay, The",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "The Coldplay",
+          "locale": null,
+          "type": "Artist name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": "1998"
+        }
+      ],
+      "tags": [
+        {
+          "count": 4,
+          "name": "rock"
+        },
+        {
+          "count": 13,
+          "name": "pop"
+        },
+        {
+          "count": 33,
+          "name": "alternative rock"
+        },
+        {
+          "count": 10,
+          "name": "british"
+        },
+        {
+          "count": 2,
+          "name": "uk"
+        },
+        {
+          "count": 0,
+          "name": "britannique"
+        },
+        {
+          "count": 0,
+          "name": "indie rock"
+        },
+        {
+          "count": 1,
+          "name": "britpop"
+        },
+        {
+          "count": 0,
+          "name": "indie pop"
+        },
+        {
+          "count": 11,
+          "name": "pop rock"
+        },
+        {
+          "count": 0,
+          "name": "piano pop"
+        },
+        {
+          "count": 1,
+          "name": "dream pop"
+        },
+        {
+          "count": 2,
+          "name": "piano rock"
+        },
+        {
+          "count": 0,
+          "name": "english"
+        },
+        {
+          "count": 0,
+          "name": "parlophone"
+        },
+        {
+          "count": 0,
+          "name": "rock and indie"
+        },
+        {
+          "count": 0,
+          "name": "ambient pop"
+        },
+        {
+          "count": 0,
+          "name": "pop/rock"
+        },
+        {
+          "count": 1,
+          "name": "art pop"
+        },
+        {
+          "count": 0,
+          "name": "chapel"
+        },
+        {
+          "count": 3,
+          "name": "post-britpop"
+        },
+        {
+          "count": 0,
+          "name": "big music"
+        }
+      ]
+    },
+    {
+      "id": "cc2c9c3c-b7bc-4b8b-84d8-4fbd8779e493",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 100,
+      "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2",
+      "name": "Adele",
+      "sort-name": "Adele",
+      "gender": "female",
+      "country": "GB",
+      "area": {
+        "id": "8a754a16-0027-3a29-b6d7-2b40ea0481ed",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "United Kingdom",
+        "sort-name": "United Kingdom",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "e944407f-dc30-419d-81f7-a991d92a56ef",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Tottenham",
+        "sort-name": "Tottenham",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "UK soul/jazz singer",
+      "ipis": [
+        "00544476240"
+      ],
+      "isnis": [
+        "0000000123144259"
+      ],
+      "life-span": {
+        "begin": "1988-05-05",
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "Adèle",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "Adèle",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "아델",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "아델",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Adele Adkins",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Adele Adkins",
+          "locale": null,
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Adele",
+          "name": "Adele",
+          "locale": "en_GB",
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "アデル",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "アデル",
+          "locale": "ja",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Adkins, Adele Laurie Blue",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Adele Laurie Blue Adkins",
+          "locale": null,
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "阿黛尔",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "阿黛尔",
+          "locale": "zh_Hans",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 7,
+          "name": "pop"
+        },
+        {
+          "count": -1,
+          "name": "jazz"
+        },
+        {
+          "count": -1,
+          "name": "singer"
+        },
+        {
+          "count": 5,
+          "name": "soul"
+        },
+        {
+          "count": 0,
+          "name": "adult contemporary"
+        },
+        {
+          "count": 3,
+          "name": "blue-eyed soul"
+        },
+        {
+          "count": 2,
+          "name": "neo soul"
+        },
+        {
+          "count": -1,
+          "name": "pop and chart"
+        },
+        {
+          "count": 3,
+          "name": "pop soul"
+        },
+        {
+          "count": -1,
+          "name": "blue eyed soul"
+        },
+        {
+          "count": 1,
+          "name": "r&b"
+        },
+        {
+          "count": 0,
+          "name": "adele"
+        },
+        {
+          "count": -1,
+          "name": "alternative/indie rock"
+        },
+        {
+          "count": -1,
+          "name": "adult alternative pop/rock"
+        },
+        {
+          "count": 1,
+          "name": "2010s"
+        },
+        {
+          "count": 1,
+          "name": "blues-pop"
+        },
+        {
+          "count": -1,
+          "name": "english singer"
+        },
+        {
+          "count": 0,
+          "name": "music for soccer moms"
+        },
+        {
+          "count": 1,
+          "name": "aln-sh"
+        }
+      ]
+    },
+    {
+      "id": "73e5e69d-3554-40d8-8516-00cb38737a1c",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 100,
+      "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2",
+      "name": "Rihanna",
+      "sort-name": "Rihanna",
+      "gender": "female",
+      "country": "US",
+      "area": {
+        "id": "489ce91b-6658-3307-9877-795b68554c98",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "United States",
+        "sort-name": "United States",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "9c9f7376-5b09-4947-8741-e106e947472c",
+        "type": "Subdivision",
+        "type-id": "fd3d44c5-80a1-3842-9745-2c4972d35afa",
+        "name": "Saint Michael",
+        "sort-name": "Saint Michael",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "Barbadian R&B/pop singer",
+      "ipis": [
+        "00479976469",
+        "00479976665",
+        "00486793099"
+      ],
+      "isnis": [
+        "0000000114766419"
+      ],
+      "life-span": {
+        "begin": "1988-02-20",
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "리아나",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "리아나",
+          "locale": "ko",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "リアーナ",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "リアーナ",
+          "locale": "ja",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "蕾哈娜",
+          "name": "蕾哈娜",
+          "locale": "zh",
+          "type": null,
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Rhianna",
+          "name": "Rhianna",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Riannah",
+          "name": "Riannah",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Rihanna",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Rihanna",
+          "locale": "en",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "RiRi",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "RiRi",
+          "locale": null,
+          "type": "Artist name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Fenty, Robyn Rihanna",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Robyn Rihanna Fenty",
+          "locale": "en",
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Fenty, Robyn R.",
+          "name": "Robyn R. Fenty",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Rhianna",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "Rhianna",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 17,
+          "name": "pop"
+        },
+        {
+          "count": 4,
+          "name": "dance"
+        },
+        {
+          "count": 5,
+          "name": "hip hop"
+        },
+        {
+          "count": 3,
+          "name": "reggae"
+        },
+        {
+          "count": 1,
+          "name": "contemporary r b"
+        },
+        {
+          "count": 4,
+          "name": "electropop"
+        },
+        {
+          "count": 1,
+          "name": "rnb"
+        },
+        {
+          "count": 3,
+          "name": "barbadian"
+        },
+        {
+          "count": 1,
+          "name": "female vocals"
+        },
+        {
+          "count": 1,
+          "name": "icon"
+        },
+        {
+          "count": 9,
+          "name": "dance-pop"
+        },
+        {
+          "count": 4,
+          "name": "dancehall"
+        },
+        {
+          "count": 3,
+          "name": "electro house"
+        },
+        {
+          "count": 1,
+          "name": "edm"
+        },
+        {
+          "count": 1,
+          "name": "pop and chart"
+        },
+        {
+          "count": 2,
+          "name": "female vocal"
+        },
+        {
+          "count": 4,
+          "name": "pop soul"
+        },
+        {
+          "count": 1,
+          "name": "rihanna"
+        },
+        {
+          "count": 1,
+          "name": "barbadien"
+        },
+        {
+          "count": 1,
+          "name": "barbados"
+        },
+        {
+          "count": 1,
+          "name": "barbade"
+        },
+        {
+          "count": 1,
+          "name": "rehab"
+        },
+        {
+          "count": 14,
+          "name": "r&b"
+        },
+        {
+          "count": 9,
+          "name": "contemporary r&b"
+        },
+        {
+          "count": 3,
+          "name": "pop culture"
+        },
+        {
+          "count": 4,
+          "name": "influential pop star"
+        },
+        {
+          "count": 2,
+          "name": "pop star"
+        }
+      ]
+    },
+    {
+      "id": "056e4f3e-d505-4dad-8ec1-d04f521cbb56",
+      "type": "Group",
+      "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+      "score": 100,
+      "name": "Daft Punk",
+      "sort-name": "Daft Punk",
+      "country": "FR",
+      "area": {
+        "id": "08310658-51eb-3801-80de-5a0739207115",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "France",
+        "sort-name": "France",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "dc10c22b-e510-4006-8b7f-fecb4f36436e",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Paris",
+        "sort-name": "Paris",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "French electronic duo",
+      "ipis": [
+        "00711797335"
+      ],
+      "isnis": [
+        "0000000123531208"
+      ],
+      "life-span": {
+        "begin": "1993",
+        "end": "2021-02-22",
+        "ended": true
+      },
+      "aliases": [
+        {
+          "sort-name": "Daft Punk",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "daft punk",
+          "locale": null,
+          "type": "Artist name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Duft Punk",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "Duft Punk",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "ダフト パンク",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "ダフト・パンク",
+          "locale": "ja",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Daft Punk",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Daft Punk",
+          "locale": "en",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Da Funk",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "Da Funk",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 39,
+          "name": "electronic"
+        },
+        {
+          "count": 1,
+          "name": "synthpop"
+        },
+        {
+          "count": 1,
+          "name": "pop"
+        },
+        {
+          "count": 8,
+          "name": "french"
+        },
+        {
+          "count": 5,
+          "name": "dance"
+        },
+        {
+          "count": 20,
+          "name": "house"
+        },
+        {
+          "count": 2,
+          "name": "electro"
+        },
+        {
+          "count": 2,
+          "name": "vocoder"
+        },
+        {
+          "count": 2,
+          "name": "funk"
+        },
+        {
+          "count": 1,
+          "name": "techno"
+        },
+        {
+          "count": 2,
+          "name": "electronica"
+        },
+        {
+          "count": 2,
+          "name": "synth-pop"
+        },
+        {
+          "count": 4,
+          "name": "disco"
+        },
+        {
+          "count": -1,
+          "name": "favourite"
+        },
+        {
+          "count": 0,
+          "name": "tech house"
+        },
+        {
+          "count": 1,
+          "name": "indie dance"
+        },
+        {
+          "count": 2,
+          "name": "film score"
+        },
+        {
+          "count": -1,
+          "name": "wp musicians"
+        },
+        {
+          "count": 1,
+          "name": "electroclash"
+        },
+        {
+          "count": 1,
+          "name": "european"
+        },
+        {
+          "count": 2,
+          "name": "club"
+        },
+        {
+          "count": 2,
+          "name": "electro house"
+        },
+        {
+          "count": 1,
+          "name": "french touch"
+        },
+        {
+          "count": 18,
+          "name": "french house"
+        },
+        {
+          "count": 1,
+          "name": "edm"
+        },
+        {
+          "count": 1,
+          "name": "dance and electronica"
+        },
+        {
+          "count": 2,
+          "name": "electronic rock"
+        },
+        {
+          "count": 2,
+          "name": "dance music"
+        },
+        {
+          "count": 2,
+          "name": "nu disco"
+        },
+        {
+          "count": 0,
+          "name": "thomas bangalter"
+        },
+        {
+          "count": 1,
+          "name": "nu-disco"
+        },
+        {
+          "count": 2,
+          "name": "left-field house"
+        },
+        {
+          "count": 1,
+          "name": "r&b"
+        },
+        {
+          "count": 2,
+          "name": "house music"
+        },
+        {
+          "count": 1,
+          "name": "trap"
+        },
+        {
+          "count": 0,
+          "name": "future bass"
+        },
+        {
+          "count": 1,
+          "name": "organic house"
+        },
+        {
+          "count": 2,
+          "name": "french electro"
+        },
+        {
+          "count": 2,
+          "name": "leftfield house"
+        },
+        {
+          "count": 1,
+          "name": "jackin house"
+        },
+        {
+          "count": 1,
+          "name": "dj tools / acapellas"
+        }
+      ]
+    },
+    {
+      "id": "5b11f4ce-a62d-471e-81fc-a69a8278c7da",
+      "type": "Group",
+      "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+      "score": 100,
+      "name": "Nirvana",
+      "sort-name": "Nirvana",
+      "country": "US",
+      "area": {
+        "id": "489ce91b-6658-3307-9877-795b68554c98",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "United States",
+        "sort-name": "United States",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "a640b45c-c173-49b1-8030-973603e895b5",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Aberdeen",
+        "sort-name": "Aberdeen",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "1980s–1990s US grunge band",
+      "isnis": [
+        "0000000123486830",
+        "0000000123487390"
+      ],
+      "life-span": {
+        "begin": "1987",
+        "end": "1994-04-05",
+        "ended": true
+      },
+      "aliases": [
+        {
+          "sort-name": "ニルヴァーナ",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "ニルヴァーナ",
+          "locale": "ja",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Nirvana",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Nirvana",
+          "locale": "en",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Nirvana US",
+          "name": "Nirvana US",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 23,
+          "name": "rock"
+        },
+        {
+          "count": 29,
+          "name": "alternative rock"
+        },
+        {
+          "count": 4,
+          "name": "90s"
+        },
+        {
+          "count": 1,
+          "name": "punk"
+        },
+        {
+          "count": 8,
+          "name": "american"
+        },
+        {
+          "count": 1,
+          "name": "punk rock"
+        },
+        {
+          "count": 0,
+          "name": "experimental"
+        },
+        {
+          "count": 6,
+          "name": "seattle"
+        },
+        {
+          "count": 64,
+          "name": "grunge"
+        },
+        {
+          "count": 0,
+          "name": "band"
+        },
+        {
+          "count": 0,
+          "name": "hard rock"
+        },
+        {
+          "count": 2,
+          "name": "usa"
+        },
+        {
+          "count": 0,
+          "name": "indie rock"
+        },
+        {
+          "count": 0,
+          "name": "alternative"
+        },
+        {
+          "count": 0,
+          "name": "américain"
+        },
+        {
+          "count": 0,
+          "name": "legendary"
+        },
+        {
+          "count": 8,
+          "name": "acoustic rock"
+        },
+        {
+          "count": 1,
+          "name": "alternative metal"
+        },
+        {
+          "count": 1,
+          "name": "post-hardcore"
+        },
+        {
+          "count": -1,
+          "name": "cowpunk"
+        },
+        {
+          "count": 12,
+          "name": "noise rock"
+        },
+        {
+          "count": 3,
+          "name": "sludge metal"
+        },
+        {
+          "count": 0,
+          "name": "90"
+        },
+        {
+          "count": 0,
+          "name": "northwest"
+        },
+        {
+          "count": 0,
+          "name": "rock and indie"
+        },
+        {
+          "count": 1,
+          "name": "united states"
+        },
+        {
+          "count": 0,
+          "name": "nirvana"
+        },
+        {
+          "count": 0,
+          "name": "kurt cobain"
+        },
+        {
+          "count": 1,
+          "name": "pigfuck"
+        },
+        {
+          "count": 0,
+          "name": "2008 universal fire victim"
+        },
+        {
+          "count": 1,
+          "name": "estados unidos"
+        }
+      ]
+    },
+    {
+      "id": "83d91898-7763-47d7-b03b-b92132375c47",
+      "type": "Group",
+      "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+      "score": 100,
+      "name": "Pink Floyd",
+      "sort-name": "Pink Floyd",
+      "area": {
+        "id": "9d5dd675-3cf4-4296-9e39-67865ebee758",
+        "type": "Subdivision",
+        "type-id": "fd3d44c5-80a1-3842-9745-2c4972d35afa",
+        "name": "England",
+        "sort-name": "England",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "f03d09b3-39dc-4083-afd6-159e3f0d462f",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "London",
+        "sort-name": "London",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "isnis": [
+        "0000000109397559"
+      ],
+      "life-span": {
+        "begin": "1965",
+        "end": "2014",
+        "ended": true
+      },
+      "aliases": [
+        {
+          "sort-name": "Pink Floid",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "Pink Floid",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "The Pink Floyd",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "The Pink Floyd",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Floyd",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "Floyd",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "핑크 플로이드",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "핑크 플로이드",
+          "locale": "ko",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Pink Floyd",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Pink Floyd",
+          "locale": "en",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "ピンク・フロイド",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "ピンク・フロイド",
+          "locale": "ja",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 29,
+          "name": "rock"
+        },
+        {
+          "count": 54,
+          "name": "progressive rock"
+        },
+        {
+          "count": 0,
+          "name": "70s"
+        },
+        {
+          "count": 0,
+          "name": "80s"
+        },
+        {
+          "count": 0,
+          "name": "90s"
+        },
+        {
+          "count": 0,
+          "name": "british"
+        },
+        {
+          "count": 0,
+          "name": "uk"
+        },
+        {
+          "count": -3,
+          "name": "band"
+        },
+        {
+          "count": 0,
+          "name": "60s"
+        },
+        {
+          "count": 0,
+          "name": "hard rock"
+        },
+        {
+          "count": 0,
+          "name": "britannique"
+        },
+        {
+          "count": 9,
+          "name": "progressive"
+        },
+        {
+          "count": 44,
+          "name": "psychedelic rock"
+        },
+        {
+          "count": 4,
+          "name": "psychedelic"
+        },
+        {
+          "count": 3,
+          "name": "blues rock"
+        },
+        {
+          "count": 21,
+          "name": "art rock"
+        },
+        {
+          "count": 5,
+          "name": "classic rock"
+        },
+        {
+          "count": 2,
+          "name": "album rock"
+        },
+        {
+          "count": 2,
+          "name": "psychedelic pop"
+        },
+        {
+          "count": 2,
+          "name": "experimental rock"
+        },
+        {
+          "count": -1,
+          "name": "pop rock"
+        },
+        {
+          "count": 15,
+          "name": "space rock"
+        },
+        {
+          "count": 1,
+          "name": "symphonic rock"
+        },
+        {
+          "count": 0,
+          "name": "avant-garde"
+        },
+        {
+          "count": 2,
+          "name": "acid rock"
+        },
+        {
+          "count": -1,
+          "name": "english"
+        },
+        {
+          "count": 6,
+          "name": "rock opera"
+        },
+        {
+          "count": -2,
+          "name": "film soundtrack"
+        },
+        {
+          "count": 0,
+          "name": "classic pop and rock"
+        },
+        {
+          "count": -2,
+          "name": "roger waters"
+        },
+        {
+          "count": 2,
+          "name": "proto-prog"
+        },
+        {
+          "count": 0,
+          "name": "rolling stones"
+        },
+        {
+          "count": -3,
+          "name": "defacing"
+        },
+        {
+          "count": -1,
+          "name": "dad rock"
+        },
+        {
+          "count": 0,
+          "name": "server name"
+        },
+        {
+          "count": 0,
+          "name": "favoritos"
+        },
+        {
+          "count": 0,
+          "name": "reino unido"
+        },
+        {
+          "count": 1,
+          "name": "vyrzukhisuc-artiest"
+        }
+      ]
+    },
+    {
+      "id": "b071f9fa-14b0-4217-8e97-eb41da73f598",
+      "type": "Group",
+      "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+      "score": 100,
+      "name": "The Rolling Stones",
+      "sort-name": "Rolling Stones, The",
+      "country": "GB",
+      "area": {
+        "id": "8a754a16-0027-3a29-b6d7-2b40ea0481ed",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "United Kingdom",
+        "sort-name": "United Kingdom",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "f03d09b3-39dc-4083-afd6-159e3f0d462f",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "London",
+        "sort-name": "London",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "isnis": [
+        "0000000121924040"
+      ],
+      "life-span": {
+        "begin": "1962",
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "Stones",
+          "name": "Stones",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Stones, The",
+          "name": "The Stones",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "ローリング・ストーンズ",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "ローリング・ストーンズ",
+          "locale": "ja",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Rolling Stones",
+          "name": "Rolling Stones",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 38,
+          "name": "rock"
+        },
+        {
+          "count": -1,
+          "name": "pop"
+        },
+        {
+          "count": 2,
+          "name": "blues"
+        },
+        {
+          "count": 8,
+          "name": "british"
+        },
+        {
+          "count": -2,
+          "name": "uk"
+        },
+        {
+          "count": -2,
+          "name": "reggae"
+        },
+        {
+          "count": -1,
+          "name": "hard rock"
+        },
+        {
+          "count": -2,
+          "name": "britannique"
+        },
+        {
+          "count": -2,
+          "name": "country"
+        },
+        {
+          "count": -2,
+          "name": "rnb"
+        },
+        {
+          "count": 8,
+          "name": "psychedelic rock"
+        },
+        {
+          "count": 21,
+          "name": "blues rock"
+        },
+        {
+          "count": 9,
+          "name": "classic rock"
+        },
+        {
+          "count": -1,
+          "name": "album rock"
+        },
+        {
+          "count": -1,
+          "name": "psychedelic pop"
+        },
+        {
+          "count": 4,
+          "name": "pop rock"
+        },
+        {
+          "count": -1,
+          "name": "british invasion"
+        },
+        {
+          "count": 4,
+          "name": "rock and roll"
+        },
+        {
+          "count": -1,
+          "name": "roots rock"
+        },
+        {
+          "count": -2,
+          "name": "english"
+        },
+        {
+          "count": -4,
+          "name": "live"
+        },
+        {
+          "count": -4,
+          "name": "greatest hits"
+        },
+        {
+          "count": -2,
+          "name": "classic pop and rock"
+        },
+        {
+          "count": -2,
+          "name": "merseybeat"
+        },
+        {
+          "count": -4,
+          "name": "the-rolling-stones"
+        },
+        {
+          "count": -1,
+          "name": "mainstream rock"
+        },
+        {
+          "count": -2,
+          "name": "mick jagger"
+        },
+        {
+          "count": 3,
+          "name": "rock & roll"
+        },
+        {
+          "count": -1,
+          "name": "dance-rock"
+        },
+        {
+          "count": -2,
+          "name": "rhythm & blues"
+        },
+        {
+          "count": -4,
+          "name": "essentials"
+        },
+        {
+          "count": 7,
+          "name": "british rhythm & blues"
+        },
+        {
+          "count": -4,
+          "name": "some girls"
+        },
+        {
+          "count": -1,
+          "name": "beat music"
+        },
+        {
+          "count": -4,
+          "name": "strictly stereo 1964 - 1969"
+        },
+        {
+          "count": -2,
+          "name": "reino unido"
+        }
+      ]
+    },
+    {
+      "id": "5441c29d-3602-4898-b1a1-b77fa23b8e50",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 100,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "David Bowie",
+      "sort-name": "Bowie, David",
+      "gender": "male",
+      "area": {
+        "id": "9d5dd675-3cf4-4296-9e39-67865ebee758",
+        "type": "Subdivision",
+        "type-id": "fd3d44c5-80a1-3842-9745-2c4972d35afa",
+        "name": "England",
+        "sort-name": "England",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "61941444-5a83-43e2-ba48-4db7438e0f26",
+        "type": "District",
+        "type-id": "84039871-5e47-38ca-a66a-45e512c8290f",
+        "name": "Brixton",
+        "sort-name": "Brixton",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "end-area": {
+        "id": "74e50e58-5deb-4b99-93a2-decbb365c07f",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "New York",
+        "sort-name": "New York",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "English singer‐songwriter",
+      "ipis": [
+        "00003960406",
+        "00015471209"
+      ],
+      "isnis": [
+        "0000000114448576",
+        "0000000458257298"
+      ],
+      "life-span": {
+        "begin": "1947-01-08",
+        "end": "2016-01-10",
+        "ended": true
+      },
+      "aliases": [
+        {
+          "sort-name": "Jones, Davy",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Davy Jones",
+          "locale": null,
+          "type": "Artist name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": "1965"
+        },
+        {
+          "sort-name": "데이비드 보위",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "데이비드 보위",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Ziggy Stardust",
+          "name": "Ziggy Stardust",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "David Jones",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "David Jones",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Jones, David Robert",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "David Robert Jones",
+          "locale": null,
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Дэвид Боуи",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "Дэвид Боуи",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "The Thin White Duke",
+          "name": "The Thin White Duke",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "デビッド・ボウイ",
+          "name": "デビッド・ボウイ",
+          "locale": "ja",
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Davis Bowie",
+          "name": "Davis Bowie",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Bowie",
+          "name": "Bowie",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Davie Bowie",
+          "name": "Davie Bowie",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Harry the Butcher",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Harry the Butcher",
+          "locale": null,
+          "type": "Artist name",
+          "primary": null,
+          "begin-date": "1970-02-23",
+          "end-date": "1970-02-24"
+        },
+        {
+          "sort-name": "デヴィッド・ボウイ",
+          "name": "デヴィッド・ボウイ",
+          "locale": "ja",
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 8,
+          "name": "rock"
+        },
+        {
+          "count": -1,
+          "name": "electronic"
+        },
+        {
+          "count": 10,
+          "name": "pop"
+        },
+        {
+          "count": 11,
+          "name": "alternative rock"
+        },
+        {
+          "count": -1,
+          "name": "80s"
+        },
+        {
+          "count": -1,
+          "name": "experimental"
+        },
+        {
+          "count": 6,
+          "name": "british"
+        },
+        {
+          "count": -1,
+          "name": "singer-songwriter"
+        },
+        {
+          "count": 5,
+          "name": "new wave"
+        },
+        {
+          "count": 6,
+          "name": "uk"
+        },
+        {
+          "count": -3,
+          "name": "britannique"
+        },
+        {
+          "count": -1,
+          "name": "funk"
+        },
+        {
+          "count": -1,
+          "name": "alternative"
+        },
+        {
+          "count": -1,
+          "name": "soul"
+        },
+        {
+          "count": 22,
+          "name": "glam rock"
+        },
+        {
+          "count": 22,
+          "name": "art rock"
+        },
+        {
+          "count": 3,
+          "name": "classic rock"
+        },
+        {
+          "count": -1,
+          "name": "psychedelic pop"
+        },
+        {
+          "count": -1,
+          "name": "experimental rock"
+        },
+        {
+          "count": 5,
+          "name": "pop rock"
+        },
+        {
+          "count": -1,
+          "name": "blue-eyed soul"
+        },
+        {
+          "count": -3,
+          "name": "english"
+        },
+        {
+          "count": 1,
+          "name": "rock music"
+        },
+        {
+          "count": 1,
+          "name": "composers"
+        },
+        {
+          "count": -3,
+          "name": "classic pop and rock"
+        },
+        {
+          "count": 1,
+          "name": "singers"
+        },
+        {
+          "count": 3,
+          "name": "actors"
+        },
+        {
+          "count": -1,
+          "name": "post-disco"
+        },
+        {
+          "count": -4,
+          "name": "death by liver cancer"
+        },
+        {
+          "count": -3,
+          "name": "pop/rock"
+        },
+        {
+          "count": 7,
+          "name": "art pop"
+        },
+        {
+          "count": -1,
+          "name": "avant-garde pop"
+        },
+        {
+          "count": -3,
+          "name": "server name"
+        },
+        {
+          "count": -5,
+          "name": "killed by 2016!"
+        },
+        {
+          "count": 0,
+          "name": "permanent wave"
+        },
+        {
+          "count": -2,
+          "name": "aln-sh"
+        },
+        {
+          "count": 1,
+          "name": "rock musicians"
+        },
+        {
+          "count": 1,
+          "name": "arrangers"
+        },
+        {
+          "count": 1,
+          "name": "sound recording executives and producers"
+        },
+        {
+          "count": 1,
+          "name": "glam rock music"
+        },
+        {
+          "count": 1,
+          "name": "glam rock musicians"
+        }
+      ]
+    },
+    {
+      "id": "a74b1b7f-71a5-4011-9441-d0b5e4122711",
+      "type": "Group",
+      "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+      "score": 100,
+      "name": "Radiohead",
+      "sort-name": "Radiohead",
+      "country": "GB",
+      "area": {
+        "id": "8a754a16-0027-3a29-b6d7-2b40ea0481ed",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "United Kingdom",
+        "sort-name": "United Kingdom",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "d840d4b3-8987-4626-928b-398de760cc24",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Abingdon-on-Thames",
+        "sort-name": "Abingdon-on-Thames",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "isnis": [
+        "0000000115475162"
+      ],
+      "life-span": {
+        "begin": "1991",
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "r/head",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "r/head",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "电台司令",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "电台司令",
+          "locale": "zh",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "れでぃおへっど",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "レディオヘッド",
+          "locale": "ja",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Radiohead & Thom Yorke",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "Radiohead & Thom Yorke",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Radio Head",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "Radio Head",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 18,
+          "name": "rock"
+        },
+        {
+          "count": 13,
+          "name": "electronic"
+        },
+        {
+          "count": 0,
+          "name": "post-rock"
+        },
+        {
+          "count": 41,
+          "name": "alternative rock"
+        },
+        {
+          "count": 2,
+          "name": "experimental"
+        },
+        {
+          "count": 14,
+          "name": "british"
+        },
+        {
+          "count": 0,
+          "name": "grunge"
+        },
+        {
+          "count": 1,
+          "name": "idm"
+        },
+        {
+          "count": 1,
+          "name": "uk"
+        },
+        {
+          "count": 0,
+          "name": "britannique"
+        },
+        {
+          "count": 4,
+          "name": "indie rock"
+        },
+        {
+          "count": 2,
+          "name": "electronica"
+        },
+        {
+          "count": 2,
+          "name": "alternative"
+        },
+        {
+          "count": 1,
+          "name": "britpop"
+        },
+        {
+          "count": 29,
+          "name": "art rock"
+        },
+        {
+          "count": 1,
+          "name": "post-grunge"
+        },
+        {
+          "count": 14,
+          "name": "experimental rock"
+        },
+        {
+          "count": 1,
+          "name": "english"
+        },
+        {
+          "count": 1,
+          "name": "chamber pop"
+        },
+        {
+          "count": 0,
+          "name": "parlophone"
+        },
+        {
+          "count": -1,
+          "name": "england"
+        },
+        {
+          "count": 1,
+          "name": "indietronica"
+        },
+        {
+          "count": 0,
+          "name": "melancholic"
+        },
+        {
+          "count": 1,
+          "name": "oxford"
+        },
+        {
+          "count": 1,
+          "name": "crossover prog"
+        },
+        {
+          "count": 0,
+          "name": "bootleg"
+        },
+        {
+          "count": 0,
+          "name": "rock and indie"
+        },
+        {
+          "count": 1,
+          "name": "britrock"
+        },
+        {
+          "count": 1,
+          "name": "electronic rock"
+        },
+        {
+          "count": 1,
+          "name": "ambient pop"
+        },
+        {
+          "count": -1,
+          "name": "c’était mieux avant"
+        },
+        {
+          "count": 3,
+          "name": "art pop"
+        },
+        {
+          "count": 0,
+          "name": "nude"
+        },
+        {
+          "count": 0,
+          "name": "trap edm"
+        },
+        {
+          "count": -1,
+          "name": "sacred cows"
+        },
+        {
+          "count": 2,
+          "name": "alternative rock music"
+        },
+        {
+          "count": 0,
+          "name": "lolicore"
+        },
+        {
+          "count": 2,
+          "name": "post-britpop"
+        },
+        {
+          "count": 2,
+          "name": "progressive rock music"
+        },
+        {
+          "count": -1,
+          "name": "1992-1998"
+        },
+        {
+          "count": 0,
+          "name": "new grave"
+        },
+        {
+          "count": 1,
+          "name": "vyrzukhisuc-artiest"
+        }
+      ]
+    },
+    {
+      "id": "381086ea-f511-4aba-bdf9-71c753dc5077",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 100,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Kendrick Lamar",
+      "sort-name": "Lamar, Kendrick",
+      "gender": "male",
+      "country": "US",
+      "area": {
+        "id": "489ce91b-6658-3307-9877-795b68554c98",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "United States",
+        "sort-name": "United States",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "be9261e4-c8d1-49e6-acb2-3096c47ad4f8",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Compton",
+        "sort-name": "Compton",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "ipis": [
+        "00670824633",
+        "00670824731"
+      ],
+      "isnis": [
+        "0000000362907030"
+      ],
+      "life-span": {
+        "begin": "1987-06-17",
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "Kendrick LAmar & SZA",
+          "name": "Kendrick Lamar, SZA",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "K. Duckworth",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "K. Duckworth",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Kendrick Duckworth",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "Kendrick Duckworth",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Duckworth, Kendrick Lamar",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Kendrick Lamar Duckworth",
+          "locale": null,
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "ケンドリック・ラマー",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "ケンドリック・ラマー",
+          "locale": "ja",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "켄드릭 라마",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "켄드릭 라마",
+          "locale": "ko",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "OKLAMA",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "OKLAMA",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "K‐Dot",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "K‐Dot",
+          "locale": null,
+          "type": "Artist name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "K. Dot",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "K. Dot",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 4,
+          "name": "pop"
+        },
+        {
+          "count": 5,
+          "name": "rap"
+        },
+        {
+          "count": 1,
+          "name": "jazz"
+        },
+        {
+          "count": 1,
+          "name": "dance"
+        },
+        {
+          "count": 1,
+          "name": "house"
+        },
+        {
+          "count": 15,
+          "name": "hip hop"
+        },
+        {
+          "count": 0,
+          "name": "funk"
+        },
+        {
+          "count": 1,
+          "name": "disco"
+        },
+        {
+          "count": 1,
+          "name": "gangsta rap"
+        },
+        {
+          "count": 2,
+          "name": "pop rap"
+        },
+        {
+          "count": 0,
+          "name": "neo soul"
+        },
+        {
+          "count": 2,
+          "name": "alternative hip hop"
+        },
+        {
+          "count": 0,
+          "name": "experimental hip hop"
+        },
+        {
+          "count": 8,
+          "name": "west coast hip hop"
+        },
+        {
+          "count": 0,
+          "name": "boom bap"
+        },
+        {
+          "count": 1,
+          "name": "r&b"
+        },
+        {
+          "count": 2,
+          "name": "2010s"
+        },
+        {
+          "count": 9,
+          "name": "jazz rap"
+        },
+        {
+          "count": 10,
+          "name": "conscious hip hop"
+        },
+        {
+          "count": 0,
+          "name": "political hip hop"
+        },
+        {
+          "count": 6,
+          "name": "hardcore hip hop"
+        },
+        {
+          "count": 2,
+          "name": "trap"
+        },
+        {
+          "count": 1,
+          "name": "future bass"
+        },
+        {
+          "count": 0,
+          "name": "relic inn"
+        },
+        {
+          "count": 2,
+          "name": "2020s"
+        },
+        {
+          "count": 1,
+          "name": "progressive rap"
+        },
+        {
+          "count": 1,
+          "name": "contemporary rap"
+        },
+        {
+          "count": 1,
+          "name": "conscious rapper"
+        }
+      ]
+    },
+    {
+      "id": "f4abc0b5-3f7a-4eff-8f78-ac078dbce533",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 100,
+      "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2",
+      "name": "Billie Eilish",
+      "sort-name": "Eilish, Billie",
+      "gender": "female",
+      "country": "US",
+      "area": {
+        "id": "489ce91b-6658-3307-9877-795b68554c98",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "United States",
+        "sort-name": "United States",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "1f40c6e1-47ba-4e35-996f-fe6ee5840e62",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Los Angeles",
+        "sort-name": "Los Angeles",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "ipis": [
+        "00792187700"
+      ],
+      "isnis": [
+        "000000046748058X"
+      ],
+      "life-span": {
+        "begin": "2001-12-18",
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "O’Connell, Billie Eilish Pirate Baird",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Billie Eilish Pirate Baird O’Connell",
+          "locale": "en",
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "O’Konel, Bili Ailiš Pirat Beird",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Bili Ailiš Pirat Beird O’Konel",
+          "locale": "lt",
+          "type": "Artist name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Ailiš, Bili",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Bili Ailiš",
+          "locale": "lt",
+          "type": "Artist name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Billija Ailiša",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Billija Ailiša",
+          "locale": "lv",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "빌리 아일리시",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "빌리 아일리시",
+          "locale": "ko",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "ប៊ីលលី អៃលីស",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "ប៊ីលលី អៃលីស",
+          "locale": "km",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Билли Айлиш",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Билли Айлиш",
+          "locale": "kk",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "ბილი აილიში",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "ბილი აილიში",
+          "locale": "ka",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Բիլլի Այլիշ",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Բիլլի Այլիշ",
+          "locale": "hy",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "बिली एलीश",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "बिली एलीश",
+          "locale": "hi",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "בילי אייליש",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "בילי אייליש",
+          "locale": "he",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "بیلي آیليش",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "بیلي آیليش",
+          "locale": null,
+          "type": "Artist name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "بیلی آیلیش",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "بیلی آیلیش",
+          "locale": "fa",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Μπίλλι Άιλις",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Μπίλλι Άιλις",
+          "locale": "el",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "بیڵی_ئایڵش",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "بیڵی_ئایڵش",
+          "locale": "ckb",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "বিলি আইলিশ",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "বিলি আইলিশ",
+          "locale": "bn",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Били Ейлиш",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Били Ейлиш",
+          "locale": "bg",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Білі Айліш",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Білі Айліш",
+          "locale": "be",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Billi Ayliş",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Billi Ayliş",
+          "locale": "az",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "بيلي إيليش",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "بيلي إيليش",
+          "locale": "ar",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "比莉艾莉什",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "比莉艾莉什",
+          "locale": "zh",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "ビリー・アイリッシュ",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "ビリー・アイリッシュ",
+          "locale": "ja",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "O’Connell, Billie",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Billie O’Connell",
+          "locale": null,
+          "type": "Artist name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Eilish O’Connell, Billie",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Billie Eilish O’Connell",
+          "locale": null,
+          "type": "Artist name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Bil Cutie",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Bil Cutie",
+          "locale": null,
+          "type": "Artist name",
+          "primary": null,
+          "begin-date": "2019-09-27",
+          "end-date": "2019-09-27"
+        }
+      ],
+      "tags": [
+        {
+          "count": 1,
+          "name": "electronic"
+        },
+        {
+          "count": 0,
+          "name": "downtempo"
+        },
+        {
+          "count": 9,
+          "name": "pop"
+        },
+        {
+          "count": 2,
+          "name": "singer-songwriter"
+        },
+        {
+          "count": 0,
+          "name": "usa"
+        },
+        {
+          "count": 1,
+          "name": "electronica"
+        },
+        {
+          "count": 1,
+          "name": "alternative"
+        },
+        {
+          "count": 12,
+          "name": "electropop"
+        },
+        {
+          "count": 0,
+          "name": "lo-fi"
+        },
+        {
+          "count": 1,
+          "name": "female vocals"
+        },
+        {
+          "count": 3,
+          "name": "indie pop"
+        },
+        {
+          "count": 0,
+          "name": "leftfield"
+        },
+        {
+          "count": 1,
+          "name": "pop rock"
+        },
+        {
+          "count": 11,
+          "name": "alternative pop"
+        },
+        {
+          "count": 0,
+          "name": "english"
+        },
+        {
+          "count": 0,
+          "name": "indietronica"
+        },
+        {
+          "count": 0,
+          "name": "los angeles"
+        },
+        {
+          "count": 1,
+          "name": "queer"
+        },
+        {
+          "count": 0,
+          "name": "teen pop"
+        },
+        {
+          "count": 1,
+          "name": "pop soul"
+        },
+        {
+          "count": 3,
+          "name": "alt-pop"
+        },
+        {
+          "count": 0,
+          "name": "progressive pop"
+        },
+        {
+          "count": 9,
+          "name": "dark pop"
+        },
+        {
+          "count": 3,
+          "name": "contemporary r&b"
+        },
+        {
+          "count": 2,
+          "name": "2010s"
+        },
+        {
+          "count": 4,
+          "name": "art pop"
+        },
+        {
+          "count": 5,
+          "name": "alternative r&b"
+        },
+        {
+          "count": 0,
+          "name": "trap"
+        },
+        {
+          "count": 3,
+          "name": "bedroom pop"
+        },
+        {
+          "count": 4,
+          "name": "pity pop"
+        },
+        {
+          "count": -1,
+          "name": "englisch"
+        },
+        {
+          "count": 2,
+          "name": "2020s"
+        },
+        {
+          "count": 0,
+          "name": "sad girl pop"
+        },
+        {
+          "count": 1,
+          "name": "gen z"
+        },
+        {
+          "count": 0,
+          "name": "late 2010s"
+        },
+        {
+          "count": 0,
+          "name": "nepo baby"
+        }
+      ]
+    },
+    {
+      "id": "a3cb23fc-acd3-4ce0-8f36-1e5aa6a18432",
+      "type": "Group",
+      "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+      "score": 100,
+      "name": "U2",
+      "sort-name": "U2",
+      "country": "IE",
+      "area": {
+        "id": "390b05d4-11ec-3bce-a343-703a366b34a5",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Ireland",
+        "sort-name": "Ireland",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "462e7952-4fa9-43cd-bc24-2c5c9cd5dd47",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Dublin",
+        "sort-name": "Dublin",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "Irish rock band",
+      "isnis": [
+        "0000000121505903"
+      ],
+      "life-span": {
+        "begin": "1976",
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "U2 Kiwi",
+          "name": "U2 Kiwi",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "U2 - Until The",
+          "name": "U2 - Until The",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 2,
+          "name": "political"
+        },
+        {
+          "count": 12,
+          "name": "rock"
+        },
+        {
+          "count": 2,
+          "name": "electronic"
+        },
+        {
+          "count": 15,
+          "name": "alternative rock"
+        },
+        {
+          "count": 6,
+          "name": "irish"
+        },
+        {
+          "count": 8,
+          "name": "post-punk"
+        },
+        {
+          "count": 1,
+          "name": "new wave"
+        },
+        {
+          "count": 2,
+          "name": "band"
+        },
+        {
+          "count": 1,
+          "name": "indie rock"
+        },
+        {
+          "count": 1,
+          "name": "irlande"
+        },
+        {
+          "count": 4,
+          "name": "ireland"
+        },
+        {
+          "count": 1,
+          "name": "irlandais"
+        },
+        {
+          "count": 1,
+          "name": "college rock"
+        },
+        {
+          "count": 7,
+          "name": "pop rock"
+        },
+        {
+          "count": 2,
+          "name": "arena rock"
+        },
+        {
+          "count": 1,
+          "name": "alternative pop"
+        },
+        {
+          "count": 5,
+          "name": "alternative dance"
+        },
+        {
+          "count": 1,
+          "name": "1980"
+        },
+        {
+          "count": 2,
+          "name": "classic pop and rock"
+        },
+        {
+          "count": 2,
+          "name": "éire"
+        },
+        {
+          "count": 2,
+          "name": "grammy winner"
+        },
+        {
+          "count": 2,
+          "name": "pop/rock"
+        },
+        {
+          "count": 1,
+          "name": "dance-rock"
+        },
+        {
+          "count": 1,
+          "name": "clean up"
+        },
+        {
+          "count": 1,
+          "name": "aternative dance"
+        },
+        {
+          "count": 1,
+          "name": "seconds"
+        },
+        {
+          "count": 6,
+          "name": "big music"
+        },
+        {
+          "count": 1,
+          "name": "vyrzukhisuc-artiest"
+        }
+      ]
+    }
+  ]
+}
