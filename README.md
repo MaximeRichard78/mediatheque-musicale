@@ -4,15 +4,16 @@ Projet fil rouge — architecture N-tiers (controller → service → repository
 
 ## Stack
 
-- Node.js 20+, TypeScript
+- Node.js 22.13+, TypeScript
 - pnpm (workspace monorepo : `backend`, `frontend` à venir)
 - Express
 - Vitest + Supertest (tests)
 - Supabase (base de données réelle, optionnelle)
+- GitHub Actions (CI)
 
 ## Prérequis
 
-- [Node.js](https://nodejs.org/) 20 ou plus (voir `.nvmrc`)
+- [Node.js](https://nodejs.org/) 22.13 ou plus (voir `.nvmrc`) — requis par `pnpm@11.9.0`
 - [pnpm](https://pnpm.io/installation) (`npm install -g pnpm` si besoin)
 
 ## Cloner le projet
@@ -104,6 +105,10 @@ pnpm format                                # corrige le formatage automatiquemen
 pnpm --filter backend build      # compile src/ -> dist/
 pnpm --filter backend start      # lance node dist/server.js
 ```
+
+## Intégration continue
+
+Chaque push et pull request vers `main` ou `develop` déclenche le workflow [`.github/workflows/ci.yml`](.github/workflows/ci.yml), qui enchaîne : installation, lint, vérification du formatage, typecheck, tests, build. Le statut est visible dans l'onglet **Actions** du dépôt GitHub.
 
 ## Peupler la base Supabase (optionnel)
 
