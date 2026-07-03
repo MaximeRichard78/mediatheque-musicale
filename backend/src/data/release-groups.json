@@ -11745,12 +11745,8 @@
       "disambiguation": "documentary + music videos",
       "first-release-date": "2006",
       "primary-type": "Other",
-      "secondary-types": [
-        "Interview"
-      ],
-      "secondary-type-ids": [
-        "12af3f5e-ce2a-3941-8b93-d482884031e5"
-      ],
+      "secondary-types": ["Interview"],
+      "secondary-type-ids": ["12af3f5e-ce2a-3941-8b93-d482884031e5"],
       "artist-credit": [
         {
           "name": "U2",

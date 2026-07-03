@@ -54,11 +54,7 @@ export class SupabaseLabelRepository implements LabelRepository {
   }
 
   async findById(id: string): Promise<Label | null> {
-    const { data, error } = await this.client
-      .from('labels')
-      .select('*')
-      .eq('id', id)
-      .maybeSingle();
+    const { data, error } = await this.client.from('labels').select('*').eq('id', id).maybeSingle();
     if (error) throw error;
     if (!data) return null;
 

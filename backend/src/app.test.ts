@@ -24,8 +24,6 @@ describe('API', () => {
     const response = await request(app).get('/labels').query({ country: 'GB' });
 
     expect(response.status).toBe(200);
-    expect(response.body.every((label: { country: string }) => label.country === 'GB')).toBe(
-      true,
-    );
+    expect(response.body.every((label: { country: string }) => label.country === 'GB')).toBe(true);
   });
 });

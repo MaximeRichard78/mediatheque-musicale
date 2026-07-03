@@ -449,9 +449,7 @@
       "name": "Sire Records",
       "sort-name": "Sire Records",
       "label-code": 3228,
-      "isnis": [
-        "0000000123425894"
-      ],
+      "isnis": ["0000000123425894"],
       "country": "US",
       "area": {
         "id": "489ce91b-6658-3307-9877-795b68554c98",
@@ -1234,9 +1232,7 @@
       "name": "EMI",
       "sort-name": "EMI",
       "label-code": 542,
-      "isnis": [
-        "000000010093264X"
-      ],
+      "isnis": ["000000010093264X"],
       "disambiguation": "EMI Records, or EMI Music only if there is no other imprint",
       "country": "GB",
       "area": {
