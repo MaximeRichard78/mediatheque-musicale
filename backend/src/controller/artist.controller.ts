@@ -1,5 +1,5 @@
 import { Router } from 'express';
-import { ArtistService } from '../service/artist';
+import { ArtistService } from '../service/artist.service';
 
 export function createArtistController(artistService: ArtistService): Router {
   const router = Router();

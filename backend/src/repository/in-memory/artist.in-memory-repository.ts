@@ -1,5 +1,5 @@
-import { Artist, ArtistType } from '../../module/artist';
-import { ArtistRepository } from '../artist';
+import { Artist, ArtistType } from '../../model/artist.model';
+import { ArtistRepository } from '../artist.repository';
 import artistsJson from '../../data/artists.json';
 
 interface RawArtist {

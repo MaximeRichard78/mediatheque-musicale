@@ -1,4 +1,4 @@
-import { Album } from '../module/album';
+import { Album } from '../model/album.model';
 
 export interface AlbumRepository {
   findAll(): Promise<Album[]>;

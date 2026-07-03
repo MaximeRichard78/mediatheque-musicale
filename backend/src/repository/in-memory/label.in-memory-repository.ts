@@ -1,5 +1,5 @@
-import { Label } from '../../module/label';
-import { LabelRepository } from '../label';
+import { Label } from '../../model/label.model';
+import { LabelRepository } from '../label.repository';
 import labelsJson from '../../data/labels.json';
 import linksJson from '../../data/links.json';
 

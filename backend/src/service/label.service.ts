@@ -1,5 +1,5 @@
-import { Label } from '../module/label';
-import { LabelRepository } from '../repository/label';
+import { Label } from '../model/label.model';
+import { LabelRepository } from '../repository/label.repository';
 
 export class LabelService {
   constructor(private readonly labelRepository: LabelRepository) {}

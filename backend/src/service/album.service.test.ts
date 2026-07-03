@@ -1,7 +1,7 @@
 import { describe, expect, it } from 'vitest';
-import { Album } from '../module/album';
-import { AlbumRepository } from '../repository/album';
-import { AlbumService } from './album';
+import { Album } from '../model/album.model';
+import { AlbumRepository } from '../repository/album.repository';
+import { AlbumService } from './album.service';
 
 function makeAlbum(overrides: Partial<Album>): Album {
   return {

@@ -1,14 +1,14 @@
 import cors from 'cors';
 import express, { Express } from 'express';
-import { createAlbumController } from './controller/album';
-import { createArtistController } from './controller/artist';
-import { createLabelController } from './controller/label';
-import { InMemoryAlbumRepository } from './repository/in-memory/album';
-import { InMemoryArtistRepository } from './repository/in-memory/artist';
-import { InMemoryLabelRepository } from './repository/in-memory/label';
-import { AlbumService } from './service/album';
-import { ArtistService } from './service/artist';
-import { LabelService } from './service/label';
+import { createAlbumController } from './controller/album.controller';
+import { createArtistController } from './controller/artist.controller';
+import { createLabelController } from './controller/label.controller';
+import { InMemoryAlbumRepository } from './repository/in-memory/album.in-memory-repository';
+import { InMemoryArtistRepository } from './repository/in-memory/artist.in-memory-repository';
+import { InMemoryLabelRepository } from './repository/in-memory/label.in-memory-repository';
+import { AlbumService } from './service/album.service';
+import { ArtistService } from './service/artist.service';
+import { LabelService } from './service/label.service';
 
 export function createApp(): Express {
   const app = express();

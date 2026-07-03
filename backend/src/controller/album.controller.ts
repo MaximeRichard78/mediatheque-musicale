@@ -1,5 +1,5 @@
 import { Router } from 'express';
-import { AlbumService } from '../service/album';
+import { AlbumService } from '../service/album.service';
 
 export function createAlbumController(albumService: AlbumService): Router {
   const router = Router();

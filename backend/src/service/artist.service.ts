@@ -1,5 +1,5 @@
-import { Artist } from '../module/artist';
-import { ArtistRepository } from '../repository/artist';
+import { Artist } from '../model/artist.model';
+import { ArtistRepository } from '../repository/artist.repository';
 
 export class ArtistService {
   constructor(private readonly artistRepository: ArtistRepository) {}
