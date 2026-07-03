@@ -1,5 +1,5 @@
-import { Album } from '../module/album';
-import { AlbumRepository } from '../repository/album';
+import { Album } from '../model/album.model';
+import { AlbumRepository } from '../repository/album.repository';
 
 function releaseYear(album: Album): number | null {
   if (!album.firstReleaseDate) return null;

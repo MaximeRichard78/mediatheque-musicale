@@ -1,4 +1,4 @@
-import { Label } from '../module/label';
+import { Label } from '../model/label.model';
 
 export interface LabelRepository {
   findAll(): Promise<Label[]>;

@@ -1,5 +1,6 @@
-import { Album, Track } from '../../module/album';
-import { AlbumRepository } from '../album';
+import { Album } from '../../model/album.model';
+import { Track } from '../../model/track.model';
+import { AlbumRepository } from '../album.repository';
 import linksJson from '../../data/links.json';
 import recordingsJson from '../../data/recordings.json';
 import releaseGroupsJson from '../../data/release-groups.json';

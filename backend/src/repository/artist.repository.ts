@@ -1,4 +1,4 @@
-import { Artist } from '../module/artist';
+import { Artist } from '../model/artist.model';
 
 export interface ArtistRepository {
   findAll(): Promise<Artist[]>;

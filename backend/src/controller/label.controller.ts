@@ -1,5 +1,5 @@
 import { Router } from 'express';
-import { LabelService } from '../service/label';
+import { LabelService } from '../service/label.service';
 
 export function createLabelController(labelService: LabelService): Router {
   const router = Router();
