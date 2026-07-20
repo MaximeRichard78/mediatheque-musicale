@@ -1,7 +1,9 @@
 import { describe, expect, it } from 'vitest';
 import { Album } from '../model/album.model';
+import { Track } from '../model/track.model';
 import { AlbumRepository } from '../repository/album.repository';
 import { AlbumService } from './album.service';
+import { WeightedSumScoringStrategy } from './scoring/weighted-sum-scoring.strategy';
 
 function makeAlbum(overrides: Partial<Album>): Album {
   return {
@@ -16,6 +18,14 @@ function makeAlbum(overrides: Partial<Album>): Album {
     tracks: [],
     ...overrides,
   };
+}
+
+function makeTracks(count: number, lengthMs: number): Track[] {
+  return Array.from({ length: count }, (_, index) => ({
+    id: `t${index}`,
+    title: `Track ${index}`,
+    lengthMs,
+  }));
 }
 
 class FakeAlbumRepository implements AlbumRepository {
@@ -61,5 +71,54 @@ describe('AlbumService', () => {
     const album = await service.getById('2');
 
     expect(album?.title).toBe('A Night at the Opera');
+  });
+});
+
+describe('AlbumService.recommend', () => {
+  const catalog = [
+    makeAlbum({ id: 'old-short', firstReleaseDate: '1970', tracks: makeTracks(5, 200_000) }),
+    makeAlbum({ id: 'mid', firstReleaseDate: '1990', tracks: makeTracks(8, 250_000) }),
+    makeAlbum({ id: 'new-long', firstReleaseDate: '2010', tracks: makeTracks(12, 400_000) }),
+    makeAlbum({ id: 'newer-longer', firstReleaseDate: '2020', tracks: makeTracks(15, 450_000) }),
+  ];
+  const service = new AlbumService(new FakeAlbumRepository(catalog));
+
+  it('exclut du classement les albums déjà en favori (étape filtre)', async () => {
+    const recommendations = await service.recommend(['old-short']);
+
+    expect(recommendations.map((album) => album.id)).not.toContain('old-short');
+  });
+
+  it('renvoie un classement vide si aucun favori ne correspond à un album du catalogue', async () => {
+    const recommendations = await service.recommend(['id-inconnu']);
+
+    expect(recommendations).toEqual([]);
+  });
+
+  it('deux profils différents donnent deux classements différents (barycentre)', async () => {
+    const recommendationsForOldFan = await service.recommend(['old-short']);
+    const recommendationsForNewFan = await service.recommend(['newer-longer']);
+
+    expect(recommendationsForOldFan.map((album) => album.id)).not.toEqual(
+      recommendationsForNewFan.map((album) => album.id),
+    );
+    // le fan de "old-short" doit se voir recommander "mid" (le plus proche) en premier
+    expect(recommendationsForOldFan[0].id).toBe('mid');
+    // le fan de "newer-longer" doit se voir recommander "new-long" (le plus proche) en premier
+    expect(recommendationsForNewFan[0].id).toBe('new-long');
+  });
+
+  it('deux stratégies de scoring différentes donnent deux classements différents pour le même profil', async () => {
+    const withBarycentre = await service.recommend(['old-short']);
+
+    const serviceWithWeightedSum = new AlbumService(
+      new FakeAlbumRepository(catalog),
+      () => new WeightedSumScoringStrategy([1, 1, 1, 1]),
+    );
+    const withWeightedSum = await serviceWithWeightedSum.recommend(['old-short']);
+
+    expect(withBarycentre.map((album) => album.id)).not.toEqual(
+      withWeightedSum.map((album) => album.id),
+    );
   });
 });

@@ -1,7 +1,11 @@
 import { Album } from '../model/album.model';
 import { AlbumRepository } from '../repository/album.repository';
+import { toAlbumVector } from './scoring/album-vector';
+import { BarycentreScoringStrategy } from './scoring/barycentre-scoring.strategy';
+import { ScoringStrategy } from './scoring/scoring-strategy';
+import { barycentre, normalizeMatrix } from './scoring/vector-math';
 
-function releaseYear(album: Album): number | null {
+export function releaseYear(album: Album): number | null {
   if (!album.firstReleaseDate) return null;
   const year = Number.parseInt(album.firstReleaseDate.slice(0, 4), 10);
   return Number.isNaN(year) ? null : year;
@@ -12,8 +16,16 @@ function era(year: number): string {
   return `${decade}s`;
 }
 
+type ScoringStrategyFactory = (profile: number[]) => ScoringStrategy;
+
+const defaultScoringStrategyFactory: ScoringStrategyFactory = (profile) =>
+  new BarycentreScoringStrategy(profile);
+
 export class AlbumService {
-  constructor(private readonly albumRepository: AlbumRepository) {}
+  constructor(
+    private readonly albumRepository: AlbumRepository,
+    private readonly createScoringStrategy: ScoringStrategyFactory = defaultScoringStrategyFactory,
+  ) {}
 
   async getAll(): Promise<Album[]> {
     return this.albumRepository.findAll();
@@ -45,5 +57,38 @@ export class AlbumService {
     }
 
     return groups;
+  }
+
+  async recommend(favoriteIds: string[]): Promise<Album[]> {
+    const albums = await this.albumRepository.findAll();
+
+    // vectorisation : chaque album devient un point à 4 dimensions, puis on normalise (0-1)
+    const vectors = albums.map(toAlbumVector);
+    const normalizedVectors = normalizeMatrix(vectors);
+
+    const favoriteVectors = albums
+      .map((album, index) => ({ album, vector: normalizedVectors[index] }))
+      .filter(({ album }) => favoriteIds.includes(album.id))
+      .map(({ vector }) => vector);
+
+    if (favoriteVectors.length === 0) return [];
+
+    // profil : barycentre (moyenne attribut par attribut) des favoris
+    const profile = barycentre(favoriteVectors);
+    const strategy = this.createScoringStrategy(profile);
+
+    // filtre : on ne recommande pas ce que l'utilisateur a déjà en favori
+    const candidates = albums
+      .map((album, index) => ({ album, vector: normalizedVectors[index] }))
+      .filter(({ album }) => !favoriteIds.includes(album.id));
+
+    // score : chaque candidat est noté par la stratégie de scoring choisie
+    const scored = candidates.map(({ album, vector }) => ({
+      album,
+      score: strategy.score(vector),
+    }));
+
+    // tri : du plus pertinent au moins pertinent
+    return scored.sort((a, b) => b.score - a.score).map(({ album }) => album);
   }
 }
