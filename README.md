@@ -59,14 +59,15 @@ Démarre l'API sur `http://localhost:3000` (rechargement automatique à chaque m
 
 Endpoints disponibles :
 
-| Méthode | Route          | Description                                                                 |
-| ------- | -------------- | --------------------------------------------------------------------------- |
-| GET     | `/artists`     | Liste des artistes. Query params : `?genre=rock`, `?sort=genre`             |
-| GET     | `/artists/:id` | Détail d'un artiste (404 si introuvable)                                    |
-| GET     | `/albums`      | Liste des albums. Query params : `?sort=year&order=asc\|desc`, `?group=era` |
-| GET     | `/albums/:id`  | Détail d'un album (404 si introuvable)                                      |
-| GET     | `/labels`      | Liste des labels. Query params : `?country=GB`, `?search=...`               |
-| GET     | `/labels/:id`  | Détail d'un label (404 si introuvable)                                      |
+| Méthode | Route                     | Description                                                                           |
+| ------- | ------------------------- | ------------------------------------------------------------------------------------- |
+| GET     | `/artists`                | Liste des artistes. Query params : `?genre=rock`, `?sort=genre`                       |
+| GET     | `/artists/:id`            | Détail d'un artiste (404 si introuvable)                                              |
+| GET     | `/albums`                 | Liste des albums. Query params : `?sort=year&order=asc\|desc`, `?group=era`           |
+| POST    | `/albums/recommendations` | Recommandations par barycentre. Body JSON `{ "favoriteIds": string[] }` (400 si vide) |
+| GET     | `/albums/:id`             | Détail d'un album (404 si introuvable)                                                |
+| GET     | `/labels`                 | Liste des labels. Query params : `?country=GB`, `?search=...`                         |
+| GET     | `/labels/:id`             | Détail d'un label (404 si introuvable)                                                |
 
 Exemples :
 
@@ -76,6 +77,11 @@ curl "http://localhost:3000/albums?sort=year&order=desc"
 curl "http://localhost:3000/albums?group=era"
 curl "http://localhost:3000/labels?country=GB"
 curl -i http://localhost:3000/albums/id-inconnu   # 404 attendu
+
+# Recommandations par barycentre : remplacer l'id par un vrai id d'album (voir GET /albums)
+curl -X POST http://localhost:3000/albums/recommendations \
+  -H "Content-Type: application/json" \
+  -d '{"favoriteIds":["de208292-8db5-3aed-a14a-b37a84d8c521"]}'
 ```
 
 ## Lancer les tests
@@ -128,6 +134,7 @@ backend/
     model/        # modèles de domaine (Artist, Album, Track, Label)
     repository/   # contrats + implémentations (in-memory, supabase)
     service/      # règles métier (tri, filtre, regroupement)
+      scoring/    # moteur de recommandation (vectorisation, barycentre, stratégies de scoring)
     controller/   # routes Express (JSON, 404 propre)
     config/       # lecture des variables d'environnement
     scripts/      # scripts one-off (seed Supabase)
