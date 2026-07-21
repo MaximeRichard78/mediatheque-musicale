@@ -2,8 +2,9 @@ import { useState } from 'react';
 import { AlbumList } from './components/AlbumList';
 import { ArtistList } from './components/ArtistList';
 import { LabelList } from './components/LabelList';
+import { RecommendationList } from './components/RecommendationList';
 
-type Tab = 'artists' | 'albums' | 'labels';
+type Tab = 'artists' | 'albums' | 'labels' | 'recommendations';
 
 function App() {
   const [tab, setTab] = useState<Tab>('artists');
@@ -22,11 +23,15 @@ function App() {
         <button className="border px-2 py-1" onClick={() => setTab('labels')}>
           Labels
         </button>
+        <button className="border px-2 py-1" onClick={() => setTab('recommendations')}>
+          Recommandations
+        </button>
       </nav>
 
       {tab === 'artists' && <ArtistList />}
       {tab === 'albums' && <AlbumList />}
       {tab === 'labels' && <LabelList />}
+      {tab === 'recommendations' && <RecommendationList />}
     </main>
   );
 }

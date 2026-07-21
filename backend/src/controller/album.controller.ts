@@ -23,13 +23,14 @@ export function createAlbumController(albumService: AlbumService): Router {
 
   router.post('/recommendations', async (req, res) => {
     const { favoriteIds } = req.body;
+    const boostRecent = req.query.boostRecent === 'true';
 
     if (!Array.isArray(favoriteIds) || favoriteIds.length === 0) {
       res.status(400).json({ message: 'favoriteIds must be a non-empty array of album ids' });
       return;
     }
 
-    res.json(await albumService.recommend(favoriteIds));
+    res.json(await albumService.recommend(favoriteIds, boostRecent));
   });
 
   router.get('/:id', async (req, res) => {

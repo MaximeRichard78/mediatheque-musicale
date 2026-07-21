@@ -121,4 +121,16 @@ describe('AlbumService.recommend', () => {
       withWeightedSum.map((album) => album.id),
     );
   });
+
+  it('boostRecent avantage les albums récents (decorator)', async () => {
+    const withoutBoost = await service.recommend(['old-short'], false);
+    const withBoost = await service.recommend(['old-short'], true);
+
+    expect(withoutBoost.map((album) => album.id)).not.toEqual(withBoost.map((album) => album.id));
+
+    // avec le boost, l'album le plus récent doit remonter dans le classement
+    const rankWithoutBoost = withoutBoost.findIndex((album) => album.id === 'newer-longer');
+    const rankWithBoost = withBoost.findIndex((album) => album.id === 'newer-longer');
+    expect(rankWithBoost).toBeLessThan(rankWithoutBoost);
+  });
 });
