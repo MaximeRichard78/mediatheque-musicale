@@ -2,6 +2,7 @@ import { Album } from '../model/album.model';
 import { AlbumRepository } from '../repository/album.repository';
 import { toAlbumVector } from './scoring/album-vector';
 import { BarycentreScoringStrategy } from './scoring/barycentre-scoring.strategy';
+import { RecencyBoostScoringStrategy } from './scoring/recency-boost-scoring.decorator';
 import { ScoringStrategy } from './scoring/scoring-strategy';
 import { barycentre, normalizeMatrix } from './scoring/vector-math';
 
@@ -59,7 +60,7 @@ export class AlbumService {
     return groups;
   }
 
-  async recommend(favoriteIds: string[]): Promise<Album[]> {
+  async recommend(favoriteIds: string[], boostRecent = false): Promise<Album[]> {
     const albums = await this.albumRepository.findAll();
 
     // vectorisation : chaque album devient un point à 4 dimensions, puis on normalise (0-1)
@@ -75,7 +76,11 @@ export class AlbumService {
 
     // profil : barycentre (moyenne attribut par attribut) des favoris
     const profile = barycentre(favoriteVectors);
-    const strategy = this.createScoringStrategy(profile);
+    const baseStrategy = this.createScoringStrategy(profile);
+    // decorator : ajoute un bonus pour les albums récents sans modifier la stratégie de base
+    const strategy = boostRecent
+      ? new RecencyBoostScoringStrategy(baseStrategy, 0.5)
+      : baseStrategy;
 
     // filtre : on ne recommande pas ce que l'utilisateur a déjà en favori
     const candidates = albums
