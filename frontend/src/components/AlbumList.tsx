@@ -20,10 +20,22 @@ function AlbumRow({
   onToggleFavorite: (id: string) => void;
 }) {
   return (
-    <li>
-      <button onClick={() => onToggleFavorite(album.id)}>{isFavorite ? '♥' : '♡'}</button>{' '}
-      <strong>{album.title}</strong> ({album.firstReleaseDate ?? '?'}) — {album.artistName ?? '?'} /{' '}
-      {album.labelName ?? '?'}
+    <li className="flex items-center gap-3 py-2.5">
+      <button
+        onClick={() => onToggleFavorite(album.id)}
+        className={`text-lg transition-transform hover:scale-110 ${
+          isFavorite ? 'text-rose-500' : 'text-slate-300'
+        }`}
+        aria-label="Marquer en favori"
+      >
+        {isFavorite ? '♥' : '♡'}
+      </button>
+      <div className="min-w-0">
+        <p className="font-semibold truncate">{album.title}</p>
+        <p className="text-xs text-slate-500">
+          {album.firstReleaseDate ?? '?'} · {album.artistName ?? '?'} · {album.labelName ?? '?'}
+        </p>
+      </div>
     </li>
   );
 }
@@ -49,14 +61,21 @@ export function AlbumList() {
 
   return (
     <div className="space-y-4">
-      <div className="flex gap-2">
+      <div className="flex flex-wrap gap-2">
         <button
-          className="border px-2 py-1"
+          className="rounded-lg bg-slate-100 px-3 py-1.5 text-sm font-medium text-slate-700 hover:bg-slate-200"
           onClick={() => setOrder((value) => (value === 'asc' ? 'desc' : 'asc'))}
         >
-          Tri par année : {order === 'asc' ? 'croissant' : 'décroissant'}
+          Tri par année : {order === 'asc' ? 'croissant ↑' : 'décroissant ↓'}
         </button>
-        <button className="border px-2 py-1" onClick={() => setGroupByEra((value) => !value)}>
+        <button
+          onClick={() => setGroupByEra((value) => !value)}
+          className={`rounded-lg px-3 py-1.5 text-sm font-medium transition-colors ${
+            groupByEra
+              ? 'bg-indigo-600 text-white'
+              : 'bg-slate-100 text-slate-700 hover:bg-slate-200'
+          }`}
+        >
           Grouper par époque : {groupByEra ? 'oui' : 'non'}
         </button>
       </div>
@@ -64,8 +83,10 @@ export function AlbumList() {
       {groupByEra ? (
         Object.entries(groups ?? {}).map(([era, eraAlbums]) => (
           <div key={era}>
-            <h2 className="font-bold">{era}</h2>
-            <ul className="space-y-1">
+            <h2 className="mt-3 mb-1 text-sm font-bold uppercase tracking-wide text-indigo-600">
+              {era}
+            </h2>
+            <ul className="divide-y divide-slate-100">
               {eraAlbums.map((album) => (
                 <AlbumRow
                   key={album.id}
@@ -78,7 +99,7 @@ export function AlbumList() {
           </div>
         ))
       ) : (
-        <ul className="space-y-1">
+        <ul className="divide-y divide-slate-100">
           {albums.map((album) => (
             <AlbumRow
               key={album.id}
