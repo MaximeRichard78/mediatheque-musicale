@@ -1,10 +1,8 @@
 import 'dotenv/config';
 
-export type DataSource = 'in-memory' | 'supabase';
-
 export const env = {
   port: process.env.PORT ?? '3000',
-  dataSource: (process.env.DATA_SOURCE === 'supabase' ? 'supabase' : 'in-memory') as DataSource,
+  dataSource: process.env.DATA_SOURCE ?? 'in-memory',
   supabaseUrl: process.env.SUPABASE_URL,
   supabaseAnonKey: process.env.SUPABASE_ANON_KEY,
   supabaseServiceRoleKey: process.env.SUPABASE_SERVICE_ROLE_KEY,
