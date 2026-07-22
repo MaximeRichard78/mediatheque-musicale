@@ -1,0 +1,4194 @@
+{
+  "created": "2026-07-02T15:03:05.000Z",
+  "count": 20,
+  "links": [
+    {
+      "artist": {
+        "id": "b10bbbfc-cf9e-42e0-be17-e2c3e1d2600d",
+        "name": "The Beatles"
+      },
+      "albums": [
+        {
+          "release-group": {
+            "id": "9162580e-5df4-32de-80cc-f45a8d8a9b1d",
+            "title": "Abbey Road"
+          },
+          "release": {
+            "id": "d6010be3-98f8-422c-a6c9-787e2e491e58",
+            "title": "Abbey Road",
+            "date": "1969-09-26"
+          },
+          "label": {
+            "id": "cf7fc5cf-e011-4ef4-b511-cd0188537910",
+            "name": "Apple Records"
+          },
+          "recordings": [
+            {
+              "id": "485bbe7f-d0f7-4ffe-8adb-0f1093dd2dbf",
+              "title": "Come Together"
+            },
+            {
+              "id": "b849acd4-0638-49ea-8e40-7391613d4890",
+              "title": "Something"
+            },
+            {
+              "id": "a92380e6-f10d-4407-aceb-5825b17fed5a",
+              "title": "Maxwell’s Silver Hammer"
+            },
+            {
+              "id": "de896c41-463d-4eaa-8fe4-d826e2afa0f8",
+              "title": "Oh! Darling"
+            },
+            {
+              "id": "15127932-c879-466e-b0f8-a1c5022d16e7",
+              "title": "Octopus’s Garden"
+            },
+            {
+              "id": "a9a83384-3da3-4c84-af6d-33fcdb1c3e27",
+              "title": "I Want You (She’s So Heavy)"
+            },
+            {
+              "id": "440f60e8-0b25-4ec4-abb1-c6beec624ab0",
+              "title": "Here Comes the Sun"
+            },
+            {
+              "id": "1e1d1f33-346c-4f9a-ad05-03aa715c2f37",
+              "title": "Because"
+            },
+            {
+              "id": "474546e9-0b30-4881-9269-c6c1c8bbf07b",
+              "title": "You Never Give Me Your Money"
+            },
+            {
+              "id": "d057c75d-04eb-438f-be0b-74f629f2953c",
+              "title": "Sun King"
+            },
+            {
+              "id": "99c004fb-ba87-41be-afd4-e0157b40516a",
+              "title": "Mean Mr. Mustard"
+            },
+            {
+              "id": "65ca55c8-d857-4a3b-9246-835b1e54fe4d",
+              "title": "Polythene Pam"
+            },
+            {
+              "id": "c19db4d3-6640-4732-a0b2-e358ed80c5c4",
+              "title": "She Came In Through the Bathroom Window"
+            },
+            {
+              "id": "3d7f2000-123d-4cac-862b-e04ead24c5f2",
+              "title": "Golden Slumbers"
+            },
+            {
+              "id": "daaee15a-8a4c-4275-a7c1-5b6211f0ec69",
+              "title": "Carry That Weight"
+            },
+            {
+              "id": "5ad78393-77c2-451e-beb1-074df7e06e57",
+              "title": "The End"
+            },
+            {
+              "id": "ed8d1b3b-8757-447a-baba-3efe027f2765",
+              "title": "Her Majesty"
+            }
+          ]
+        },
+        {
+          "release-group": {
+            "id": "de208292-8db5-3aed-a14a-b37a84d8c521",
+            "title": "Please Please Me"
+          },
+          "release": {
+            "id": "b13c7b8f-c04f-435e-80fc-95d15418ec8e",
+            "title": "Please Please Me",
+            "date": "1963"
+          },
+          "label": {
+            "id": "df7d1c7f-ef95-425f-8eef-445b3d7bcbd9",
+            "name": "Parlophone"
+          },
+          "recordings": [
+            {
+              "id": "da77d23c-3acb-4b3d-9596-24aa55f03ece",
+              "title": "I Saw Her Standing There"
+            },
+            {
+              "id": "c91fd146-01cb-4673-b653-d0845c05e164",
+              "title": "Misery"
+            },
+            {
+              "id": "db567516-40c0-46b0-9198-a196b8d2a19c",
+              "title": "Anna (Go to Him)"
+            },
+            {
+              "id": "b4e7e5e2-69a5-423c-be62-6a888d07ccb6",
+              "title": "Chains"
+            },
+            {
+              "id": "64e7b8ca-2fa2-47ae-8f6a-e3ebf835e2da",
+              "title": "Boys"
+            },
+            {
+              "id": "04532aae-d0cb-403c-8e09-7ea1716a124c",
+              "title": "Ask Me Why"
+            },
+            {
+              "id": "875c1cf7-f568-4f0d-b5e3-bc8a7614269a",
+              "title": "Please Please Me"
+            },
+            {
+              "id": "1f518811-7cf9-4bdc-a656-0958e130f312",
+              "title": "Love Me Do"
+            },
+            {
+              "id": "c84e23aa-20d9-45df-85cb-a6ecdba6e44e",
+              "title": "P.S. I Love You"
+            },
+            {
+              "id": "f9b03c87-41da-4e69-b97d-500d587e3703",
+              "title": "Baby It’s You"
+            },
+            {
+              "id": "42df56b9-0aa2-4cb7-bcb5-b8c6d89803de",
+              "title": "Do You Want to Know a Secret"
+            },
+            {
+              "id": "a6fbba57-6e43-4a8b-a017-c9c2cf64b282",
+              "title": "A Taste of Honey"
+            },
+            {
+              "id": "14c4b37f-8a93-4dc3-bc23-2ed86cdb20bb",
+              "title": "There’s a Place"
+            },
+            {
+              "id": "af6fb155-b03c-46ea-a44e-22ce394b2a46",
+              "title": "Twist and Shout"
+            }
+          ]
+        },
+        {
+          "release-group": {
+            "id": "a63dc65f-09f2-359b-a10e-648f00ecd96c",
+            "title": "With The Beatles"
+          },
+          "release": {
+            "id": "fb7b626f-0509-472b-b9b0-8cf8bd507154",
+            "title": "With The Beatles",
+            "date": "1963"
+          },
+          "label": {
+            "id": "40eff784-c102-4045-b32d-f74d1449756d",
+            "name": "Odeon"
+          },
+          "recordings": [
+            {
+              "id": "d51d3d1f-7f92-4a8b-91df-f37c3a93d145",
+              "title": "It Won’t Be Long"
+            },
+            {
+              "id": "3129b2ee-03fe-477c-92f7-e275b96f5071",
+              "title": "All I’ve Got to Do"
+            },
+            {
+              "id": "64a9d79b-5eee-4f8e-a43f-3402830174fb",
+              "title": "All My Loving"
+            },
+            {
+              "id": "ae2c5d82-1295-4f2a-8680-8bd42e61281a",
+              "title": "Don’t Bother Me"
+            },
+            {
+              "id": "542e40c8-f83c-430b-bd44-d0c20e9b8c92",
+              "title": "Little Child"
+            },
+            {
+              "id": "7d61f681-36ea-44cf-9de1-84c0241de96d",
+              "title": "Till There Was You"
+            },
+            {
+              "id": "62ebf874-f6ba-4df9-9a4a-944aebf1f07b",
+              "title": "Please Mister Postman"
+            },
+            {
+              "id": "e44e7ccd-3297-48ed-8611-0beb6087d92d",
+              "title": "Roll Over Beethoven"
+            },
+            {
+              "id": "47c5356f-b40f-4369-82d4-b0238eb78f6a",
+              "title": "Hold Me Tight"
+            },
+            {
+              "id": "4dc2450f-4353-441f-baa4-e3b0d31562fa",
+              "title": "You Really Got a Hold on Me"
+            },
+            {
+              "id": "573b70bd-9ac3-4600-8092-00e483046d3e",
+              "title": "I Wanna Be Your Man"
+            },
+            {
+              "id": "8b090b49-76a0-4ef0-8270-22ccc60b272f",
+              "title": "Devil in Her Heart"
+            },
+            {
+              "id": "02e355fc-e422-4aa3-acfa-089c35ecc128",
+              "title": "Not a Second Time"
+            },
+            {
+              "id": "efc73dc2-b2a5-451b-95a8-1712009005a4",
+              "title": "Money (That’s What I Want)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "artist": {
+        "id": "0383dadf-2a4e-4d10-a46a-e9e041da8eb3",
+        "name": "Queen"
+      },
+      "albums": [
+        {
+          "release-group": {
+            "id": "6b47c9a0-b9e1-3df9-a5e8-50a6ce0dbdbd",
+            "title": "A Night at the Opera"
+          },
+          "release": {
+            "id": "1e14b2d6-8652-3dcc-b60b-4fb5fe79e024",
+            "title": "A Night at the Opera",
+            "date": "1975-12-02"
+          },
+          "label": {
+            "id": "873f9f75-af68-4872-98e2-431058e4c9a9",
+            "name": "Elektra"
+          },
+          "recordings": [
+            {
+              "id": "a46d027a-39e0-4b47-b19b-bb7682839ac5",
+              "title": "Death on Two Legs (Dedicated to…)"
+            },
+            {
+              "id": "a69ca3a1-65ff-491a-b25e-fa2010963e26",
+              "title": "Lazing on a Sunday Afternoon"
+            },
+            {
+              "id": "8c8cc498-39e7-440f-b937-21d1481cc3a0",
+              "title": "I’m in Love With My Car"
+            },
+            {
+              "id": "471dc436-80be-4f06-bc8f-7e2685876cfc",
+              "title": "You’re My Best Friend"
+            },
+            {
+              "id": "16d2c90d-d688-4465-bb76-4a9e94b80729",
+              "title": "’39"
+            },
+            {
+              "id": "e787ac41-3aba-41b6-ad05-63ddb02b50b8",
+              "title": "Sweet Lady"
+            },
+            {
+              "id": "e26a4230-72bf-4fbe-b86b-2f045ebb2cb7",
+              "title": "Seaside Rendezvous"
+            },
+            {
+              "id": "1709306b-e1a4-471f-ab6d-6c78ab0a55be",
+              "title": "The Prophet’s Song"
+            },
+            {
+              "id": "aae7c914-d58d-4e25-b3a3-21bd0f565a54",
+              "title": "Love of My Life"
+            },
+            {
+              "id": "d002ad96-7eac-4ca5-9b45-d89b8c7f15ee",
+              "title": "Good Company"
+            },
+            {
+              "id": "b1a9c0e9-d987-4042-ae91-78d6a3267d69",
+              "title": "Bohemian Rhapsody"
+            },
+            {
+              "id": "4112acb8-7ac0-4047-9c02-6e02226003e7",
+              "title": "God Save the Queen"
+            }
+          ]
+        },
+        {
+          "release-group": {
+            "id": "810068af-2b3c-3e9c-b2ab-68a3f3e3787d",
+            "title": "Queen"
+          },
+          "release": {
+            "id": "1783da6a-9315-3602-a488-1738eb733a0f",
+            "title": "Queen",
+            "date": "1973-09-04"
+          },
+          "label": {
+            "id": "873f9f75-af68-4872-98e2-431058e4c9a9",
+            "name": "Elektra"
+          },
+          "recordings": [
+            {
+              "id": "c459d5fc-2be7-46d0-9565-b6caa6c626a7",
+              "title": "Keep Yourself Alive"
+            },
+            {
+              "id": "3a8c5730-994a-47d1-9af8-53d33119f5cc",
+              "title": "Doing All Right"
+            },
+            {
+              "id": "36787a07-7b38-4656-b0c0-d01ecdf1ce10",
+              "title": "Great King Rat"
+            },
+            {
+              "id": "2da6b6f9-719a-49e1-b577-ace894a1a2f8",
+              "title": "My Fairy King"
+            },
+            {
+              "id": "1b687aec-3659-4960-976f-93ff4e7ac4a9",
+              "title": "Liar"
+            },
+            {
+              "id": "d536ff64-0bf4-4547-ab27-cd25ed343e1a",
+              "title": "The Night Comes Down"
+            },
+            {
+              "id": "26956d0b-38cf-4219-9807-1975e4b5ef7b",
+              "title": "Modern Times Rock ’n’ Roll"
+            },
+            {
+              "id": "c2e919f7-ecb9-4fdf-9162-3c26d0127fa0",
+              "title": "Son and Daughter"
+            },
+            {
+              "id": "e9e4a8d5-47e5-44cd-88d9-16c6e3cd1028",
+              "title": "Jesus"
+            },
+            {
+              "id": "68662873-9929-4671-a8e2-c587575a35f5",
+              "title": "Seven Seas of Rhye…"
+            }
+          ]
+        },
+        {
+          "release-group": {
+            "id": "93d91bd6-1b55-3751-bca7-8b9d33beb7ef",
+            "title": "Queen II"
+          },
+          "release": {
+            "id": "4119c891-2706-3748-ae10-44976b191f2d",
+            "title": "Queen II",
+            "date": "1974-04-09"
+          },
+          "label": {
+            "id": "873f9f75-af68-4872-98e2-431058e4c9a9",
+            "name": "Elektra"
+          },
+          "recordings": [
+            {
+              "id": "aa90019b-966f-4902-978f-1b4455a0f396",
+              "title": "Procession"
+            },
+            {
+              "id": "6ad8831f-77db-47dc-828b-bd62482e1047",
+              "title": "Father to Son"
+            },
+            {
+              "id": "39e93102-11bd-42e6-a128-58c293f0a768",
+              "title": "White Queen (As It Began)"
+            },
+            {
+              "id": "4a04000c-3a40-419e-a737-ba262bf8b554",
+              "title": "Some Day One Day"
+            },
+            {
+              "id": "d8511198-bbaf-471c-b31b-3b77423d44a9",
+              "title": "The Loser in the End"
+            },
+            {
+              "id": "d46d3ef6-2f56-4a79-a3f9-6d3b4ec1d3e3",
+              "title": "Ogre Battle"
+            },
+            {
+              "id": "8f6da9ea-54fd-43ea-abe3-82e99210be61",
+              "title": "The Fairy Feller’s Master‐Stroke"
+            },
+            {
+              "id": "702b4e3d-cb0e-4d22-841a-65c9a2936c3d",
+              "title": "Nevermore"
+            },
+            {
+              "id": "33b91ac5-014d-417e-b74f-cf30757c54ca",
+              "title": "The March of the Black Queen"
+            },
+            {
+              "id": "6d7f5383-cfd2-49c1-9511-1f8b83a74c4b",
+              "title": "Funny How Love Is"
+            },
+            {
+              "id": "8402fc0f-71b8-4773-ae7b-86bde5ac7b43",
+              "title": "Seven Seas of Rhye"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "artist": {
+        "id": "f27ec8db-af05-4f36-916e-3d57f91ecf5e",
+        "name": "Michael Jackson"
+      },
+      "albums": [
+        {
+          "release-group": {
+            "id": "3a7817b5-22cb-32c3-a31b-2c8309fbf92e",
+            "title": "Thriller"
+          },
+          "release": {
+            "id": "e5016d8a-f294-48fd-811a-7f4840343775",
+            "title": "Thriller 25",
+            "date": "2008"
+          },
+          "label": {
+            "id": "8f638ddb-131a-4cc3-b3d4-7ebdac201b55",
+            "name": "Epic"
+          },
+          "recordings": [
+            {
+              "id": "2460a241-6ff4-49f1-80f9-36051534e9ae",
+              "title": "Wanna Be Startin’ Somethin’"
+            },
+            {
+              "id": "170f236a-f9e5-4632-8543-dd0142eaf242",
+              "title": "Baby Be Mine"
+            },
+            {
+              "id": "bdc55bab-f300-42f9-b2dc-10f035e536a9",
+              "title": "The Girl Is Mine"
+            },
+            {
+              "id": "8403caf8-3714-46da-934c-1fe91a049540",
+              "title": "Thriller"
+            },
+            {
+              "id": "de798de6-70fc-49f6-b580-339cd2e62052",
+              "title": "Beat It"
+            },
+            {
+              "id": "f980fc14-e29b-481d-ad3a-5ed9b4ab6340",
+              "title": "Billie Jean"
+            },
+            {
+              "id": "40a43f5e-d4f4-4253-a42d-364d47208c64",
+              "title": "Human Nature"
+            },
+            {
+              "id": "7e82e767-94a3-4b72-8d79-4623aa4ac584",
+              "title": "P.Y.T. (Pretty Young Thing)"
+            },
+            {
+              "id": "2bff76c1-0b98-4643-9ed3-063511ef9383",
+              "title": "The Lady in My Life"
+            },
+            {
+              "id": "811a5565-9392-45ab-b0f0-aa657e81659c",
+              "title": "Excerpt From “Thriller” Voice‐Over Session"
+            },
+            {
+              "id": "770ea81f-7598-4707-b564-add8e31d39df",
+              "title": "The Girl Is Mine 2008"
+            },
+            {
+              "id": "730797df-592c-4cb3-ba55-bdfce9e39700",
+              "title": "P.Y.T. (Pretty Young Thing) 2008"
+            },
+            {
+              "id": "d210e17e-f41e-429f-b33f-cb39497c4e3a",
+              "title": "Wanna Be Startin’ Somethin’ 2008"
+            },
+            {
+              "id": "9e5ae664-07b3-4fe9-85fd-44722e2dbbe1",
+              "title": "Beat It 2008"
+            },
+            {
+              "id": "956e247f-771c-46b5-b0e5-e3b26e2d5636",
+              "title": "Billie Jean 2008 (Kanye West mix)"
+            },
+            {
+              "id": "78d1d5cd-163e-4ef5-8339-bea73b8bae1b",
+              "title": "For All Time"
+            },
+            {
+              "id": "3c5801f0-0380-41fe-ae7a-e945ebd89e1b",
+              "title": "Billie Jean"
+            },
+            {
+              "id": "d6cbcead-60f0-4f39-9486-d448626958c0",
+              "title": "Beat It"
+            },
+            {
+              "id": "71e79b8a-e2be-4aee-aaa5-ddc2d71e4a3c",
+              "title": "Thriller"
+            },
+            {
+              "id": "f0bf27ff-a745-46d9-8d83-ad21e7786c1f",
+              "title": "Billie Jean (The Legendary Performance from Motown 25: Yesterday, Today and Forever)"
+            }
+          ]
+        },
+        {
+          "release-group": {
+            "id": "97e0014d-a267-33a0-a868-bb4e2552918a",
+            "title": "Got to Be There"
+          },
+          "release": {
+            "id": "1de4099e-a41a-4ead-bb53-f45226bf778c",
+            "title": "Got to Be There",
+            "date": "1972"
+          },
+          "label": {
+            "id": "4b59e4da-ed85-49f9-904c-973f9a698c8b",
+            "name": "Tamla Motown"
+          },
+          "recordings": [
+            {
+              "id": "bc76298a-c8f4-42fc-a25d-43cb91fd0a77",
+              "title": "Ain’t No Sunshine"
+            },
+            {
+              "id": "d69617bf-3224-404a-8bd1-c503805451eb",
+              "title": "Love Is Here and Now You’re Gone"
+            },
+            {
+              "id": "d142f8f7-f5e6-41d4-918c-17bb33c569b7",
+              "title": "Maria (You Were the Only One) (Part 1)"
+            },
+            {
+              "id": "bb1236ce-bcc9-4338-b652-baba8fbc9cba",
+              "title": "Maria (You Were the Only One) (Conclusion)"
+            },
+            {
+              "id": "bc502fe1-76bb-4a20-a0ad-c9b0b8f58154",
+              "title": "Got to Be There"
+            },
+            {
+              "id": "1a27fd68-bd72-4f4f-a626-93f7b38cbe85",
+              "title": "In Our Small Way"
+            },
+            {
+              "id": "9fc4da88-c9ec-496b-b480-fa43a3ba42bf",
+              "title": "Girl Don’t Take Your Love From Me"
+            },
+            {
+              "id": "320a11eb-2aca-446e-a388-37e48025308c",
+              "title": "You’ve Got a Friend"
+            },
+            {
+              "id": "05c01193-27c5-4ad0-84d3-582b47c72d8c",
+              "title": "I Wanna Be Where You Are"
+            },
+            {
+              "id": "92b934d2-451c-411d-b2ca-0c543fa9ec53",
+              "title": "Rockin’ Robin"
+            },
+            {
+              "id": "b2c47600-80ff-4550-ba38-b88270377d75",
+              "title": "Wings of My Love"
+            }
+          ]
+        },
+        {
+          "release-group": {
+            "id": "51343255-0ad3-3635-9aa2-548ba939b23e",
+            "title": "Ben"
+          },
+          "release": {
+            "id": "6b2765dd-f33e-4463-9052-03da1df6a3b3",
+            "title": "Ben",
+            "date": "1972"
+          },
+          "label": {
+            "id": "eaeb4138-f477-4f06-b7ab-6ea9624bd0ca",
+            "name": "Tapecar"
+          },
+          "recordings": [
+            {
+              "id": "50d32bd1-c37e-4b3a-9f4b-38bb823dc4ba",
+              "title": "Ben"
+            },
+            {
+              "id": "41afeaf7-2944-465b-b083-4e31c654cd71",
+              "title": "Greatest Show on Earth"
+            },
+            {
+              "id": "34f1a9da-c65c-495f-a9b2-74b8236d8180",
+              "title": "People Make the World Go ’Round"
+            },
+            {
+              "id": "d4c57771-972d-41c3-aa09-d2d9971b5307",
+              "title": "We've Got a Good Thing Going"
+            },
+            {
+              "id": "44337c18-b8ad-4611-a027-0a2361da9ac2",
+              "title": "Everybody’s Somebody’s Fool"
+            },
+            {
+              "id": "ab3ba554-a107-4a7c-aa98-898eddf17b33",
+              "title": "My Girl"
+            },
+            {
+              "id": "6a4ad25a-0d25-492b-a475-6e3a2b8515c1",
+              "title": "What Goes Around Comes Around"
+            },
+            {
+              "id": "1a27fd68-bd72-4f4f-a626-93f7b38cbe85",
+              "title": "In Our Small Way"
+            },
+            {
+              "id": "7d00d4a4-0b0d-4ee9-9650-b65a58c3c660",
+              "title": "Shoo-Be-Doo-Be-Doo-Da-Day"
+            },
+            {
+              "id": "036f8fea-d71b-4c59-a82f-ce85bf49561f",
+              "title": "You Can Cry on My Shoulder"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "artist": {
+        "id": "79239441-bfd5-4981-a70c-55c3f15c1287",
+        "name": "Madonna"
+      },
+      "albums": [
+        {
+          "release-group": {
+            "id": "ea3a395f-5e10-3332-bba1-e0694a638212",
+            "title": "Like a Prayer"
+          },
+          "release": {
+            "id": "8ada0aac-24df-4d5a-b6be-066946a18ff0",
+            "title": "Like a Prayer",
+            "date": "1989"
+          },
+          "label": {
+            "id": "be0fec81-5c18-4494-8bbf-0d81dec006bf",
+            "name": "Sire Records"
+          },
+          "recordings": [
+            {
+              "id": "91495477-49c7-41f9-b192-f7b432e2a5eb",
+              "title": "Like a Prayer (7″ version)"
+            },
+            {
+              "id": "0065e7f8-2976-42ec-b879-d44e835e9cbc",
+              "title": "Like a Prayer (7″ remix/edit)"
+            },
+            {
+              "id": "27325fff-6d67-4586-ae53-3b70789129c6",
+              "title": "Like a Prayer (7″ dance edit)"
+            },
+            {
+              "id": "a54db1db-7010-4fac-8b8a-d21ceebe7a10",
+              "title": "Like a Prayer (12″ dance mix)"
+            },
+            {
+              "id": "3656ccfa-33ee-4f1a-a662-159f57785f16",
+              "title": "Like a Prayer (12″ club version)"
+            }
+          ]
+        },
+        {
+          "release-group": {
+            "id": "cf44c73c-650d-3c67-9327-c99426ce464f",
+            "title": "Madonna"
+          },
+          "release": {
+            "id": "d0bfb1cd-fae0-4f2e-97a7-00bebd0f7efd",
+            "title": "Madonna",
+            "date": "1983"
+          },
+          "label": {
+            "id": "c595c289-47ce-4fba-b999-b87503e8cb71",
+            "name": "Warner Bros. Records"
+          },
+          "recordings": [
+            {
+              "id": "9a501c4e-c7cb-40f8-ae2d-6cd92807f9a8",
+              "title": "Lucky Star"
+            },
+            {
+              "id": "516012bf-ff23-4fb9-ae18-d70f35fa8603",
+              "title": "Borderline"
+            },
+            {
+              "id": "a17afcb2-d983-40d4-af7a-c9a2d803fe48",
+              "title": "Burning Up"
+            },
+            {
+              "id": "69c1c7e0-4bd5-40d5-9e35-857142fa64df",
+              "title": "I Know It"
+            },
+            {
+              "id": "d4708b79-62e7-4ce4-a6ca-247237d4ef4e",
+              "title": "Holiday"
+            },
+            {
+              "id": "ebebef4c-8016-4602-8e65-bbcdb418d14c",
+              "title": "Think of Me"
+            },
+            {
+              "id": "d4f61112-4bc2-4109-a56c-ba63acb9465f",
+              "title": "Physical Attraction"
+            },
+            {
+              "id": "e9493fd6-f337-4e57-ae21-1bb597b9bdbf",
+              "title": "Everybody"
+            }
+          ]
+        },
+        {
+          "release-group": {
+            "id": "b69580b9-7050-3994-b544-4407a22c097a",
+            "title": "Like a Virgin"
+          },
+          "release": {
+            "id": "ada5cb98-7314-4ea3-b642-e859a066b58c",
+            "title": "Like a Virgin",
+            "date": "1984"
+          },
+          "label": {
+            "id": "be0fec81-5c18-4494-8bbf-0d81dec006bf",
+            "name": "Sire Records"
+          },
+          "recordings": [
+            {
+              "id": "9607fd1a-19c6-45b8-9445-cb351d4405c2",
+              "title": "Material Girl"
+            },
+            {
+              "id": "eab5aa69-6487-4376-b136-9209fb25ea21",
+              "title": "Angel"
+            },
+            {
+              "id": "9436c9cc-c96d-4296-aa63-1fcea5e91fa3",
+              "title": "Like a Virgin"
+            },
+            {
+              "id": "30b98027-19d0-4b40-a6d8-d7e5b05b1c58",
+              "title": "Over and Over"
+            },
+            {
+              "id": "d779b9c3-4515-40e0-8df1-e5be7cead3bb",
+              "title": "Love Don’t Live Here Anymore"
+            },
+            {
+              "id": "618d931c-332c-4c3e-a036-37790c80017e",
+              "title": "Dress You Up"
+            },
+            {
+              "id": "886468b5-2c0c-4525-aef9-7f713e811f8c",
+              "title": "Shoo‐Bee‐Doo"
+            },
+            {
+              "id": "ea247a5f-b641-4486-8d1d-f29af33d9a77",
+              "title": "Pretender"
+            },
+            {
+              "id": "a94b5ae0-8f3c-4d4e-8936-e1cb3e680d7c",
+              "title": "Stay"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "artist": {
+        "id": "20244d07-534f-4eff-b4d4-930878889970",
+        "name": "Taylor Swift"
+      },
+      "albums": [
+        {
+          "release-group": {
+            "id": "4d9ec1c2-58ec-48a4-aa0a-916718adead0",
+            "title": "1989"
+          },
+          "release": {
+            "id": "788275f7-845f-4aa5-b66c-1977c4d6126a",
+            "title": "1989",
+            "date": "2014"
+          },
+          "label": {
+            "id": "1a917e6f-54f5-4964-bebf-5d4e2442ceb4",
+            "name": "Big Machine Records"
+          },
+          "recordings": [
+            {
+              "id": "3c2fefb5-ca6a-4793-b044-babc85bed24e",
+              "title": "Welcome to New York"
+            },
+            {
+              "id": "c3fe7791-0a91-4f0a-a89b-b056f38d3cde",
+              "title": "Blank Space"
+            },
+            {
+              "id": "4459f042-afff-4fa3-b5e5-e10d9782992d",
+              "title": "Style"
+            },
+            {
+              "id": "6c63a910-6e61-445f-8fbe-3bd17b954c95",
+              "title": "Out of the Woods"
+            },
+            {
+              "id": "035c98ee-1aae-4c19-bb2b-7f22a42807d3",
+              "title": "All You Had to Do Was Stay"
+            },
+            {
+              "id": "59fc5ddf-a1d9-4746-902d-71fb5a9a78c2",
+              "title": "Shake It Off"
+            },
+            {
+              "id": "ed00ad44-7707-4fe1-ba79-79073144dcff",
+              "title": "I Wish You Would"
+            },
+            {
+              "id": "914f6a27-fce4-4a75-9267-049b51a1b086",
+              "title": "Bad Blood"
+            },
+            {
+              "id": "598bc2a9-1a27-4f6a-a7cc-30649303edca",
+              "title": "Wildest Dreams"
+            },
+            {
+              "id": "4324d234-b2f0-4018-9bd4-9241983b9a79",
+              "title": "How You Get the Girl"
+            },
+            {
+              "id": "84bd2543-751d-4f56-a840-f28106b31fb7",
+              "title": "This Love"
+            },
+            {
+              "id": "adfcdd81-4129-436b-97d1-7aa522392583",
+              "title": "I Know Places"
+            },
+            {
+              "id": "ca9c624b-2272-49d4-a25b-2235659de660",
+              "title": "Clean"
+            }
+          ]
+        },
+        {
+          "release-group": {
+            "id": "ba1d0c2a-bb07-38bc-835c-a880f76f1309",
+            "title": "Taylor Swift"
+          },
+          "release": {
+            "id": "ab0f019d-c2ff-4d93-a282-92782b1d7c2a",
+            "title": "Taylor Swift",
+            "date": "2006"
+          },
+          "label": {
+            "id": "1a917e6f-54f5-4964-bebf-5d4e2442ceb4",
+            "name": "Big Machine Records"
+          },
+          "recordings": [
+            {
+              "id": "4bea9dc0-11d3-4dc1-936b-73361da356eb",
+              "title": "Tim McGraw"
+            },
+            {
+              "id": "5767ddf9-34c1-4a5d-a366-3d45354528d1",
+              "title": "Picture to Burn"
+            },
+            {
+              "id": "e6d2b937-da28-46c2-9f6f-b889809c4923",
+              "title": "Teardrops on My Guitar"
+            },
+            {
+              "id": "9a4c6749-6ac1-4412-a425-b3c46a27ade8",
+              "title": "A Place in This World"
+            },
+            {
+              "id": "25aa1b18-5e85-454e-a15b-145d5559d0fe",
+              "title": "Cold as You"
+            },
+            {
+              "id": "91823633-8f8a-41f1-a6b3-32b625bc2799",
+              "title": "The Outside"
+            },
+            {
+              "id": "9dd26e68-cdf4-40a3-9e46-5b606b0c304e",
+              "title": "Tied Together With a Smile"
+            },
+            {
+              "id": "c9f876e3-548d-438c-848b-1ec6f47a4f88",
+              "title": "Stay Beautiful"
+            },
+            {
+              "id": "317375d5-149a-43f3-9037-db6caac1e96a",
+              "title": "Should’ve Said No"
+            },
+            {
+              "id": "d5a2b74f-781c-4501-960f-f788c8dc7e30",
+              "title": "Mary’s Song (Oh My My My)"
+            },
+            {
+              "id": "08f535c5-b651-4cc2-a8a8-349aa6060b16",
+              "title": "Our Song"
+            }
+          ]
+        },
+        {
+          "release-group": {
+            "id": "63eba062-847c-3b73-8b0f-6baf27bba6fa",
+            "title": "Fearless"
+          },
+          "release": {
+            "id": "36a43883-c36e-4107-92ee-147ad80e7626",
+            "title": "Fearless",
+            "date": "2008-11-11"
+          },
+          "label": {
+            "id": "1a917e6f-54f5-4964-bebf-5d4e2442ceb4",
+            "name": "Big Machine Records"
+          },
+          "recordings": [
+            {
+              "id": "882a8c40-b184-446d-8510-88460a6a6f11",
+              "title": "Fearless"
+            },
+            {
+              "id": "2a1c1246-f93b-4403-918d-18c3aac324d3",
+              "title": "Fifteen"
+            },
+            {
+              "id": "9086b742-358b-4f73-9a14-84cb1a9ce4ce",
+              "title": "Love Story"
+            },
+            {
+              "id": "be8df2b2-7965-4855-9699-0251a570f18d",
+              "title": "Hey Stephen"
+            },
+            {
+              "id": "c46a220b-32be-4094-b38c-78b84d76ec0a",
+              "title": "White Horse"
+            },
+            {
+              "id": "70ecebf2-6dc0-4cc8-8f6c-52f7de1fdeb0",
+              "title": "You Belong With Me"
+            },
+            {
+              "id": "ba53bb6e-27f9-4830-b2ea-0a14d46cb17f",
+              "title": "Breathe"
+            },
+            {
+              "id": "b3863134-0129-4b46-89b4-cb39a99f7f54",
+              "title": "Tell Me Why"
+            },
+            {
+              "id": "20f265dc-26b1-4ec0-9788-85acb17d7f90",
+              "title": "You’re Not Sorry"
+            },
+            {
+              "id": "b8a53072-515b-4d87-ba7e-f82967dc8555",
+              "title": "The Way I Loved You"
+            },
+            {
+              "id": "0bc0ebeb-ff98-4be1-a2c5-4b47893e9ffa",
+              "title": "Forever & Always"
+            },
+            {
+              "id": "26290d76-ba05-4f65-acc8-6d08615f0489",
+              "title": "The Best Day"
+            },
+            {
+              "id": "ea4faef3-2a6d-4325-ac21-b74398f228fe",
+              "title": "Change"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "artist": {
+        "id": "9fff2f8a-21e6-47de-a2b8-7f449929d43f",
+        "name": "Drake"
+      },
+      "albums": [
+        {
+          "release-group": {
+            "id": "4aaaa715-df17-43b8-987e-04b54ec4a697",
+            "title": "Views"
+          },
+          "release": {
+            "id": "bc2b7291-11f1-4307-8191-df5639f96207",
+            "title": "Views",
+            "date": "2016-04-29"
+          },
+          "label": {
+            "id": "cb5bbd34-2903-472c-94e9-16af03881423",
+            "name": "Cash Money Records"
+          },
+          "recordings": [
+            {
+              "id": "dac663a7-29a6-42f7-b87e-7300bc25e31c",
+              "title": "Keep the Family Close"
+            },
+            {
+              "id": "40fae8e0-16e7-4e96-869a-704ce98e776f",
+              "title": "9"
+            },
+            {
+              "id": "820edd92-aa0e-4071-90d2-6529f5261b55",
+              "title": "U With Me?"
+            },
+            {
+              "id": "81c5145b-82b6-47a8-bca3-c1607ede1fec",
+              "title": "Feel No Ways"
+            },
+            {
+              "id": "7fedffc2-9acc-4781-9ed7-94f93657b200",
+              "title": "Hype"
+            },
+            {
+              "id": "7aead371-6639-4ea7-ac4c-28b7c4379841",
+              "title": "Weston Road Flows"
+            },
+            {
+              "id": "76a2f897-2a1d-440f-b918-254713775648",
+              "title": "Redemption"
+            },
+            {
+              "id": "fc31a149-b2dd-4c02-af47-292f239237d2",
+              "title": "With You"
+            },
+            {
+              "id": "2512c460-1146-46dc-a94b-e6070d95e320",
+              "title": "Faithful"
+            },
+            {
+              "id": "d82913bb-b79b-4655-ab21-600bf4a70717",
+              "title": "Still Here"
+            },
+            {
+              "id": "2552ab2d-3470-4764-997f-99ae22c4dad3",
+              "title": "Controlla"
+            },
+            {
+              "id": "be9e4a6b-3f56-468a-aa61-b1bcb6fc277f",
+              "title": "One Dance"
+            },
+            {
+              "id": "4f1c5b66-8b3d-45f0-be2f-58d46133a497",
+              "title": "Grammys"
+            },
+            {
+              "id": "6b705833-22e9-4056-be39-6501f837de63",
+              "title": "Childs Play"
+            },
+            {
+              "id": "245dce04-ec8a-467e-9659-4ffd75f33634",
+              "title": "Pop Style"
+            },
+            {
+              "id": "63a6a97b-90be-410e-b5ed-03973e5a55ea",
+              "title": "Too Good"
+            },
+            {
+              "id": "2ca9724a-b2d6-4ddc-aedb-652b47edd37f",
+              "title": "Summers Over (interlude)"
+            },
+            {
+              "id": "4a3c03d0-8b02-4561-b9b4-798928be1615",
+              "title": "Fire & Desire"
+            },
+            {
+              "id": "29debfe5-081a-4b26-af69-91792ad69187",
+              "title": "Views"
+            },
+            {
+              "id": "e288e33a-5c40-4b9f-98f6-0062be760e4a",
+              "title": "Hotline Bling"
+            }
+          ]
+        },
+        {
+          "release-group": {
+            "id": "7c0efd43-6023-400d-8d5c-d808b1cb4094",
+            "title": "Thank Me Later"
+          },
+          "release": {
+            "id": "96329fb0-640a-40d5-9176-d6cfa21c2f77",
+            "title": "Thank Me Later",
+            "date": "2010"
+          },
+          "label": {
+            "id": "cb5bbd34-2903-472c-94e9-16af03881423",
+            "name": "Cash Money Records"
+          },
+          "recordings": [
+            {
+              "id": "bbe981e3-d9b7-42d1-8a3e-c8e596d4c358",
+              "title": "Fireworks"
+            },
+            {
+              "id": "147cf3e6-ff29-4907-9ea7-a5ec4bfb8d39",
+              "title": "Karaoke"
+            },
+            {
+              "id": "2999cecb-e917-4778-a423-3a9a74221660",
+              "title": "The Resistance"
+            },
+            {
+              "id": "79ccacbb-9cd1-48d0-b35c-7f549a573819",
+              "title": "Over"
+            },
+            {
+              "id": "df01145a-9d31-4d8a-89df-0489043a74b0",
+              "title": "Show Me a Good Time"
+            },
+            {
+              "id": "0e33b3ea-b66f-4b7d-b72c-ced1ff6a6601",
+              "title": "Up All Night"
+            },
+            {
+              "id": "3d2d0b3c-c037-4a49-b03c-31977809e6af",
+              "title": "Fancy"
+            },
+            {
+              "id": "eca7820b-7d4e-4996-afba-d1113ceb54dc",
+              "title": "Shut It Down"
+            },
+            {
+              "id": "32d23efe-3256-4973-8221-ef47b5c38013",
+              "title": "Unforgettable"
+            },
+            {
+              "id": "b78865e6-709b-40fd-988c-27b4c051ad4e",
+              "title": "Light Up"
+            },
+            {
+              "id": "04ce66e6-4483-4852-a670-a4ab430693b0",
+              "title": "Miss Me"
+            },
+            {
+              "id": "74dbdc2a-2dee-456c-bd64-986d381c30d7",
+              "title": "Cece’s Interlude"
+            },
+            {
+              "id": "957fe6bf-9b0d-47df-bd93-a8dc061f1c56",
+              "title": "Find Your Love"
+            },
+            {
+              "id": "1e40f6c3-2492-4169-8f79-68e546c39b9b",
+              "title": "Thank Me Now"
+            }
+          ]
+        },
+        {
+          "release-group": {
+            "id": "47809021-4515-4215-beea-db3f5dfb6267",
+            "title": "Take Care"
+          },
+          "release": {
+            "id": "02f7e348-b1ae-4c4e-a057-b97f1f56e53c",
+            "title": "Take Care",
+            "date": "2011-11-14"
+          },
+          "label": {
+            "id": "cb5bbd34-2903-472c-94e9-16af03881423",
+            "name": "Cash Money Records"
+          },
+          "recordings": [
+            {
+              "id": "34814b3e-8415-4076-87c6-c767cc9a38dc",
+              "title": "Over My Dead Body"
+            },
+            {
+              "id": "38a0fa66-4976-4fe2-8afa-40acf3dfe567",
+              "title": "Shot for Me"
+            },
+            {
+              "id": "a9dbaf4c-ea48-48c7-bbe3-c3657d4f3e01",
+              "title": "Headlines"
+            },
+            {
+              "id": "a8cae555-95ce-46dd-a611-8b26753cad81",
+              "title": "Crew Love"
+            },
+            {
+              "id": "a23ccdb8-765f-4b7d-b47a-63191b2f856f",
+              "title": "Take Care"
+            },
+            {
+              "id": "42ac8919-965a-42f9-a487-45e8b85836bf",
+              "title": "Marvins Room / Buried Alive Interlude"
+            },
+            {
+              "id": "3cb6c46b-5597-4733-b24a-b27f4846559d",
+              "title": "Under Ground Kings"
+            },
+            {
+              "id": "d7515c19-a169-4078-82f4-1977d5713fec",
+              "title": "We’ll Be Fine"
+            },
+            {
+              "id": "7e63934c-f99f-4e5f-845d-b248ff5057cf",
+              "title": "Make Me Proud"
+            },
+            {
+              "id": "bef7e31a-e044-4710-8746-204642241d10",
+              "title": "Lord Knows"
+            },
+            {
+              "id": "d9d30538-d4f5-4418-afcb-6d5d1100e77d",
+              "title": "Cameras / Good Ones Go Interlude"
+            },
+            {
+              "id": "1b8f69c3-584b-4f60-8bf4-69c5f6427ecf",
+              "title": "Doing It Wrong"
+            },
+            {
+              "id": "e6d5efbc-d987-4970-9fa4-61d98f74b244",
+              "title": "The Real Her"
+            },
+            {
+              "id": "eddfcbf5-c5ba-45d6-b9c5-7040839bb8a9",
+              "title": "Look What You’ve Done"
+            },
+            {
+              "id": "de5cfcd1-6001-4b5f-80e4-1f57605cebd1",
+              "title": "HYFR (Hell Ya Fuckin’ Right)"
+            },
+            {
+              "id": "67bada6c-5853-4428-a705-d2e17f2d0060",
+              "title": "Practice"
+            },
+            {
+              "id": "e6b7d6ca-9fd5-4bcd-b300-1cec69a77aec",
+              "title": "The Ride"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "artist": {
+        "id": "859d0860-d480-4efd-970c-c05d5f1776b8",
+        "name": "Beyoncé"
+      },
+      "albums": [
+        {
+          "release-group": {
+            "id": "c1f22e07-7bdf-4a4f-8b50-7747c1091ef6",
+            "title": "Lemonade"
+          },
+          "release": {
+            "id": "19c88bb5-1300-4bf3-b743-76e159d60b3a",
+            "title": "LEMONADE",
+            "date": "2016-04-23"
+          },
+          "label": {
+            "id": "31eb6796-abba-4a02-b650-a556aa65f9ae",
+            "name": "Parkwood Entertainment"
+          },
+          "recordings": [
+            {
+              "id": "dbfccc91-7912-463d-8c64-4520fd7c0328",
+              "title": "PRAY YOU CATCH ME"
+            },
+            {
+              "id": "455a36f7-4710-4833-88bb-89fddeb03b57",
+              "title": "Hold Up"
+            },
+            {
+              "id": "9900802f-d5ee-41d9-a304-7632f06d9710",
+              "title": "Don’t Hurt Yourself"
+            },
+            {
+              "id": "5534f2f4-5976-4f7e-b588-ab71b95baad2",
+              "title": "Sorry"
+            },
+            {
+              "id": "b0e6fed8-d0e8-4160-9378-ad52af65540d",
+              "title": "6 Inch"
+            },
+            {
+              "id": "b3085c07-3429-4dcc-b007-9b56b5b56976",
+              "title": "DADDY LESSONS"
+            },
+            {
+              "id": "11a15565-9ed1-4d90-a9cb-bef712b4bd96",
+              "title": "LOVE DROUGHT"
+            },
+            {
+              "id": "f5b3dbe8-b950-4967-a6fb-a7ed78299ea8",
+              "title": "Sandcastles"
+            },
+            {
+              "id": "a02c0998-452e-4288-9ddd-6487a51d5472",
+              "title": "Forward"
+            },
+            {
+              "id": "c7187797-ed70-45e7-8044-53534fa70afe",
+              "title": "Freedom"
+            },
+            {
+              "id": "500a24ed-bc95-4079-9b57-0b1258b09f0b",
+              "title": "ALL NIGHT"
+            },
+            {
+              "id": "78b07d83-01b4-4dfb-ad1f-a2d1ec2b3ff0",
+              "title": "Formation"
+            }
+          ]
+        },
+        {
+          "release-group": {
+            "id": "f639ba46-b371-3262-b494-5f2dbee36f5c",
+            "title": "Dangerously in Love"
+          },
+          "release": {
+            "id": "57522deb-a8ca-4561-9e89-27098bfa3527",
+            "title": "Dangerously in Love",
+            "date": "2003"
+          },
+          "label": {
+            "id": "011d1192-6f65-45bd-85c4-0400dd45693e",
+            "name": "Columbia"
+          },
+          "recordings": [
+            {
+              "id": "ce547594-5199-49a2-9cb7-ff39e64a469f",
+              "title": "Crazy in Love"
+            },
+            {
+              "id": "f848422b-bd77-4515-9442-df7135748ad5",
+              "title": "Naughty Girl"
+            },
+            {
+              "id": "dedf412c-1b48-4064-802c-411be6c36bf4",
+              "title": "That’s How You Like It"
+            },
+            {
+              "id": "1a949e29-88cd-482b-8958-4ad3d7e2b956",
+              "title": "Baby Boy"
+            },
+            {
+              "id": "1feaddda-a8ba-40b1-903f-3c3db523ece0",
+              "title": "Hip Hop Star"
+            },
+            {
+              "id": "b5b9909e-99d9-4151-b228-77ef1a1f8ca1",
+              "title": "Be With You"
+            },
+            {
+              "id": "446028c6-591a-4c1e-ac2b-d0a27d8d7013",
+              "title": "Me, Myself and I"
+            },
+            {
+              "id": "088bd823-2f3a-4221-b09a-ad99b2d06781",
+              "title": "Yes"
+            },
+            {
+              "id": "6a0c5648-83c6-42f4-8afc-b4c7c5230e0c",
+              "title": "Signs"
+            },
+            {
+              "id": "d222c51d-fb6f-481d-9f8f-306503f6a9bb",
+              "title": "Speechless"
+            },
+            {
+              "id": "60a46310-5e97-443d-b1bc-40b128a2aacd",
+              "title": "The Closer I Get to You"
+            },
+            {
+              "id": "7b71b173-277d-4fe6-82b4-6410354562c1",
+              "title": "Dangerously in Love 2"
+            },
+            {
+              "id": "7d26b22c-2dce-4751-834f-d53d7d0258b5",
+              "title": "Beyoncé Interlude"
+            },
+            {
+              "id": "8d1a68b9-372d-40c2-af79-4b31c9c71cb2",
+              "title": "Gift From Virgo"
+            },
+            {
+              "id": "df2f5560-892f-450d-bf50-075cf9cf79cd",
+              "title": "Daddy"
+            }
+          ]
+        },
+        {
+          "release-group": {
+            "id": "9fdbccb2-9b51-36b7-b643-c7ae586b797d",
+            "title": "B’Day"
+          },
+          "release": {
+            "id": "91fd74a5-c107-4078-abe6-17ef2915d8b6",
+            "title": "B’Day",
+            "date": "2006"
+          },
+          "label": {
+            "id": "011d1192-6f65-45bd-85c4-0400dd45693e",
+            "name": "Columbia"
+          },
+          "recordings": [
+            {
+              "id": "d6e63fc9-dacc-488d-af7a-a2da63b731da",
+              "title": "Deja vu"
+            },
+            {
+              "id": "97aeadf4-7bb3-4061-9434-b23174019906",
+              "title": "Get Me Bodied (extended mix)"
+            },
+            {
+              "id": "f6f31fd5-2b5c-480c-8f5c-128499e87e23",
+              "title": "Upgrade U"
+            },
+            {
+              "id": "c48ff423-0380-48f0-8485-4f8dd2da1c6e",
+              "title": "Ring the Alarm"
+            },
+            {
+              "id": "ba90035f-c63f-482e-ac9c-5bd239d2521f",
+              "title": "Kitty Kat"
+            },
+            {
+              "id": "2c111a06-cba3-401c-901c-60cfdbd5afe4",
+              "title": "Freakum Dress"
+            },
+            {
+              "id": "ab1fe470-bf85-42fe-9813-cb5cc23ad55e",
+              "title": "Green Light"
+            },
+            {
+              "id": "0a65e058-83c4-4982-9a5e-d2495fc4565c",
+              "title": "Irreplaceable"
+            },
+            {
+              "id": "42556c51-8c96-47bf-b2a3-d307f12b34ec",
+              "title": "Resentment"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "artist": {
+        "id": "b95ce3ff-3d05-4e87-9e01-c97b66af13d4",
+        "name": "Eminem"
+      },
+      "albums": [
+        {
+          "release-group": {
+            "id": "b0fa91c8-0996-38f1-ab84-797f58d7c4eb",
+            "title": "The Marshall Mathers LP"
+          },
+          "release": {
+            "id": "c91de8fc-8674-4273-bbcb-5c9185dc6567",
+            "title": "The Marshall Mathers LP",
+            "date": "2000"
+          },
+          "label": {
+            "id": "c0629488-2aa2-4b46-9de8-decb27147444",
+            "name": "Aftermath Entertainment"
+          },
+          "recordings": [
+            {
+              "id": "22c45dff-0ebf-4968-82e5-7e2235f5e324",
+              "title": "Public Service Announcement 2000"
+            },
+            {
+              "id": "24934e1a-efea-4f90-8d1d-f62847cbd332",
+              "title": "Kill You"
+            },
+            {
+              "id": "60d2246d-2761-4e1f-b30b-2784f00565b1",
+              "title": "Stan"
+            },
+            {
+              "id": "3439db4e-c79e-492f-9275-faebb253053f",
+              "title": "Paul (skit)"
+            },
+            {
+              "id": "5daa1b39-d66c-4e8c-b4f2-16c6d10fd053",
+              "title": "Who Knew"
+            },
+            {
+              "id": "584dbba4-f6d3-4a72-b7ef-ef2ecae166c4",
+              "title": "Steve Berman"
+            },
+            {
+              "id": "365f2bb7-7a93-44cc-9d5c-7c789a5e31a4",
+              "title": "The Way I Am"
+            },
+            {
+              "id": "684ca01c-9775-42fe-9cdb-28fa37c27851",
+              "title": "The Real Slim Shady"
+            },
+            {
+              "id": "b2ae9724-f63d-4af4-9361-5535ca940f00",
+              "title": "Remember Me?"
+            },
+            {
+              "id": "31721248-72bb-4ec6-8056-639831b3a01e",
+              "title": "I’m Back"
+            },
+            {
+              "id": "2e7be724-e3c8-4340-bf19-5d6c1b612fee",
+              "title": "Marshall Mathers"
+            },
+            {
+              "id": "66372f68-83d7-4971-be91-f2679a7a7865",
+              "title": "Ken Kaniff (skit)"
+            },
+            {
+              "id": "0354c8d4-4f17-423c-9b31-3dd9b6f5e26f",
+              "title": "Drug Ballad"
+            },
+            {
+              "id": "ec7378cd-ff3f-47f7-a691-8e11917913fb",
+              "title": "Amityville"
+            },
+            {
+              "id": "dd2a4506-a4d0-42de-9183-f34c96a74be5",
+              "title": "Bitch Please II"
+            },
+            {
+              "id": "2eabd47d-646b-4a46-bcdb-76e98738ba93",
+              "title": "Kim"
+            },
+            {
+              "id": "70ea8504-eac8-44b4-880d-7f689e2daf51",
+              "title": "Under the Influence"
+            },
+            {
+              "id": "c66c1a38-0ba8-4ec9-be68-6221c9160530",
+              "title": "Criminal"
+            }
+          ]
+        },
+        {
+          "release-group": {
+            "id": "715be5e7-3677-35c0-a39a-abf300ff9ba1",
+            "title": "Infinite"
+          },
+          "release": {
+            "id": "3d13a89a-e98b-4e46-afad-c67ad59724ff",
+            "title": "Infinite",
+            "date": "1996-11-12"
+          },
+          "label": {
+            "id": "e06695b0-ded1-421f-939f-cde2470a0944",
+            "name": "WEB Entertainment"
+          },
+          "recordings": [
+            {
+              "id": "978b412a-a59e-4496-8109-96c82c855a28",
+              "title": "Infinite"
+            },
+            {
+              "id": "aaa7fe03-7092-4562-9b02-537e5aa3f813",
+              "title": "W.E.G.O. (interlude)"
+            },
+            {
+              "id": "45c9add2-7ada-45e9-98e3-31ae649f2167",
+              "title": "It’s O.K."
+            },
+            {
+              "id": "1e7bd75f-b1a9-455b-97b2-50f91fb580d7",
+              "title": "Tonite"
+            },
+            {
+              "id": "886813b5-d05d-472d-a1b3-794f2d914ca7",
+              "title": "313"
+            },
+            {
+              "id": "8c6fd011-632f-4974-9a90-04a95ef33dbc",
+              "title": "Maxine"
+            },
+            {
+              "id": "352c06bb-2603-44e3-b103-1f8cbaf6fbb1",
+              "title": "Open Mic"
+            },
+            {
+              "id": "010d04c5-eb05-46c2-a46c-be956bad1ade",
+              "title": "Never 2 Far"
+            },
+            {
+              "id": "ca1564d2-ac25-4452-9587-836c6455a62c",
+              "title": "Searchin’"
+            },
+            {
+              "id": "91c2a694-2aca-4f77-b459-c49944f20649",
+              "title": "Backstabber"
+            },
+            {
+              "id": "41e92c28-86a4-4018-91ab-e1b4f0209275",
+              "title": "Jealousy Woes II"
+            }
+          ]
+        },
+        {
+          "release-group": {
+            "id": "cbaa675f-0d6d-45cc-8b06-1e9f94cc896c",
+            "title": "Unmastered Sequence"
+          },
+          "release": {
+            "id": "cc73a71a-07b2-45dc-96ca-3e67a203c581",
+            "title": "Unmastered Sequence",
+            "date": "1999"
+          },
+          "label": {
+            "id": "2182a316-c4bd-4605-936a-5e2fac52bdd2",
+            "name": "Interscope Records"
+          },
+          "recordings": [
+            {
+              "id": "63b3da92-e0ac-46c3-8e50-faeb1a45a8e1",
+              "title": "My Name Is"
+            },
+            {
+              "id": "2b08fb16-3d56-46ed-8c0d-3fe423095461",
+              "title": "My Conscience"
+            },
+            {
+              "id": "c9201137-3940-40a2-8050-f46b4cf16777",
+              "title": "If I Had"
+            },
+            {
+              "id": "75dcaaac-788c-4690-af8e-6c9d0a649f71",
+              "title": "Public Service Announcement"
+            },
+            {
+              "id": "b9032785-e503-4fbb-b5c0-5596198821cb",
+              "title": "I’m Shady"
+            },
+            {
+              "id": "30b2a987-47a6-4337-8bea-98853131d371",
+              "title": "Brain Damage"
+            },
+            {
+              "id": "923a161f-4b36-4126-9504-093e83a70215",
+              "title": "When Bad Meets Evil"
+            },
+            {
+              "id": "2be2cacc-40ed-4adf-9ad6-8cf2eae24d55",
+              "title": "Just Don’t Give a Fuck"
+            },
+            {
+              "id": "edf8469c-bda5-4253-ba1b-84303a097345",
+              "title": "Lounge"
+            },
+            {
+              "id": "7a39cabb-d425-483b-b01f-b451f0cca15e",
+              "title": "My Fault"
+            },
+            {
+              "id": "b4f12a92-3efd-4f37-8dd7-92f4b41a00a7",
+              "title": "Just the Two of Us"
+            },
+            {
+              "id": "fe2431d5-da48-4dc8-a1c9-5df83fde40cf",
+              "title": "C’mon Everybody"
+            },
+            {
+              "id": "d9521e3b-2a29-475d-b24a-6156508f819b",
+              "title": "As the World Turns"
+            },
+            {
+              "id": "c737276c-3df6-4711-b050-46ae2638c022",
+              "title": "Low Down, Dirty"
+            },
+            {
+              "id": "3fa222c5-f1e7-4423-844d-67165df0f7ce",
+              "title": "No One’s Iller"
+            },
+            {
+              "id": "6bfc9f37-dddf-41c4-8304-eb05894ef617",
+              "title": "Take the World With Me"
+            },
+            {
+              "id": "2cc2a126-92f2-40b3-85cd-6c1f57d99910",
+              "title": "Murder, Murder"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "artist": {
+        "id": "cc197bad-dc9c-440d-a5b5-d52ba2e14234",
+        "name": "Coldplay"
+      },
+      "albums": [
+        {
+          "release-group": {
+            "id": "120c786d-a3b2-3c19-b4ff-2b7b3b4435bf",
+            "title": "A Rush of Blood to the Head"
+          },
+          "release": {
+            "id": "219b202d-290e-3960-b626-bf852a63bc50",
+            "title": "A Rush of Blood to the Head",
+            "date": "2002"
+          },
+          "label": {
+            "id": "df7d1c7f-ef95-425f-8eef-445b3d7bcbd9",
+            "name": "Parlophone"
+          },
+          "recordings": [
+            {
+              "id": "58b961e1-a2ef-4e92-a82b-199b15bb3cd8",
+              "title": "Politik"
+            },
+            {
+              "id": "f6b0d094-f2c3-476c-b4cc-f354cb377929",
+              "title": "In My Place"
+            },
+            {
+              "id": "69443781-a8e6-4ee8-8b76-baa50e5e246b",
+              "title": "God Put a Smile Upon Your Face"
+            },
+            {
+              "id": "a478f801-521b-40e7-8bb4-5faeffb1f3e4",
+              "title": "The Scientist"
+            },
+            {
+              "id": "3e963c34-06d2-4a32-93d8-bd03e98d5e81",
+              "title": "Clocks"
+            },
+            {
+              "id": "f67934a9-fdb1-4cdd-8e23-209b220f8a8d",
+              "title": "Daylight"
+            },
+            {
+              "id": "522da5b6-9ce1-4fbb-9262-4914b91fb532",
+              "title": "Green Eyes"
+            },
+            {
+              "id": "1c7e1f6e-be0d-4d13-998a-75236bd3b47c",
+              "title": "Warning Sign"
+            },
+            {
+              "id": "551f064e-1682-4c94-b538-9407978a4f63",
+              "title": "A Whisper"
+            },
+            {
+              "id": "53479dbd-bc21-4374-a4ba-e0b683324b88",
+              "title": "A Rush of Blood to the Head"
+            },
+            {
+              "id": "331c8d46-0fa2-467f-8584-bd7b310be97e",
+              "title": "Amsterdam"
+            }
+          ]
+        },
+        {
+          "release-group": {
+            "id": "1dc4c347-a1db-32aa-b14f-bc9cc507b843",
+            "title": "Parachutes"
+          },
+          "release": {
+            "id": "97374eb4-ecc2-48f3-b71e-01fb8c8683f9",
+            "title": "Parachutes",
+            "date": "2000"
+          },
+          "label": {
+            "id": "abea2d3e-eabf-4480-ab24-9382dd642c73",
+            "name": "Capitol Records"
+          },
+          "recordings": [
+            {
+              "id": "fb81a071-9c63-4e8c-ab60-77403e81c01d",
+              "title": "Don’t Panic"
+            },
+            {
+              "id": "71557258-6534-4b56-8007-3903ace2d869",
+              "title": "Shiver"
+            },
+            {
+              "id": "50369905-68ca-48d2-912d-b37330ff7dc3",
+              "title": "Spies"
+            },
+            {
+              "id": "22d49305-4e35-4a69-8638-05ac5f734065",
+              "title": "Sparks"
+            },
+            {
+              "id": "729cf505-94eb-4fbe-bc76-cbae44cff091",
+              "title": "Yellow"
+            },
+            {
+              "id": "1aa7ebc0-25ee-47b2-8efd-6074307c5b14",
+              "title": "Trouble"
+            },
+            {
+              "id": "3451489e-ea50-4e4e-9043-df1e30ce37b5",
+              "title": "Parachutes"
+            },
+            {
+              "id": "94909689-459c-4d15-8e31-678854c48f22",
+              "title": "High Speed"
+            },
+            {
+              "id": "7e52d1a9-6c02-4f2e-b30e-dc22ef219f3f",
+              "title": "We Never Change"
+            },
+            {
+              "id": "78485fd1-136d-4f2b-ae93-d9815d828e26",
+              "title": "Everything’s Not Lost / Life Is for Living"
+            }
+          ]
+        },
+        {
+          "release-group": {
+            "id": "c50b180a-12c9-3153-8ba5-eac6a6537d6f",
+            "title": "X&Y"
+          },
+          "release": {
+            "id": "663805f1-f314-422a-8d25-5a84565eb0c5",
+            "title": "X&Y",
+            "date": "2005"
+          },
+          "label": {
+            "id": "c029628b-6633-439e-bcee-ed02e8a338f7",
+            "name": "EMI"
+          },
+          "recordings": [
+            {
+              "id": "9a8ea67d-ee7a-442e-a455-24ea2a9de743",
+              "title": "Square One"
+            },
+            {
+              "id": "26d84798-8b3a-4041-9742-e13df2e9e975",
+              "title": "What If"
+            },
+            {
+              "id": "7a139373-9d60-48a8-a4a5-8ab5f7ac3689",
+              "title": "White Shadows"
+            },
+            {
+              "id": "20919a48-4ad5-409c-b639-8db7ca9f9e7a",
+              "title": "Fix You"
+            },
+            {
+              "id": "9cd3daca-eab7-4db8-8af8-21b3da550c28",
+              "title": "Talk"
+            },
+            {
+              "id": "18144bde-ae38-4b5a-a1f3-c14b9fdf3bad",
+              "title": "X&Y"
+            },
+            {
+              "id": "8d305607-7665-4ba7-bb30-06bb35fad519",
+              "title": "Speed of Sound"
+            },
+            {
+              "id": "e5a0989f-2d10-41d9-a508-974a20fdad43",
+              "title": "A Message"
+            },
+            {
+              "id": "186229ca-7bb2-4c98-9418-7df600aa31f6",
+              "title": "Low"
+            },
+            {
+              "id": "551c01b6-8295-4549-9bdf-b65ba32ce4a9",
+              "title": "The Hardest Part"
+            },
+            {
+              "id": "32dc9a9c-c936-4ec5-afe3-8320f5f096f3",
+              "title": "Swallowed in the Sea"
+            },
+            {
+              "id": "187ef3bb-c097-4743-b9c6-538a980fcfec",
+              "title": "Twisted Logic"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "artist": {
+        "id": "cc2c9c3c-b7bc-4b8b-84d8-4fbd8779e493",
+        "name": "Adele"
+      },
+      "albums": [
+        {
+          "release-group": {
+            "id": "e4174758-d333-4a8e-a31f-dd0edd51518e",
+            "title": "21"
+          },
+          "release": {
+            "id": "d2032611-dbfd-4842-b358-dba59e4128ce",
+            "title": "21",
+            "date": "2011"
+          },
+          "label": {
+            "id": "011d1192-6f65-45bd-85c4-0400dd45693e",
+            "name": "Columbia"
+          },
+          "recordings": [
+            {
+              "id": "1a13c710-4b7e-4701-8968-cd61f2e58110",
+              "title": "Rolling in the Deep"
+            },
+            {
+              "id": "797ae656-81d4-4d89-bddb-eca56f77ba72",
+              "title": "Rumour Has It"
+            },
+            {
+              "id": "9bed2307-9a25-4960-be46-79bce5acc267",
+              "title": "Turning Tables"
+            },
+            {
+              "id": "f5057d26-1aac-47fe-b766-18c5a28927b1",
+              "title": "Don’t You Remember"
+            },
+            {
+              "id": "d1e0a99e-1894-457b-ba6a-985eeef4d0c4",
+              "title": "Set Fire to the Rain"
+            },
+            {
+              "id": "4dd209b9-80fd-4e11-8093-3bab2db810fc",
+              "title": "He Won’t Go"
+            },
+            {
+              "id": "4f515654-052b-4631-8a78-57ea362cd18a",
+              "title": "Take It All"
+            },
+            {
+              "id": "dd2d2073-50c4-438a-91cc-a1fea1c81b12",
+              "title": "I’ll Be Waiting"
+            },
+            {
+              "id": "04f96056-91ac-4b64-af89-24c596013f05",
+              "title": "One and Only"
+            },
+            {
+              "id": "7932ba40-a0d3-4a7e-8d85-b351fd33317e",
+              "title": "Lovesong"
+            },
+            {
+              "id": "028efe7f-cdfb-4135-846f-848f2fff15b1",
+              "title": "Someone Like You"
+            }
+          ]
+        },
+        {
+          "release-group": {
+            "id": "9796da06-2d59-3176-8598-2105f31ee54a",
+            "title": "19"
+          },
+          "release": {
+            "id": "493f0d45-f1ea-49f5-90d7-e2d6f0618bf8",
+            "title": "19",
+            "date": "2008"
+          },
+          "label": {
+            "id": "14221f01-8939-4ea0-b8f1-b5a21beae80a",
+            "name": "XL Recordings"
+          },
+          "recordings": [
+            {
+              "id": "27e08fb0-6c66-4b1f-bbd8-ed847455022b",
+              "title": "Daydreamer"
+            },
+            {
+              "id": "7502dd98-a7e6-41d0-90d1-16aa885f8fdb",
+              "title": "Best for Last"
+            },
+            {
+              "id": "453f8ecf-e853-45ec-8335-d240a15cd75f",
+              "title": "Chasing Pavements"
+            },
+            {
+              "id": "4aa737c8-b899-4289-841f-41657c206aa1",
+              "title": "Cold Shoulder"
+            },
+            {
+              "id": "95f62f74-c3c0-4232-98db-2556a3d9d553",
+              "title": "Crazy for You"
+            },
+            {
+              "id": "44dc19cb-fe11-4e79-9d52-b5866812f2e0",
+              "title": "Melt My Heart to Stone"
+            },
+            {
+              "id": "c009203d-a0f4-4292-9d10-8d198060c198",
+              "title": "First Love"
+            },
+            {
+              "id": "e5aa0386-15cc-43a8-a059-b14fc39b8301",
+              "title": "Right as Rain"
+            },
+            {
+              "id": "e42df375-e203-4f9c-8e06-a385634e76c7",
+              "title": "Make You Feel My Love"
+            },
+            {
+              "id": "217047d7-3482-4cac-a935-b941ecf92233",
+              "title": "My Same"
+            },
+            {
+              "id": "4c24975a-998c-416c-9574-341dc487d86f",
+              "title": "Tired"
+            },
+            {
+              "id": "3fd5c4cc-a5a7-4bbf-be17-065769561468",
+              "title": "Hometown Glory"
+            },
+            {
+              "id": "3d3b00fb-1e80-47e5-932e-2f4f15fda2b1",
+              "title": "Right as Rain"
+            },
+            {
+              "id": "8ac2bc99-9f9c-4096-af46-f6334d42f2bd",
+              "title": "Melt My Heart to Stone"
+            },
+            {
+              "id": "f3c651ae-2f43-46e4-a565-a7a66f6f3e07",
+              "title": "My Same"
+            },
+            {
+              "id": "206cad73-0854-4f88-a5e2-5c7a0126093e",
+              "title": "That’s It, I Quit, I’m Moving On"
+            },
+            {
+              "id": "56354a1b-9dae-448b-8a92-2240bdd68b9a",
+              "title": "Chasing Pavements"
+            },
+            {
+              "id": "813ec942-d506-43e8-b1a1-883c1c017053",
+              "title": "Cold Shoulder (Basement Jaxx classic remix)"
+            },
+            {
+              "id": "72b5cbe6-e1ae-4059-ab12-ae1f6c4af1a7",
+              "title": "Hometown Glory (Axwell club mix)"
+            }
+          ]
+        },
+        {
+          "release-group": {
+            "id": "5537624c-3d2f-4f5c-8099-df916082c85c",
+            "title": "25"
+          },
+          "release": {
+            "id": "67de1291-cde8-4a4c-b06c-621e53e68e97",
+            "title": "25",
+            "date": "2015"
+          },
+          "label": {
+            "id": "c518d5f3-690b-432a-8e23-6e17d78b18d6",
+            "name": "Just Music"
+          },
+          "recordings": [
+            {
+              "id": "0a8e8d55-4b83-4f8a-9732-fbb5ded9f344",
+              "title": "Hello"
+            },
+            {
+              "id": "1e74cd4c-cfa7-4bdb-99da-41869f5f1171",
+              "title": "Send My Love (To Your New Lover)"
+            },
+            {
+              "id": "20594682-fa10-43e8-80fa-b116c68f1b7f",
+              "title": "I Miss You"
+            },
+            {
+              "id": "c5ad2611-071b-4003-bb22-eee8b4f48fe9",
+              "title": "When We Were Young"
+            },
+            {
+              "id": "cdc9f701-60b4-4e37-a94f-87d0e396f2bc",
+              "title": "Remedy"
+            },
+            {
+              "id": "ade2f0f3-39bf-46ad-a44d-7fc4a8069db7",
+              "title": "Water Under the Bridge"
+            },
+            {
+              "id": "b7c37d3d-feea-4a73-8346-9e2392a292e6",
+              "title": "River Lea"
+            },
+            {
+              "id": "dedf519d-8eca-4756-9f93-c390308e0c1b",
+              "title": "Love in the Dark"
+            },
+            {
+              "id": "870c62b6-ba2c-4873-b962-6289128e4a90",
+              "title": "Million Years Ago"
+            },
+            {
+              "id": "bfe7a94e-4161-4802-8916-efe57e611842",
+              "title": "All I Ask"
+            },
+            {
+              "id": "b2c8aed1-777d-409b-941e-7d4c594697a2",
+              "title": "Sweetest Devotion"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "artist": {
+        "id": "73e5e69d-3554-40d8-8516-00cb38737a1c",
+        "name": "Rihanna"
+      },
+      "albums": [
+        {
+          "release-group": {
+            "id": "7e48f018-b774-32e6-a68b-b42db04535c0",
+            "title": "Good Girl Gone Bad"
+          },
+          "release": {
+            "id": "ed9b9329-b157-476d-8e60-4c273c1476f6",
+            "title": "Good Girl Gone Bad",
+            "date": "2007"
+          },
+          "label": {
+            "id": "a92d1684-4edb-48aa-b913-30e9da213004",
+            "name": "Def Jam Recordings"
+          },
+          "recordings": [
+            {
+              "id": "0b4b1b0c-e057-4d8d-9a47-12a97ff6fb3d",
+              "title": "Umbrella"
+            },
+            {
+              "id": "a3660057-3b2e-4c1d-aec9-4b0ae159817e",
+              "title": "Push Up on Me"
+            },
+            {
+              "id": "4c0566be-d3d9-42b2-964d-cf349972123b",
+              "title": "Don’t Stop the Music"
+            },
+            {
+              "id": "a12ea58f-4029-4ff6-b599-a8590a0df6cd",
+              "title": "Breakin’ Dishes"
+            },
+            {
+              "id": "627693f3-776d-4646-9ade-2c8bc8e83316",
+              "title": "Shut Up and Drive"
+            },
+            {
+              "id": "711992bd-dfc8-4463-b4c3-a5edb610ab12",
+              "title": "Hate That I Love You"
+            },
+            {
+              "id": "318ab388-70e6-4d15-8d0a-b5f510ff15d8",
+              "title": "Say It"
+            },
+            {
+              "id": "5ca0a3ec-271d-41cb-9fef-556a771a71c1",
+              "title": "Sell Me Candy"
+            },
+            {
+              "id": "b73a5606-8a5e-41d7-b3d4-cb6fd60a493d",
+              "title": "Lemme Get That"
+            },
+            {
+              "id": "947dc1a5-cb9d-4a09-b97a-743cc1289b31",
+              "title": "Rehab"
+            },
+            {
+              "id": "547f8280-8ce5-49bb-aa4e-675b9901ebef",
+              "title": "Question Existing"
+            },
+            {
+              "id": "3603cfe2-0ec8-4714-84ed-151ab10573fd",
+              "title": "Good Girl Gone Bad"
+            },
+            {
+              "id": "3cdbe9be-f723-4e0b-a253-384a17fc6f04",
+              "title": "Umbrella (Lindbergh Palace remix)"
+            }
+          ]
+        },
+        {
+          "release-group": {
+            "id": "aefe7de5-11df-38c3-97f5-13df615870fd",
+            "title": "Music of the Sun"
+          },
+          "release": {
+            "id": "11445e86-aa7c-4c0e-a740-25cbe770bd19",
+            "title": "Music of the Sun",
+            "date": "2005"
+          },
+          "label": {
+            "id": "a92d1684-4edb-48aa-b913-30e9da213004",
+            "name": "Def Jam Recordings"
+          },
+          "recordings": [
+            {
+              "id": "f9845fce-5ab7-456f-8579-6a1fcfa8cf25",
+              "title": "Pon de Replay"
+            },
+            {
+              "id": "b53a3b27-9748-41d8-b0cc-4ab5e2214311",
+              "title": "Here I Go Again"
+            },
+            {
+              "id": "9f471a64-694c-4830-bb26-0b143db55f4d",
+              "title": "If It’s Lovin’ That You Want"
+            },
+            {
+              "id": "9b3f541b-5f91-4fcb-9a41-38adca8907f3",
+              "title": "You Don’t Love Me (No, No, No)"
+            },
+            {
+              "id": "7a4170bb-0c6e-4cf8-8fbf-6ae50cdc36f8",
+              "title": "That La, La, La"
+            },
+            {
+              "id": "8ab14774-5191-44c3-95b1-2d0f400fbfef",
+              "title": "The Last Time"
+            },
+            {
+              "id": "3446f208-fd3a-47ee-97d1-259098ae90ef",
+              "title": "Willing to Wait"
+            },
+            {
+              "id": "6b4b27cd-2c62-4d33-b8d6-9a70ad2e4621",
+              "title": "Music of the Sun"
+            },
+            {
+              "id": "af8265b7-2abd-429d-a9b9-65584b6d1727",
+              "title": "Let Me"
+            },
+            {
+              "id": "256a9c43-3472-4e9a-b2f3-3f9b85f32bfc",
+              "title": "Rush"
+            },
+            {
+              "id": "393c551d-8b78-43e3-8d0e-a73c87aceb2e",
+              "title": "There’s a Thug in My Life"
+            },
+            {
+              "id": "2ffa8c71-f37c-4a52-a9db-fc27dabc24e4",
+              "title": "Now I Know"
+            },
+            {
+              "id": "001ba056-4f53-4a19-ba9a-60a814e074ab",
+              "title": "Pon de Replay (remix)"
+            }
+          ]
+        },
+        {
+          "release-group": {
+            "id": "51797d3d-7071-30ee-9fb3-d60aad857ef0",
+            "title": "A Girl Like Me"
+          },
+          "release": {
+            "id": "1f6c7483-3260-4e3e-b4c6-205aeecf32c7",
+            "title": "A Girl Like Me",
+            "date": "2006"
+          },
+          "label": {
+            "id": "a92d1684-4edb-48aa-b913-30e9da213004",
+            "name": "Def Jam Recordings"
+          },
+          "recordings": [
+            {
+              "id": "4483ec59-3ae9-4b5e-87e0-69199d80392d",
+              "title": "S.O.S."
+            },
+            {
+              "id": "ab2cda75-ffe2-44bd-822b-78f32eac2e4e",
+              "title": "Kisses Don’t Lie"
+            },
+            {
+              "id": "9de80019-617e-4a4c-8a89-03e2a8a11ff8",
+              "title": "Unfaithful"
+            },
+            {
+              "id": "5bfef22f-26ed-4100-91cd-d225a680f68a",
+              "title": "We Ride"
+            },
+            {
+              "id": "f9647143-bfa0-4c5d-a9a0-4324b5cf371c",
+              "title": "Dem Haters"
+            },
+            {
+              "id": "fb355148-1ae5-4890-bfc0-af1ca9f4f510",
+              "title": "Final Goodbye"
+            },
+            {
+              "id": "9a4743c8-2425-450c-8e2c-344944aced70",
+              "title": "Break It Off"
+            },
+            {
+              "id": "ba90b907-85b6-4362-b415-26b268aa8756",
+              "title": "Crazy Little Thing Called Love"
+            },
+            {
+              "id": "f070e815-2ca8-4de4-b4a2-93098fcbd277",
+              "title": "Selfish Girl"
+            },
+            {
+              "id": "6b9e34d9-b4e0-41cc-ac4e-fb3a9219265a",
+              "title": "P.S. (I’m Still Not Over You)"
+            },
+            {
+              "id": "47c711ce-76d3-4f37-be08-926bafb36553",
+              "title": "A Girl Like Me"
+            },
+            {
+              "id": "48a3c382-c65d-4b5e-9f1d-2bbc45a49f9b",
+              "title": "A Million Miles Away"
+            },
+            {
+              "id": "c23d08d7-c793-434c-b3e8-0f4bdb6bd0a1",
+              "title": "If It’s Lovin That You Want, Pt. 2"
+            },
+            {
+              "id": "c05a40e0-52de-48dd-9c71-a3767999cf7c",
+              "title": "Pon de Replay (Full Phatt remix)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "artist": {
+        "id": "056e4f3e-d505-4dad-8ec1-d04f521cbb56",
+        "name": "Daft Punk"
+      },
+      "albums": [
+        {
+          "release-group": {
+            "id": "aa997ea0-2936-40bd-884d-3af8a0e064dc",
+            "title": "Random Access Memories"
+          },
+          "release": {
+            "id": "ec116461-5b0d-4c98-bb44-a4de5de63076",
+            "title": "Random Access Memories",
+            "date": "2013"
+          },
+          "label": {
+            "id": "011d1192-6f65-45bd-85c4-0400dd45693e",
+            "name": "Columbia"
+          },
+          "recordings": [
+            {
+              "id": "0c871a4a-efdf-47f8-98c2-cc277f806d2f",
+              "title": "Give Life Back to Music"
+            },
+            {
+              "id": "294a1b4d-ebc0-4b03-be25-6171d382cb58",
+              "title": "The Game of Love"
+            },
+            {
+              "id": "cac27da9-20c5-4722-9a25-f2c26e2c04cf",
+              "title": "Giorgio by Moroder"
+            },
+            {
+              "id": "20999e3e-b964-4d66-b7c2-660fc45178bb",
+              "title": "Within"
+            },
+            {
+              "id": "dbc0da50-4bc6-4230-9e7b-136b5dc2b31a",
+              "title": "Instant Crush"
+            },
+            {
+              "id": "9f381fef-7bbd-4f2a-be8b-2acd072bb7e1",
+              "title": "Lose Yourself to Dance"
+            },
+            {
+              "id": "2c718ee9-ad54-4016-ae43-e8df5ea1b4e1",
+              "title": "Touch"
+            },
+            {
+              "id": "833f00e1-781f-4edd-90e4-e52712618862",
+              "title": "Get Lucky"
+            },
+            {
+              "id": "ce495790-b2f7-4ff0-858c-8df38c2025ab",
+              "title": "Beyond"
+            },
+            {
+              "id": "762e120f-6d52-4fae-a796-699ae0a0ea9f",
+              "title": "Motherboard"
+            },
+            {
+              "id": "770894b7-030e-404d-a833-4a77d0558cb2",
+              "title": "Fragments of Time"
+            },
+            {
+              "id": "4e4a5947-a6e5-4091-9b42-f7e9ba387c1b",
+              "title": "Doin’ It Right"
+            },
+            {
+              "id": "78194fbe-3bcd-4afe-b4a6-7a97711c325f",
+              "title": "Contact"
+            }
+          ]
+        },
+        {
+          "release-group": {
+            "id": "00054665-89fa-33d5-a8f0-1728ea8c32c3",
+            "title": "Homework"
+          },
+          "release": {
+            "id": "992cb0d1-3f58-4af7-84a9-5fa6784e4336",
+            "title": "Homework",
+            "date": "1997"
+          },
+          "label": {
+            "id": "b34fd541-663c-4a26-aa81-1472392d0212",
+            "name": "Virgin Music Canada"
+          },
+          "recordings": [
+            {
+              "id": "10cdacde-e54a-412a-863b-81d9ea6b3df2",
+              "title": "Daftendirekt"
+            },
+            {
+              "id": "9fc87ed0-cf62-4447-b411-d0832eb9daae",
+              "title": "WDPK 83.7 FM"
+            },
+            {
+              "id": "0a6e234d-0c9d-41e0-bce7-5c0ca09befbd",
+              "title": "Revolution 909"
+            },
+            {
+              "id": "4cde50af-2c78-4202-b8d0-30c1d916db97",
+              "title": "Da Funk"
+            },
+            {
+              "id": "28651acc-1f13-4431-b2de-d93a33a50084",
+              "title": "Phœnix"
+            },
+            {
+              "id": "9ca385f4-4082-494a-974a-b1a8aa997838",
+              "title": "Fresh"
+            },
+            {
+              "id": "7813d6e5-fe21-4cd0-8f8b-82b7c15662ae",
+              "title": "Around the World"
+            },
+            {
+              "id": "bfbd9b4b-12c6-405d-9681-45cb71057985",
+              "title": "Rollin’ & Scratchin’"
+            },
+            {
+              "id": "3707ab0d-ff31-46a2-9056-d094bae44c3e",
+              "title": "Teachers"
+            },
+            {
+              "id": "95ab771e-62b4-4324-befd-024356c190c6",
+              "title": "High Fidelity"
+            },
+            {
+              "id": "a42b76a0-3bd1-4c3a-8e83-751f48d818ec",
+              "title": "Rock’n Roll"
+            },
+            {
+              "id": "89ae9c78-7e38-40ec-bf9f-79d1f2678890",
+              "title": "Oh Yeah"
+            },
+            {
+              "id": "5fceebe4-d425-4e83-85d0-b4ee61b8d8d6",
+              "title": "Burnin’"
+            },
+            {
+              "id": "1285a717-b387-4353-91d4-3ea357dfc9c5",
+              "title": "Indo Silver Club"
+            },
+            {
+              "id": "a08473a1-e622-49cc-bb97-65f813429025",
+              "title": "Alive"
+            },
+            {
+              "id": "eab36835-9fa7-4598-a50a-8bb114c9c5fb",
+              "title": "Funk Ad"
+            }
+          ]
+        },
+        {
+          "release-group": {
+            "id": "48117b90-a16e-34ca-a514-19c702df1158",
+            "title": "Discovery"
+          },
+          "release": {
+            "id": "6b6628a6-59a2-4284-86fc-8f2d24cb7b7e",
+            "title": "Discovery",
+            "date": "2001"
+          },
+          "label": {
+            "id": "df7d1c7f-ef95-425f-8eef-445b3d7bcbd9",
+            "name": "Parlophone"
+          },
+          "recordings": [
+            {
+              "id": "60fa767a-d85d-4991-82bc-4294e0b11ae7",
+              "title": "One More Time"
+            },
+            {
+              "id": "7c0e11a3-1c7a-4e6d-a14d-6e86d86dbaad",
+              "title": "Aerodynamic"
+            },
+            {
+              "id": "15f16efc-8762-4151-95ab-c12d06268640",
+              "title": "Digital Love"
+            },
+            {
+              "id": "f1a6a40f-78f5-4918-968d-f64363bae94c",
+              "title": "Harder, Better, Faster, Stronger"
+            },
+            {
+              "id": "d63ad586-1124-4df1-9a2b-c014d7b7cb02",
+              "title": "Crescendolls"
+            },
+            {
+              "id": "712edd8d-b413-4e4e-aca4-9b91fce2e65c",
+              "title": "Nightvision"
+            },
+            {
+              "id": "8a98614f-0533-44ef-890a-639cab407a2d",
+              "title": "Superheroes"
+            },
+            {
+              "id": "07b720fc-0d6f-4342-a6df-876d1749de0b",
+              "title": "High Life"
+            },
+            {
+              "id": "defbfcb2-7a5c-4456-be28-b7e5ccf92cc2",
+              "title": "Something About Us"
+            },
+            {
+              "id": "e1fe1d12-dac2-4325-ae1b-25e0ef06b998",
+              "title": "Voyager"
+            },
+            {
+              "id": "2a220770-1150-4190-b0e0-57d89a0a7469",
+              "title": "Veridis Quo"
+            },
+            {
+              "id": "3f60ae01-43cc-4db9-86ec-97b79f83764f",
+              "title": "Short Circuit"
+            },
+            {
+              "id": "59038571-03ea-4ca4-965c-a57eae2aa138",
+              "title": "Face to Face"
+            },
+            {
+              "id": "1a915a2d-e2f4-4300-a230-96fc9c8a7b60",
+              "title": "Too Long"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "artist": {
+        "id": "5b11f4ce-a62d-471e-81fc-a69a8278c7da",
+        "name": "Nirvana"
+      },
+      "albums": [
+        {
+          "release-group": {
+            "id": "1b022e01-4da6-387b-8658-8678046e4cef",
+            "title": "Nevermind"
+          },
+          "release": {
+            "id": "3723c24b-a5a7-3295-b8ab-409a0650efac",
+            "title": "Nevermind",
+            "date": "1991"
+          },
+          "label": {
+            "id": "68803e28-86fe-4a95-985f-8e493795ab31",
+            "name": "DGC Records"
+          },
+          "recordings": [
+            {
+              "id": "5fb524f1-8cc8-4c04-a921-e34c0a911ea7",
+              "title": "Smells Like Teen Spirit"
+            },
+            {
+              "id": "593e9317-a327-4a31-b796-416c62dcf49d",
+              "title": "In Bloom"
+            },
+            {
+              "id": "70ac6733-068f-4613-b06b-bea17cfbcc30",
+              "title": "Come as You Are"
+            },
+            {
+              "id": "0cf9f95f-70e7-4f2e-8075-5d8ba38dd4a3",
+              "title": "Breed"
+            },
+            {
+              "id": "3fac712c-4196-4865-8c1a-94231a7da309",
+              "title": "Lithium"
+            },
+            {
+              "id": "d088ed9e-1921-4568-ae75-fba8b15ed206",
+              "title": "Polly"
+            },
+            {
+              "id": "dbaa10b1-d46a-4960-8b50-4e2d80c8113c",
+              "title": "Territorial Pissings"
+            },
+            {
+              "id": "11cc49bd-f531-4cdd-9b59-e1f59b06c1d7",
+              "title": "Drain You"
+            },
+            {
+              "id": "aef0677b-93b4-4c66-be74-10120d0e6f5a",
+              "title": "Lounge Act"
+            },
+            {
+              "id": "8bf26383-8b9b-4252-9cb3-0efa4d3f47f1",
+              "title": "Stay Away"
+            },
+            {
+              "id": "ea61d42b-9a76-47fd-bcf7-df911640c309",
+              "title": "On a Plain"
+            },
+            {
+              "id": "3589823f-b494-4b2d-aab3-c2e500f81175",
+              "title": "Something in the Way"
+            }
+          ]
+        },
+        {
+          "release-group": {
+            "id": "f1afec0b-26dd-3db5-9aa1-c91229a74a24",
+            "title": "Bleach"
+          },
+          "release": {
+            "id": "02b23593-ad18-4c8c-b30a-5c96b4796289",
+            "title": "Bleach",
+            "date": "1989"
+          },
+          "label": {
+            "id": "7306f7ec-97d1-45d8-bda5-d51c5c901b4c",
+            "name": "Warner Music Canada"
+          },
+          "recordings": [
+            {
+              "id": "2837e0d2-5ce9-44da-803e-797c835d672c",
+              "title": "Blew"
+            },
+            {
+              "id": "4cce1ee1-38e6-4ea0-8584-b6ebeb854d7d",
+              "title": "Floyd the Barber"
+            },
+            {
+              "id": "b2e623ea-378b-4479-bb75-fa202aacbfc9",
+              "title": "About a Girl"
+            },
+            {
+              "id": "0b3292f6-8f0d-4160-92d3-49348029a619",
+              "title": "School"
+            },
+            {
+              "id": "1adfecb7-875f-4203-b3b1-8e2e643f94a2",
+              "title": "Love Buzz"
+            },
+            {
+              "id": "67930d52-5e75-4c00-b36f-ee3c43bed160",
+              "title": "Paper Cuts"
+            },
+            {
+              "id": "06745db3-a2bc-4131-8a9d-0cbdc25b494a",
+              "title": "Negative Creep"
+            },
+            {
+              "id": "dbecedb1-2a90-43fc-add4-ce4016676545",
+              "title": "Scoff"
+            },
+            {
+              "id": "c9972a41-2ae8-43f6-9822-ba2fec7e50d1",
+              "title": "Swap Meet"
+            },
+            {
+              "id": "6cd0083c-e4ce-4745-aaf0-704ab1de988a",
+              "title": "Mr. Moustache"
+            },
+            {
+              "id": "25bbbd76-5f48-4b37-9722-44a346c4f3a9",
+              "title": "Sifting"
+            },
+            {
+              "id": "c498c2ac-a571-412e-a26e-f37e86a1edda",
+              "title": "Big Cheese"
+            },
+            {
+              "id": "6011093f-704a-46b0-8941-ae2bee94d70a",
+              "title": "Downer"
+            }
+          ]
+        },
+        {
+          "release-group": {
+            "id": "2a0981fb-9593-3019-864b-ce934d97a16e",
+            "title": "In Utero"
+          },
+          "release": {
+            "id": "d6c08aa8-9f7c-409e-b480-191c846fd512",
+            "title": "In Utero",
+            "date": "1993"
+          },
+          "label": {
+            "id": "68803e28-86fe-4a95-985f-8e493795ab31",
+            "name": "DGC Records"
+          },
+          "recordings": [
+            {
+              "id": "52eadc0f-037a-4747-b234-e5412aff8215",
+              "title": "Serve the Servants"
+            },
+            {
+              "id": "83fef6a6-4ac2-4e77-8314-45a2d5cc7133",
+              "title": "Scentless Apprentice"
+            },
+            {
+              "id": "f16627cc-e681-45e7-b82a-b64a60f48f99",
+              "title": "Heart‐Shaped Box"
+            },
+            {
+              "id": "3aab03c5-beef-49a3-a410-29a009760256",
+              "title": "Rape Me"
+            },
+            {
+              "id": "4fd82e6a-1984-44bf-9029-e0ddb11305c1",
+              "title": "Frances Farmer Will Have Her Revenge on Seattle"
+            },
+            {
+              "id": "b6097e16-f138-4413-82a5-56aabaa0aab2",
+              "title": "Dumb"
+            },
+            {
+              "id": "7a148826-c063-47b5-bba9-9c567d9d2b84",
+              "title": "Very Ape"
+            },
+            {
+              "id": "38e1aadb-c9c5-4e58-9e08-3bb9626dd0fb",
+              "title": "Milk It"
+            },
+            {
+              "id": "a9acd2ed-9dbd-4f13-a852-a3321a3ee586",
+              "title": "Pennyroyal Tea"
+            },
+            {
+              "id": "04e67fe5-c2eb-438a-9323-99e6f4773116",
+              "title": "Radio Friendly Unit Shifter"
+            },
+            {
+              "id": "d1571fc9-a88a-4f19-a00e-f34234b7d082",
+              "title": "Tourette’s"
+            },
+            {
+              "id": "2c63fb30-c71b-4b09-9554-0b4a657aec9b",
+              "title": "All Apologies"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "artist": {
+        "id": "83d91898-7763-47d7-b03b-b92132375c47",
+        "name": "Pink Floyd"
+      },
+      "albums": [
+        {
+          "release-group": {
+            "id": "f5093c06-23e3-404f-aeaa-40f72885ee3a",
+            "title": "The Dark Side of the Moon"
+          },
+          "release": {
+            "id": "4534f168-c25e-4d84-9da6-4fb26a261640",
+            "title": "The Dark Side of the Moon",
+            "date": "1973"
+          },
+          "label": {
+            "id": "993af7f6-bb99-456b-83e7-5e728ea80a0e",
+            "name": "Harvest"
+          },
+          "recordings": [
+            {
+              "id": "bef3fddb-5aca-49f5-b2fd-d56a23268d63",
+              "title": "Speak to Me"
+            },
+            {
+              "id": "ecbc7c9b-e79d-4ec8-ac77-44e4a7f7f1b8",
+              "title": "Breathe"
+            },
+            {
+              "id": "747a79a7-644e-42d4-be86-9adaf44393d8",
+              "title": "On the Run"
+            },
+            {
+              "id": "41959321-f2bb-4580-aa19-16248fe665d3",
+              "title": "Time"
+            },
+            {
+              "id": "73b01cea-2dad-4fc2-9e61-02a31477c1b1",
+              "title": "The Great Gig in the Sky"
+            },
+            {
+              "id": "7fef22bd-76aa-4803-b56b-93a5d6e70662",
+              "title": "Money"
+            },
+            {
+              "id": "2d1201cf-59bb-4ffa-9f52-f5b3afa13346",
+              "title": "Us and Them"
+            },
+            {
+              "id": "7c278a16-ae04-460c-88ea-39155cadcd09",
+              "title": "Any Colour You Like"
+            },
+            {
+              "id": "71c0e054-b700-4fd2-a35b-95c7afc566cb",
+              "title": "Brain Damage"
+            },
+            {
+              "id": "c46641c1-fdbc-4401-8b1d-23a4062a207a",
+              "title": "Eclipse"
+            }
+          ]
+        },
+        {
+          "release-group": {
+            "id": "6792b6d1-4e65-3c3c-9d20-d08aa1dcfc60",
+            "title": "The Piper at the Gates of Dawn"
+          },
+          "release": {
+            "id": "667faa0a-da20-48ed-a87b-0e5bb0a16341",
+            "title": "The Piper at the Gates of Dawn",
+            "date": "1967"
+          },
+          "label": {
+            "id": "ad2f9216-86dd-4235-91af-0e1e57537254",
+            "name": "Tower"
+          },
+          "recordings": [
+            {
+              "id": "af71d8c2-0b29-4ff2-bcdb-89b828314c9e",
+              "title": "See Emily Play"
+            },
+            {
+              "id": "02f4c4f0-a088-4384-8ae2-d67b9ea69b77",
+              "title": "Pow R. Toc H."
+            },
+            {
+              "id": "78d90361-0b8e-404f-8496-b26380f4e050",
+              "title": "Take Up Thy Stethoscope and Walk"
+            },
+            {
+              "id": "890c83bb-a03c-4593-8604-6cebf4c34f6e",
+              "title": "Lucifer Sam"
+            },
+            {
+              "id": "4512c045-23bc-4bca-aef5-0a3f8bd2d071",
+              "title": "Matilda Mother"
+            },
+            {
+              "id": "9c0938c2-c238-4af5-a1da-fb4abd7a4748",
+              "title": "Scarecrow"
+            },
+            {
+              "id": "50871af0-161b-4fb4-9d88-bc0511337c55",
+              "title": "The Gnome"
+            },
+            {
+              "id": "2245c328-9b02-4bd1-b511-6dc619dc916f",
+              "title": "Chapter 24"
+            },
+            {
+              "id": "b2533982-d397-4bf3-bdae-37a97ccf3277",
+              "title": "Interstellar Overdrive"
+            }
+          ]
+        },
+        {
+          "release-group": {
+            "id": "8a9caa40-b7c6-33eb-a13c-6c15f09b1c44",
+            "title": "A Saucerful of Secrets"
+          },
+          "release": {
+            "id": "4027c972-d2aa-387a-83e2-b5f7ac24a7be",
+            "title": "A Saucerful of Secrets",
+            "date": "1968"
+          },
+          "label": {
+            "id": "ad6f8706-c95e-443b-8579-8e3ecd27126c",
+            "name": "Columbia Records"
+          },
+          "recordings": [
+            {
+              "id": "daaa9828-702a-4e14-8f3f-af9f24171c52",
+              "title": "Let There Be More Light"
+            },
+            {
+              "id": "819f4310-f15c-498c-b6db-f62cd6e0fcc7",
+              "title": "Remember a Day"
+            },
+            {
+              "id": "ccbb51ad-20b2-477f-a6a2-d3ca9cba2986",
+              "title": "Set the Controls for the Heart of the Sun"
+            },
+            {
+              "id": "eeeea119-2c33-4c79-9728-96acec22ed6b",
+              "title": "Corporal Clegg"
+            },
+            {
+              "id": "610b11cf-ecb0-41a9-a3f2-3d40c74f9d6b",
+              "title": "A Saucerful of Secrets"
+            },
+            {
+              "id": "e83cf779-6547-4947-be4f-fe46c5b98592",
+              "title": "See‐Saw"
+            },
+            {
+              "id": "f56c98a4-ed4b-4afc-8306-cdc8e07cd03d",
+              "title": "Jugband Blues"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "artist": {
+        "id": "b071f9fa-14b0-4217-8e97-eb41da73f598",
+        "name": "The Rolling Stones"
+      },
+      "albums": [
+        {
+          "release-group": {
+            "id": "784c0edd-0f37-33a2-9ca5-dff87b4f999c",
+            "title": "Let It Bleed"
+          },
+          "release": {
+            "id": "739dce81-ed70-4ebc-8ae5-607f1fbcebf6",
+            "title": "Let It Bleed",
+            "date": "1969-12-05"
+          },
+          "label": {
+            "id": "f18f3b31-8263-4de3-966a-fda317492d3d",
+            "name": "Decca Records"
+          },
+          "recordings": [
+            {
+              "id": "6e1930ed-5be2-499e-9a6f-9202202f18a3",
+              "title": "Gimme Shelter"
+            },
+            {
+              "id": "27a4cdf5-7e1f-4382-923e-ee6d9e9f7023",
+              "title": "Love in Vain"
+            },
+            {
+              "id": "91040a9f-53ad-4bd1-940d-0922d1480ff2",
+              "title": "Country Honk"
+            },
+            {
+              "id": "26edc2e5-dbf2-4bd3-8b46-91accd690ead",
+              "title": "Live With Me"
+            },
+            {
+              "id": "21bff33b-ea37-4222-8488-d30cc0b5fc44",
+              "title": "Let It Bleed"
+            },
+            {
+              "id": "e6d48ae2-74aa-4af6-a900-5fb00a3238c3",
+              "title": "Midnight Rambler"
+            },
+            {
+              "id": "fe57ad2b-a772-46f3-b0d7-76f549c06822",
+              "title": "You Got the Silver"
+            },
+            {
+              "id": "cfe74868-7922-46e8-b1e7-fb52f1edd35c",
+              "title": "Monkey Man"
+            },
+            {
+              "id": "9d8c543c-8dee-4aca-867e-909b496ca875",
+              "title": "You Can’t Always Get What You Want"
+            }
+          ]
+        },
+        {
+          "release-group": {
+            "id": "919b8534-f40f-3a07-be48-0a9095ab5ada",
+            "title": "England’s Newest Hit Makers"
+          },
+          "release": {
+            "id": "552f1b9a-b0ed-41eb-8b35-8ccba1946b7e",
+            "title": "The Rolling Stones",
+            "date": "1964"
+          },
+          "label": {
+            "id": "f18f3b31-8263-4de3-966a-fda317492d3d",
+            "name": "Decca Records"
+          },
+          "recordings": [
+            {
+              "id": "95bd8c47-2443-401e-98ff-a385109af954",
+              "title": "Route 66"
+            },
+            {
+              "id": "3e80e39f-488a-42c0-8da4-bb4a6bd24c93",
+              "title": "I Just Want to Make Love to You"
+            },
+            {
+              "id": "cb2046fc-5b7e-4364-b0b3-0fd13cbd5f6f",
+              "title": "Honest I Do"
+            },
+            {
+              "id": "bfebada8-a16b-4370-90a6-b708ec0359fe",
+              "title": "Mona (I Need You Baby)"
+            },
+            {
+              "id": "e4591bdb-7cef-47b1-bafa-988b6f008096",
+              "title": "Now I’ve Got a Witness (Like Uncle Phil and Uncle Gene)"
+            },
+            {
+              "id": "9d858943-c80e-4b95-b641-74e350f3cfae",
+              "title": "Little by Little"
+            },
+            {
+              "id": "72cb2231-6318-4f2f-a52a-6114f5b8eb46",
+              "title": "I’m a King Bee"
+            },
+            {
+              "id": "d1413d41-dcb2-4147-bb53-35c523e1ff05",
+              "title": "Carol"
+            },
+            {
+              "id": "5ce2e31e-f538-400e-905f-3b677eb5a126",
+              "title": "Tell Me"
+            },
+            {
+              "id": "949392a3-3e26-4e9b-8557-1cc8e5658c75",
+              "title": "Can I Get a Witness"
+            },
+            {
+              "id": "3f4d609a-db9a-4c86-94a0-376888c62013",
+              "title": "You Can Make It If You Try"
+            },
+            {
+              "id": "8c3f16ed-0be8-48a5-bf28-0401c564993a",
+              "title": "Walking the Dog"
+            }
+          ]
+        },
+        {
+          "release-group": {
+            "id": "703eab6c-056e-3d6d-95d9-991e01f5ca57",
+            "title": "12 × 5"
+          },
+          "release": {
+            "id": "043575ed-a3a1-4a9e-be70-073901966207",
+            "title": "12 × 5",
+            "date": "1964-10-24"
+          },
+          "label": {
+            "id": "60a0dd34-2333-4679-9050-38c21f7bc616",
+            "name": "London Records"
+          },
+          "recordings": [
+            {
+              "id": "e562532c-aeed-421e-b9e0-c31a0193f70a",
+              "title": "Around and Around"
+            },
+            {
+              "id": "5ecbed8f-6e34-4ae5-a573-0704fe2f2d4f",
+              "title": "Confessin’ the Blues"
+            },
+            {
+              "id": "d34ee7a9-ba59-42ea-94a8-f7dd7bd4da4c",
+              "title": "Empty Heart"
+            },
+            {
+              "id": "696abb45-36d0-4c3e-820a-c369aeb9c38b",
+              "title": "Time Is on My Side"
+            },
+            {
+              "id": "edae59f3-bc68-4751-a3ac-e5bc33f3f33a",
+              "title": "Good Times, Bad Times"
+            },
+            {
+              "id": "1e9a081e-dfa3-4aa4-ad8d-39355fad8e82",
+              "title": "It’s All Over Now"
+            },
+            {
+              "id": "31168ec0-e530-4cf8-bb8d-c4d63eca0262",
+              "title": "2120 South Michigan Avenue"
+            },
+            {
+              "id": "8625584f-d067-408a-a58f-497f1922b063",
+              "title": "Under the Boardwalk"
+            },
+            {
+              "id": "0aa50e46-7337-472b-8460-66ffdca041e6",
+              "title": "Congratulations"
+            },
+            {
+              "id": "64c74050-741d-40fa-adc5-18e467a98761",
+              "title": "Grown Up Wrong"
+            },
+            {
+              "id": "34fa2b63-012b-4d68-944c-1c2402f5dad2",
+              "title": "If You Need Me"
+            },
+            {
+              "id": "bdd81100-c7e3-4986-8368-4ec2bca1081b",
+              "title": "Susie Q"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "artist": {
+        "id": "5441c29d-3602-4898-b1a1-b77fa23b8e50",
+        "name": "David Bowie"
+      },
+      "albums": [
+        {
+          "release-group": {
+            "id": "6c9ae3dd-32ad-472c-96be-69d0a3536261",
+            "title": "The Rise and Fall of Ziggy Stardust and the Spiders From Mars"
+          },
+          "release": {
+            "id": "258f92e1-2f40-4421-8e54-586ae1c34adf",
+            "title": "The Rise and Fall of Ziggy Stardust and the Spiders From Mars",
+            "date": "1972"
+          },
+          "label": {
+            "id": "b3f4e6a5-ece0-43be-a530-68ad0d49fee8",
+            "name": "RCA Victor"
+          },
+          "recordings": [
+            {
+              "id": "9c9345d9-a631-484b-b66b-4e78aa776cb3",
+              "title": "Five Years"
+            },
+            {
+              "id": "e8afe383-1478-497e-90b1-7885c7f37f6e",
+              "title": "Soul Love"
+            },
+            {
+              "id": "c0f27bed-7986-4c88-a9c6-1d16ebc9817b",
+              "title": "Moonage Daydream"
+            },
+            {
+              "id": "c75ca467-b76c-4800-8267-9862e93b7040",
+              "title": "Starman (original single mix)"
+            },
+            {
+              "id": "df367f8e-3f2d-4f37-84c7-5e6617e16258",
+              "title": "It Ain’t Easy"
+            },
+            {
+              "id": "2ca5c833-8f3d-4566-9d61-a2294ea996ac",
+              "title": "Lady Stardust"
+            },
+            {
+              "id": "674e786f-19ac-462b-98ab-e5340248a7f2",
+              "title": "Star"
+            },
+            {
+              "id": "d76c72e3-3338-4d66-a3e1-7e9f5f71f95b",
+              "title": "Hang On to Yourself"
+            },
+            {
+              "id": "a0ca0cc0-cc0d-431c-8a36-dd917ea0dfa2",
+              "title": "Ziggy Stardust"
+            },
+            {
+              "id": "4ce20795-0558-4302-943a-7f621f49aad6",
+              "title": "Suffragette City"
+            },
+            {
+              "id": "04534165-f62b-4505-8fc5-1c820df8da45",
+              "title": "Rock ’n’ Roll Suicide"
+            }
+          ]
+        },
+        {
+          "release-group": {
+            "id": "5db40351-97ed-36a8-88e2-a21a2603cae1",
+            "title": "David Bowie"
+          },
+          "release": {
+            "id": "bfa03202-690b-411a-bf6a-baa78d74cfb7",
+            "title": "David Bowie",
+            "date": "1967"
+          },
+          "label": {
+            "id": "9d39ce55-18f6-4989-bcb6-d56862e18dcb",
+            "name": "Deram"
+          },
+          "recordings": [
+            {
+              "id": "4368a3de-35c7-485c-85ba-fdd6ae2b3424",
+              "title": "Uncle Arthur"
+            },
+            {
+              "id": "737ca97d-9411-4a34-952d-97d9d91461c1",
+              "title": "Sell Me a Coat"
+            },
+            {
+              "id": "aa185189-17ff-4e4e-b0d2-7fa88d845b00",
+              "title": "Rubber Band"
+            },
+            {
+              "id": "1cebe02d-c14e-4747-9b11-7f5e15c1bde0",
+              "title": "Love You Till Tuesday"
+            },
+            {
+              "id": "f9f22e3c-38c3-43b7-882d-4b374b898a22",
+              "title": "There Is a Happy Land"
+            },
+            {
+              "id": "1562e312-192d-432a-9277-8ee7a6c09758",
+              "title": "When I Live My Dream"
+            },
+            {
+              "id": "5401e647-9399-435c-b7df-4461b86f7bbc",
+              "title": "Little Bombardier"
+            },
+            {
+              "id": "18e56805-6cd9-4e5b-ad96-62d2a6976d8d",
+              "title": "Silly Boy Blue"
+            },
+            {
+              "id": "5a87d529-0db7-4aa4-bd96-3b174abdfc8b",
+              "title": "Come and Buy My Toys"
+            },
+            {
+              "id": "1f8877cf-6271-4990-8bb4-f444cfb4d292",
+              "title": "Join the Gang"
+            },
+            {
+              "id": "632c98b9-b395-4940-88b2-cf7c54b715fb",
+              "title": "She’s Got Medals"
+            },
+            {
+              "id": "3dfa58de-7668-4fa9-acb2-1be152eacc5a",
+              "title": "Please Mr. Gravedigger"
+            }
+          ]
+        },
+        {
+          "release-group": {
+            "id": "2e12918c-4973-3537-b9ab-e4723ae1ae1d",
+            "title": "David Bowie"
+          },
+          "release": {
+            "id": "63027a5d-8b94-4a6b-a3bb-cd5d55134214",
+            "title": "Man of Words/Man of Music",
+            "date": "1969"
+          },
+          "label": {
+            "id": "995428e7-81b6-41dd-bd38-5a7a0ece8ad6",
+            "name": "Mercury Records"
+          },
+          "recordings": [
+            {
+              "id": "84649f3b-6da6-4da6-8e33-a7a990b69516",
+              "title": "Space Oddity"
+            },
+            {
+              "id": "b9b9090d-23c0-46aa-9811-8fb5a9ccafc3",
+              "title": "Unwashed and Somewhat Slightly Dazed"
+            },
+            {
+              "id": "e0cccb31-0a9c-4846-98c0-e4af412228ce",
+              "title": "(Don’t Sit Down)"
+            },
+            {
+              "id": "88f20741-0c96-4514-80d2-ea9c50e7cb4d",
+              "title": "Letter to Hermione"
+            },
+            {
+              "id": "7b05462d-aedb-4933-a846-af8a4fcfdccc",
+              "title": "Cygnet Committee"
+            },
+            {
+              "id": "6218e182-1ba8-4a18-980b-afecb2ce0b60",
+              "title": "Janine"
+            },
+            {
+              "id": "3917014a-46fd-4419-8528-8a457a4682ac",
+              "title": "An Occasional Dream"
+            },
+            {
+              "id": "20ba9cb7-768e-4ff0-8656-9d3c74b8df17",
+              "title": "Wild Eyed Boy From Freecloud"
+            },
+            {
+              "id": "138bd73d-7e15-4950-9ef8-16ae32888051",
+              "title": "God Knows I’m Good"
+            },
+            {
+              "id": "f239a701-9798-4abb-afd2-67bd6b404b5e",
+              "title": "Memory of a Free Festival"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "artist": {
+        "id": "a74b1b7f-71a5-4011-9441-d0b5e4122711",
+        "name": "Radiohead"
+      },
+      "albums": [
+        {
+          "release-group": {
+            "id": "b1392450-e666-3926-a536-22c65f834433",
+            "title": "OK Computer"
+          },
+          "release": {
+            "id": "9c1e5e9e-9f40-4cd8-94a4-785fa5d0b613",
+            "title": "OK Computer",
+            "date": "1997"
+          },
+          "label": {
+            "id": "df7d1c7f-ef95-425f-8eef-445b3d7bcbd9",
+            "name": "Parlophone"
+          },
+          "recordings": [
+            {
+              "id": "4a7fea2e-545b-4c63-bc9a-9943cc3a29d7",
+              "title": "Airbag"
+            },
+            {
+              "id": "9f9cf187-d6f9-437f-9d98-d59cdbd52757",
+              "title": "Paranoid Android"
+            },
+            {
+              "id": "bd82738d-163c-4b1a-bfaf-7acffe30e68a",
+              "title": "Subterranean Homesick Alien"
+            },
+            {
+              "id": "23c3c36b-9449-4484-9040-6ef2125999aa",
+              "title": "Exit Music (for a Film)"
+            },
+            {
+              "id": "47b02a82-c3bf-4647-b894-dd1c8f608e7f",
+              "title": "Let Down"
+            },
+            {
+              "id": "9e2ad5bc-c6f9-40d2-a36f-3122ee2072a3",
+              "title": "Karma Police"
+            },
+            {
+              "id": "5838f978-0822-4e28-874f-e1511324ec3a",
+              "title": "Fitter Happier"
+            },
+            {
+              "id": "ba0a796c-bd1f-4d4b-85a8-918f217a204a",
+              "title": "Electioneering"
+            },
+            {
+              "id": "c7225576-001e-423c-adc1-58f0985dcb27",
+              "title": "Climbing Up the Walls"
+            },
+            {
+              "id": "980a426e-623e-4ea5-98c7-008d037a0508",
+              "title": "No Surprises"
+            },
+            {
+              "id": "79047824-f821-4b1a-9893-e0cea1c947dd",
+              "title": "Lucky"
+            },
+            {
+              "id": "610c0012-6eb4-42a0-b759-3a2532ce0f15",
+              "title": "The Tourist"
+            }
+          ]
+        },
+        {
+          "release-group": {
+            "id": "cd76f76b-ff15-3784-a71d-4da3078a6851",
+            "title": "Pablo Honey"
+          },
+          "release": {
+            "id": "051cfabc-f80c-4fc8-89a3-27161fa95c59",
+            "title": "Pablo Honey",
+            "date": "1993"
+          },
+          "label": {
+            "id": "df7d1c7f-ef95-425f-8eef-445b3d7bcbd9",
+            "name": "Parlophone"
+          },
+          "recordings": [
+            {
+              "id": "abb8911f-ad4d-493c-9f56-a34f67f4eeac",
+              "title": "You"
+            },
+            {
+              "id": "70595637-9310-45f2-a266-58f8de4874a7",
+              "title": "Creep"
+            },
+            {
+              "id": "174e57b1-0a79-4103-92c2-ec3d109347c1",
+              "title": "How Do You?"
+            },
+            {
+              "id": "e4e67aad-31f7-49cd-a3d4-65c4f7fbe66e",
+              "title": "Stop Whispering"
+            },
+            {
+              "id": "2f795d53-4034-4704-bf4b-aa54a12ba187",
+              "title": "Thinking About You"
+            },
+            {
+              "id": "4e934b0e-4e35-418a-a620-109ba80c4476",
+              "title": "Anyone Can Play Guitar"
+            },
+            {
+              "id": "b20fd3d0-1ec5-40ed-93cd-5f82fd3727a6",
+              "title": "Ripcord"
+            },
+            {
+              "id": "6afeef75-2c2b-48c0-905b-af1ca5c3f23a",
+              "title": "Vegetable"
+            },
+            {
+              "id": "3b53ea59-7270-4339-88df-8f2cc7a2fb44",
+              "title": "Prove Yourself"
+            },
+            {
+              "id": "1a9cf8b6-8edf-44b4-bdf8-17dcd8459ee1",
+              "title": "I Can’t"
+            },
+            {
+              "id": "c17a2b44-8b59-4575-a557-b0bfa03df868",
+              "title": "Lurgee"
+            },
+            {
+              "id": "64cc6006-e1f4-4528-9789-5162c0c82e50",
+              "title": "Blow Out"
+            }
+          ]
+        },
+        {
+          "release-group": {
+            "id": "b8048f24-c026-3398-b23a-b5e50716cbc7",
+            "title": "The Bends"
+          },
+          "release": {
+            "id": "fc689ab9-7c35-435e-b407-b097cf9f3052",
+            "title": "The Bends",
+            "date": "1995"
+          },
+          "label": {
+            "id": "df7d1c7f-ef95-425f-8eef-445b3d7bcbd9",
+            "name": "Parlophone"
+          },
+          "recordings": [
+            {
+              "id": "49bb3701-1b75-4232-8999-ff5318adf676",
+              "title": "Planet Telex"
+            },
+            {
+              "id": "ad922fb0-f2ac-4d47-803f-a61cfa69117e",
+              "title": "The Bends"
+            },
+            {
+              "id": "83cf16bc-01db-4766-9e3e-f3c796639cf2",
+              "title": "High and Dry"
+            },
+            {
+              "id": "1e73e7a6-7378-46e5-97a7-2c299c656a29",
+              "title": "Fake Plastic Trees"
+            },
+            {
+              "id": "10b3772d-e300-46a0-b456-415edaf60507",
+              "title": "Bones"
+            },
+            {
+              "id": "b271dd19-ecee-4f87-b98a-a26b724f00e9",
+              "title": "(Nice Dream)"
+            },
+            {
+              "id": "e234705a-d068-43d5-a122-cef8f056588e",
+              "title": "Just"
+            },
+            {
+              "id": "938ecadc-f343-4c06-a754-c9f262be1088",
+              "title": "My Iron Lung"
+            },
+            {
+              "id": "3dbd1679-8988-4859-9879-a570e87edc47",
+              "title": "Bullet Proof..I Wish I Was"
+            },
+            {
+              "id": "e949857d-94d3-4e54-a9e6-af6bc1caf43d",
+              "title": "Black Star"
+            },
+            {
+              "id": "b6f2797c-4de2-418a-b935-24ad8fcd8251",
+              "title": "Sulk"
+            },
+            {
+              "id": "99385b86-235b-4780-a8de-62993cae0388",
+              "title": "Street Spirit (Fade Out)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "artist": {
+        "id": "381086ea-f511-4aba-bdf9-71c753dc5077",
+        "name": "Kendrick Lamar"
+      },
+      "albums": [
+        {
+          "release-group": {
+            "id": "b88655ba-7469-48b8-a296-b9011ab73ef3",
+            "title": "DAMN."
+          },
+          "release": {
+            "id": "c3d9e5b1-23d8-4536-a511-9211c4aba7b0",
+            "title": "DAMN.",
+            "date": "2017"
+          },
+          "label": {
+            "id": "c0629488-2aa2-4b46-9de8-decb27147444",
+            "name": "Aftermath Entertainment"
+          },
+          "recordings": [
+            {
+              "id": "e561e69b-fc47-4a41-b9e1-6856980a77e5",
+              "title": "BLOOD."
+            },
+            {
+              "id": "898059a0-753c-4943-9604-d3c0e2929d81",
+              "title": "DNA."
+            },
+            {
+              "id": "10ed3fef-5b54-4b5a-93d2-4412cde518f1",
+              "title": "YAH."
+            },
+            {
+              "id": "eb42a83e-dc51-436a-9972-1520a80c5115",
+              "title": "ELEMENT."
+            },
+            {
+              "id": "194b7699-71d0-4064-9ac7-bff3735a4b03",
+              "title": "FEEL."
+            },
+            {
+              "id": "47dc1ca1-2002-4070-ad2e-3ebe9401473d",
+              "title": "LOYALTY."
+            },
+            {
+              "id": "11ed671b-b2ec-4756-932c-a205e38147f0",
+              "title": "PRIDE."
+            },
+            {
+              "id": "398bf241-7d57-4993-860b-1f9ef496c97f",
+              "title": "HUMBLE."
+            },
+            {
+              "id": "e6633eaa-f3f3-44b3-a18e-9ca35b12517d",
+              "title": "LUST."
+            },
+            {
+              "id": "7766ea21-d94e-4f7b-966d-2d2e2b1f137f",
+              "title": "LOVE."
+            },
+            {
+              "id": "f14afe19-eea1-4115-8c81-eb41b8284965",
+              "title": "XXX."
+            },
+            {
+              "id": "1878d513-3436-4495-a88d-08225ce9bd06",
+              "title": "FEAR."
+            },
+            {
+              "id": "1f746931-2a54-437e-9804-27aa385a4e82",
+              "title": "GOD."
+            },
+            {
+              "id": "9488e575-4c2c-4a30-a064-14b02acbe1ac",
+              "title": "DUCKWORTH."
+            }
+          ]
+        },
+        {
+          "release-group": {
+            "id": "ceccd668-a928-4041-a3c3-99a5ce880de9",
+            "title": "Section.80"
+          },
+          "release": {
+            "id": "4ee0e10c-ea4e-4ac5-b06b-95d02aa42d29",
+            "title": "Section.80",
+            "date": "2011"
+          },
+          "label": {
+            "id": "56d2501f-12b7-4cfd-b8f8-e95189ea27f5",
+            "name": "Top Dawg Entertainment"
+          },
+          "recordings": [
+            {
+              "id": "cdffc58c-5b84-4d70-bf52-5179919d55b1",
+              "title": "Fuck Your Ethnicity"
+            },
+            {
+              "id": "e93ffc87-5306-4975-8d7a-298914cb96b9",
+              "title": "Hol’ Up"
+            },
+            {
+              "id": "5fb18e9d-fb24-4d96-8410-032d3fc89568",
+              "title": "A.D.H.D"
+            },
+            {
+              "id": "b22a6497-79a6-4a3a-81ba-e3b84f989501",
+              "title": "No Makeup (Her Vice)"
+            },
+            {
+              "id": "3e574af4-2c79-4346-a39d-1ef21041238e",
+              "title": "Tammy’s Song (Her Evils)"
+            },
+            {
+              "id": "f9cacc1a-f4a1-4c6d-aa3f-25d543648e8f",
+              "title": "Chapter Six"
+            },
+            {
+              "id": "6150f46b-0d50-4944-af2a-5a8707778a07",
+              "title": "Ronald Reagan Era (His Evils)"
+            },
+            {
+              "id": "e12ea507-6da8-4c37-90cb-f3af5bb2e469",
+              "title": "Poe Mans Dream (His Vice)"
+            },
+            {
+              "id": "117bdb40-40b9-4f81-a3ee-c70d4586ce44",
+              "title": "The Spiteful Chant"
+            },
+            {
+              "id": "71e79c40-5cd5-49b3-9879-8326bd7f9879",
+              "title": "Chapter Ten"
+            },
+            {
+              "id": "95d28bba-a66d-46dc-89fb-4405ffdbd96f",
+              "title": "Keisha’s Song (Her Pain)"
+            },
+            {
+              "id": "ce98f7f8-b85f-4d6f-b108-505de842e41a",
+              "title": "Rigamortis"
+            },
+            {
+              "id": "3827f444-b31a-432a-9de5-d9922f838354",
+              "title": "Kush & Corinthians (His Pain)"
+            },
+            {
+              "id": "023ea0ea-40c2-4ab1-bf74-c0022e45c0c8",
+              "title": "Blow My High (Members Only)"
+            },
+            {
+              "id": "4f589e97-ee02-46cc-a0a2-4ad8714bc610",
+              "title": "Ab‐Soul’s Outro"
+            },
+            {
+              "id": "5339459c-d3b2-44c8-bf30-11feb9d2db87",
+              "title": "HiiiPoWeR"
+            }
+          ]
+        },
+        {
+          "release-group": {
+            "id": "499c19c8-0dab-4824-884b-6191d145e95b",
+            "title": "good kid, m.A.A.d city"
+          },
+          "release": {
+            "id": "8b85a562-71ce-486e-8536-34c5dca0f54e",
+            "title": "good kid, m.A.A.d city",
+            "date": "2012"
+          },
+          "label": {
+            "id": "c0629488-2aa2-4b46-9de8-decb27147444",
+            "name": "Aftermath Entertainment"
+          },
+          "recordings": [
+            {
+              "id": "0eb9cab9-0e38-43d3-aeb6-68384e209a0c",
+              "title": "Sherane a.k.a Master Splinter’s Daughter"
+            },
+            {
+              "id": "54494123-9670-4b2d-83ad-85c46c8f5200",
+              "title": "Bitch, Don’t Kill My Vibe"
+            },
+            {
+              "id": "a3c6af59-af56-4d61-beac-032df8fc4015",
+              "title": "Backseat Freestyle"
+            },
+            {
+              "id": "fd83178d-c064-4689-9c09-bef8f1c4cad9",
+              "title": "The Art of Peer Pressure"
+            },
+            {
+              "id": "c294757b-0430-4eb4-ae7a-6abcffb87405",
+              "title": "Money Trees"
+            },
+            {
+              "id": "21842c0b-b4ac-4418-878c-4f377032f0fe",
+              "title": "Poetic Justice"
+            },
+            {
+              "id": "421d5f93-107c-46b3-953e-cad600e1e25c",
+              "title": "good kid"
+            },
+            {
+              "id": "d142987d-69a5-426c-8d41-20ce2cc1534b",
+              "title": "m.A.A.d city"
+            },
+            {
+              "id": "7dee4afc-5931-4295-955a-7ae44f403e70",
+              "title": "Swimming Pools (Drank) (extended version)"
+            },
+            {
+              "id": "f0fc2708-edfa-431c-80bd-305796cc5a48",
+              "title": "Sing About Me, I’m Dying of Thirst"
+            },
+            {
+              "id": "02fac8cb-82c0-4129-803e-f675e8468a93",
+              "title": "Real"
+            },
+            {
+              "id": "115be1e6-3937-41ef-96dd-11b768c3a56e",
+              "title": "Compton"
+            },
+            {
+              "id": "7655d366-57d4-4bd3-9030-8de9b1efa5e1",
+              "title": "The Recipe"
+            },
+            {
+              "id": "e4a39ca5-f429-498a-add5-97c2d4e56820",
+              "title": "Black Boy Fly"
+            },
+            {
+              "id": "f0ffd14d-f858-44a4-888a-f245b91b789f",
+              "title": "Now or Never"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "artist": {
+        "id": "f4abc0b5-3f7a-4eff-8f78-ac078dbce533",
+        "name": "Billie Eilish"
+      },
+      "albums": [
+        {
+          "release-group": {
+            "id": "72375978-a9a1-4254-b957-85565c716b7e",
+            "title": "WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?"
+          },
+          "release": {
+            "id": "06b4b9cd-4425-4477-b8dd-e1c28d1ea347",
+            "title": "WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?",
+            "date": "2019"
+          },
+          "label": {
+            "id": "7c0b209a-0974-416d-bf52-b41889f5c0d3",
+            "name": "Darkroom Records"
+          },
+          "recordings": [
+            {
+              "id": "75090060-75fa-4a87-aa63-c0f730d1825d",
+              "title": "!!!!!!!"
+            },
+            {
+              "id": "694da04d-1ffc-435c-8b4b-59cc23ac8003",
+              "title": "bad guy"
+            },
+            {
+              "id": "ca5900a4-5cb0-4ba6-8ed1-54234a31abdc",
+              "title": "xanny"
+            },
+            {
+              "id": "a3227a92-b99d-4c94-9fa4-660cea0134ea",
+              "title": "you should see me in a crown"
+            },
+            {
+              "id": "1c3683c9-9008-4777-866b-5aacea6187dc",
+              "title": "all the good girls go to hell"
+            },
+            {
+              "id": "68aaf9b2-faaa-4593-9442-ffffc88ac820",
+              "title": "wish you were gay"
+            },
+            {
+              "id": "ba7a88da-f864-4ead-9a63-36f92d10de46",
+              "title": "when the party’s over"
+            },
+            {
+              "id": "23caec99-7f8d-4c26-90d7-04d3750c5970",
+              "title": "8"
+            },
+            {
+              "id": "eddc4da4-1809-451c-8e32-7a47b6989033",
+              "title": "my strange addiction"
+            },
+            {
+              "id": "4d82c5eb-9cfe-4dd6-b147-b57cc17a809d",
+              "title": "bury a friend"
+            },
+            {
+              "id": "e87fb0eb-58cb-42b4-a352-9254de99348a",
+              "title": "ilomilo"
+            },
+            {
+              "id": "373994c7-35e0-4b46-9c2e-82a90b95c0cb",
+              "title": "listen before i go"
+            },
+            {
+              "id": "853e1775-727f-4b7f-b91d-09be9bb55ef8",
+              "title": "i love you"
+            },
+            {
+              "id": "31a0ccb2-fbe1-48e9-b0b8-96d149a8c4f1",
+              "title": "goodbye"
+            }
+          ]
+        },
+        {
+          "release-group": {
+            "id": "3ac5236a-3bd8-44c6-ab60-69b013594ae6",
+            "title": "Happier Than Ever"
+          },
+          "release": {
+            "id": "d0f5b4d2-995a-4825-84c4-4539af825ee1",
+            "title": "Happier Than Ever",
+            "date": "2021-07-30"
+          },
+          "label": {
+            "id": "7c0b209a-0974-416d-bf52-b41889f5c0d3",
+            "name": "Darkroom Records"
+          },
+          "recordings": [
+            {
+              "id": "5bf07b18-a40a-4f2d-acfa-ff69c94799f9",
+              "title": "Getting Older"
+            },
+            {
+              "id": "720d683e-232a-49f3-a28e-8d88b1593057",
+              "title": "I Didn’t Change My Number"
+            },
+            {
+              "id": "2152d090-29ef-4f03-887e-3d3a6774fa0d",
+              "title": "Billie Bossa Nova"
+            },
+            {
+              "id": "01f6a3a6-6aac-4d28-9706-cde1b793f4b5",
+              "title": "my future"
+            },
+            {
+              "id": "2fbd5b7f-bd31-4149-84c3-4949f450bf21",
+              "title": "Oxytocin"
+            },
+            {
+              "id": "d853e25f-068c-47d5-a70a-9ccc71f2227e",
+              "title": "GOLDWING"
+            },
+            {
+              "id": "6bd56e4a-2abd-435d-9eac-bc834e30d1c0",
+              "title": "Lost Cause"
+            },
+            {
+              "id": "54ee9fb7-d513-43a7-9cdb-9b8be2c76c1d",
+              "title": "Halley’s Comet"
+            },
+            {
+              "id": "da4813ff-8044-4542-b4bf-6aa67a7ad811",
+              "title": "Not My Responsibility"
+            },
+            {
+              "id": "c4b333df-1f31-4435-b256-8c497ec09eff",
+              "title": "OverHeated"
+            },
+            {
+              "id": "2f7a6b23-341a-4560-a007-c2cfe37c4f46",
+              "title": "Everybody Dies"
+            },
+            {
+              "id": "977f733d-3fc3-4dbe-8f7c-4be52c9994c0",
+              "title": "Your Power"
+            },
+            {
+              "id": "5bda4e8f-45ca-4eb4-93ba-24457777561c",
+              "title": "NDA"
+            },
+            {
+              "id": "028eb5ad-3eba-4e8f-ac50-4cbc21c0c11e",
+              "title": "Therefore I Am"
+            },
+            {
+              "id": "24134481-599d-4e30-bffd-3080739f3d58",
+              "title": "Happier Than Ever"
+            },
+            {
+              "id": "7ef9528b-9d4a-4b57-af13-815d7efaccba",
+              "title": "Male Fantasy"
+            }
+          ]
+        },
+        {
+          "release-group": {
+            "id": "02a544b3-0459-42c7-bd9c-047162e7b67a",
+            "title": "HIT ME HARD AND SOFT"
+          },
+          "release": {
+            "id": "7bfb39e2-8588-4b5c-b6b9-61bdd02d0fe7",
+            "title": "HIT ME HARD AND SOFT",
+            "date": "2024-05-17"
+          },
+          "label": {
+            "id": "7c0b209a-0974-416d-bf52-b41889f5c0d3",
+            "name": "Darkroom Records"
+          },
+          "recordings": [
+            {
+              "id": "e876f6db-517a-48fd-b265-6bf965d5d79d",
+              "title": "SKINNY"
+            },
+            {
+              "id": "13f11191-f67a-4f35-8b58-62410b13d6cb",
+              "title": "LUNCH"
+            },
+            {
+              "id": "4bcb550c-9160-45ed-9cbe-d6771ad96c9d",
+              "title": "CHIHIRO"
+            },
+            {
+              "id": "3a7e1970-069c-4761-a6b2-9046e54406bc",
+              "title": "BIRDS OF A FEATHER"
+            },
+            {
+              "id": "5afa33bb-83f6-42c6-b789-8bfa34c48b50",
+              "title": "WILDFLOWER"
+            },
+            {
+              "id": "cc18a5e3-da0d-4834-9bc5-b7cbfce32b3a",
+              "title": "THE GREATEST"
+            },
+            {
+              "id": "965c885b-f64c-44f5-85db-b7b7848067a2",
+              "title": "L’AMOUR DE MA VIE"
+            },
+            {
+              "id": "5970bda8-52a8-45ba-a558-6910f58fdb90",
+              "title": "THE DINER"
+            },
+            {
+              "id": "a4dacc7c-bb34-4dbb-8186-3519d0bd9670",
+              "title": "BITTERSUITE"
+            },
+            {
+              "id": "7b0ccd88-be61-4cbe-b33c-84326ccb07b0",
+              "title": "BLUE"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "artist": {
+        "id": "a3cb23fc-acd3-4ce0-8f36-1e5aa6a18432",
+        "name": "U2"
+      },
+      "albums": [
+        {
+          "release-group": {
+            "id": "f997cb8f-f393-46e5-87eb-5a152e0a2480",
+            "title": "The Joshua Tree"
+          },
+          "release": {
+            "id": "15b8b95b-2ca0-4923-ae6b-c597864b3e3e",
+            "title": "The Joshua Tree",
+            "date": "2006"
+          },
+          "label": {
+            "id": "036ded0b-d709-4f3c-b08d-b3c1df6c4fdf",
+            "name": "Eagle Rock Entertainment"
+          },
+          "recordings": [
+            {
+              "id": "e02b5784-4645-4950-8689-e9e05041b046",
+              "title": "A Very Irish Album"
+            },
+            {
+              "id": "b1e0a70d-288a-496d-bebf-464e63720fea",
+              "title": "I Still Haven’t Found What I’m Looking For"
+            },
+            {
+              "id": "5b106074-d90a-4e9f-8e0b-e55ce8959194",
+              "title": "With or Without You"
+            },
+            {
+              "id": "3958ee6c-2c68-4c20-b7c0-3845549d2976",
+              "title": "The Edge and the Guitar"
+            },
+            {
+              "id": "46029b6a-e5d6-45f8-9546-febfb55ac258",
+              "title": "Flood the Engineer"
+            },
+            {
+              "id": "7a321b97-061a-45ef-826d-b3b6cff6e64d",
+              "title": "Mothers of the Disappeared"
+            },
+            {
+              "id": "43e66b5f-f1ed-4537-8349-83fbe71c832b",
+              "title": "Bullet the Blue Sky"
+            },
+            {
+              "id": "150d0417-1da2-4885-8fdc-1da54c7d9988",
+              "title": "Where the Streets Have No Name"
+            },
+            {
+              "id": "6a8c6a9d-f564-4111-8b7f-0ac0b2c8165f",
+              "title": "Exit"
+            },
+            {
+              "id": "ac133160-56c9-4485-ace3-91603298550e",
+              "title": "Running to Stand Still"
+            },
+            {
+              "id": "160ddb32-b111-4f9d-ba27-364a11b44e71",
+              "title": "The Sweetest Thing"
+            },
+            {
+              "id": "1339d75c-342f-4a78-9325-ec2521ecf144",
+              "title": "[credits]"
+            }
+          ]
+        },
+        {
+          "release-group": {
+            "id": "53b0d89e-f856-3015-a3a6-a70e1e935fd6",
+            "title": "Boy"
+          },
+          "release": {
+            "id": "24385f92-4dd1-4726-8719-437d1c74ac18",
+            "title": "Boy",
+            "date": "1980-10-20"
+          },
+          "label": {
+            "id": "dfd92cd3-4888-46d2-b968-328b1feb2642",
+            "name": "Island"
+          },
+          "recordings": [
+            {
+              "id": "fd0d654e-bd45-48fa-b5a2-3beac95f258f",
+              "title": "I Will Follow"
+            },
+            {
+              "id": "00fd6bfa-71f2-47f5-b1a2-88e928f1e08f",
+              "title": "Twilight"
+            },
+            {
+              "id": "8f7d932d-5f59-43ba-b4ad-f22de79d2985",
+              "title": "An Cat Dubh"
+            },
+            {
+              "id": "d6f282dd-7485-418f-8f1a-bc71ff700a74",
+              "title": "Into the Heart"
+            },
+            {
+              "id": "e90ce9ee-cf9a-46c3-a9d8-8a4c6551b723",
+              "title": "Out of Control"
+            },
+            {
+              "id": "81c8c447-323a-4d85-90c2-bcc4f5ddc460",
+              "title": "Stories for Boys"
+            },
+            {
+              "id": "c6c8d2e9-445d-43d7-aac3-8d19d6d1fde1",
+              "title": "The Ocean"
+            },
+            {
+              "id": "ed01f2d8-a186-46b5-baf1-5e423cf3752d",
+              "title": "A Day Without Me"
+            },
+            {
+              "id": "f82caf8c-071e-43ce-9410-8e2244b55d4a",
+              "title": "Another Time, Another Place"
+            },
+            {
+              "id": "8af15574-378f-4571-ab18-4175ea4b616a",
+              "title": "The Electric Co."
+            },
+            {
+              "id": "672a925d-0765-4258-9374-2a639f920607",
+              "title": "Shadows and Tall Trees / [untitled]"
+            }
+          ]
+        },
+        {
+          "release-group": {
+            "id": "87febb2c-e117-3a0d-a7f6-8fd9a6421af1",
+            "title": "October"
+          },
+          "release": {
+            "id": "cb24eab2-e812-4f25-b4e8-92451fdcdb89",
+            "title": "October",
+            "date": "1981-10-12"
+          },
+          "label": {
+            "id": "dfd92cd3-4888-46d2-b968-328b1feb2642",
+            "name": "Island"
+          },
+          "recordings": [
+            {
+              "id": "398a5f12-80ba-4d29-8b6b-bfe2176341a6",
+              "title": "Gloria"
+            },
+            {
+              "id": "8f6f422c-9a24-4c41-bf1e-7663cb58958f",
+              "title": "I Fall Down"
+            },
+            {
+              "id": "8dffc6cb-146a-49be-9f8a-039dc28788be",
+              "title": "I Threw a Brick Through a Window"
+            },
+            {
+              "id": "d50ab8ac-226f-47dc-b064-ac968a7a58a8",
+              "title": "Rejoice"
+            },
+            {
+              "id": "78739f86-867c-4c50-ac8c-ed8d2c1cf9a4",
+              "title": "Fire"
+            },
+            {
+              "id": "13ac8ea8-6dc1-4d01-a4aa-c35a34143d42",
+              "title": "Tomorrow"
+            },
+            {
+              "id": "67b6d47b-9a11-4222-a864-742c7bf8326c",
+              "title": "October"
+            },
+            {
+              "id": "8930caf5-9bcc-4bc2-bb9f-13059ea15e4b",
+              "title": "With a Shout"
+            },
+            {
+              "id": "53560172-938e-484a-b8ce-2b92ad6e11af",
+              "title": "Stranger in a Strange Land"
+            },
+            {
+              "id": "eb7a432b-725d-49a1-88c9-bf0200578875",
+              "title": "Scarlet"
+            },
+            {
+              "id": "527ae887-64fe-4cb7-8a2d-a7093ccc9e07",
+              "title": "Is That All?"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

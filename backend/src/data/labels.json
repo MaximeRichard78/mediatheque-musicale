@@ -1,0 +1,2715 @@
+{
+  "created": "2026-07-02T15:03:05.000Z",
+  "count": 36,
+  "offset": 0,
+  "labels": [
+    {
+      "id": "cf7fc5cf-e011-4ef4-b511-cd0188537910",
+      "type": "Original Production",
+      "type-id": "7aaa37fe-2def-3476-b359-80245850062d",
+      "score": 100,
+      "name": "Apple Records",
+      "sort-name": "Apple Records",
+      "label-code": 1074,
+      "country": "GB",
+      "area": {
+        "id": "8a754a16-0027-3a29-b6d7-2b40ea0481ed",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "United Kingdom",
+        "sort-name": "United Kingdom",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "life-span": {
+        "begin": "1968",
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "Apple",
+          "name": "Apple",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 1,
+          "name": "badfinger"
+        }
+      ]
+    },
+    {
+      "id": "df7d1c7f-ef95-425f-8eef-445b3d7bcbd9",
+      "type": "Original Production",
+      "type-id": "7aaa37fe-2def-3476-b359-80245850062d",
+      "score": 100,
+      "name": "Parlophone",
+      "sort-name": "Parlophone",
+      "label-code": 299,
+      "country": "GB",
+      "area": {
+        "id": "8a754a16-0027-3a29-b6d7-2b40ea0481ed",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "United Kingdom",
+        "sort-name": "United Kingdom",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "life-span": {
+        "begin": "1896",
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "Parlophone UK",
+          "type-id": "3a1a0c48-d885-3b89-87b2-9e8a483c5675",
+          "name": "Parlophone UK",
+          "locale": "en_GB",
+          "type": "Label name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Parlophone Records",
+          "type-id": "3a1a0c48-d885-3b89-87b2-9e8a483c5675",
+          "name": "Parlophone Records",
+          "locale": "en",
+          "type": "Label name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "パーロフォン",
+          "type-id": "3a1a0c48-d885-3b89-87b2-9e8a483c5675",
+          "name": "パーロフォン",
+          "locale": "ja",
+          "type": "Label name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Parlophon",
+          "type-id": "3a1a0c48-d885-3b89-87b2-9e8a483c5675",
+          "name": "Parlophon",
+          "locale": "de",
+          "type": "Label name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Parlaphone",
+          "type-id": "829662f2-a781-3ec8-8b46-fbcea6196f81",
+          "name": "Parlaphone",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 1,
+          "name": "rock"
+        },
+        {
+          "count": 1,
+          "name": "pop"
+        },
+        {
+          "count": 1,
+          "name": "alternative rock"
+        },
+        {
+          "count": 1,
+          "name": "british"
+        },
+        {
+          "count": 1,
+          "name": "uk"
+        },
+        {
+          "count": 1,
+          "name": "britannique"
+        },
+        {
+          "count": 1,
+          "name": "alternative"
+        },
+        {
+          "count": 1,
+          "name": "art rock"
+        },
+        {
+          "count": 1,
+          "name": "baroque pop"
+        },
+        {
+          "count": 1,
+          "name": "lc30419"
+        },
+        {
+          "count": 1,
+          "name": "discogs dump"
+        }
+      ]
+    },
+    {
+      "id": "40eff784-c102-4045-b32d-f74d1449756d",
+      "type": "Original Production",
+      "type-id": "7aaa37fe-2def-3476-b359-80245850062d",
+      "score": 100,
+      "name": "Odeon",
+      "sort-name": "Odeon",
+      "label-code": 287,
+      "country": "DE",
+      "area": {
+        "id": "85752fda-13c4-31a3-bee5-0e5cb1f51dad",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Germany",
+        "sort-name": "Germany",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "life-span": {
+        "begin": "1904",
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "Odeon Fonográfica",
+          "name": "Odeon Fonográfica",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ]
+    },
+    {
+      "id": "873f9f75-af68-4872-98e2-431058e4c9a9",
+      "type": "Imprint",
+      "type-id": "b6285b2a-3514-3d43-80df-fcf528824ded",
+      "score": 100,
+      "name": "Elektra",
+      "sort-name": "Elektra",
+      "label-code": 192,
+      "disambiguation": "all releases with “Elektra” or “Elektra Entertainment” logo, 1950 to present",
+      "country": "US",
+      "area": {
+        "id": "489ce91b-6658-3307-9877-795b68554c98",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "United States",
+        "sort-name": "United States",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "life-span": {
+        "begin": "1950",
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "Elektra Entertainment",
+          "name": "Elektra Entertainment",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": "1989",
+          "end-date": null
+        },
+        {
+          "sort-name": "Elektra Entertainment Company",
+          "name": "Elektra Entertainment Company",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Elektra Records",
+          "name": "Elektra Records",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Elektra (NEK)",
+          "type-id": "829662f2-a781-3ec8-8b46-fbcea6196f81",
+          "name": "Elektra (NEK)",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 0,
+          "name": "indie rock"
+        },
+        {
+          "count": 0,
+          "name": "américain"
+        },
+        {
+          "count": 0,
+          "name": "american"
+        },
+        {
+          "count": 0,
+          "name": "usa"
+        },
+        {
+          "count": 1,
+          "name": "hip hop"
+        }
+      ]
+    },
+    {
+      "id": "8f638ddb-131a-4cc3-b3d4-7ebdac201b55",
+      "type": "Imprint",
+      "type-id": "b6285b2a-3514-3d43-80df-fcf528824ded",
+      "score": 100,
+      "name": "Epic",
+      "sort-name": "Epic",
+      "label-code": 199,
+      "disambiguation": "US label founded by CBS in 1953, now owned by Sony",
+      "country": "US",
+      "area": {
+        "id": "489ce91b-6658-3307-9877-795b68554c98",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "United States",
+        "sort-name": "United States",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "life-span": {
+        "begin": "1953",
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "Epic Canada",
+          "name": "Epic Canada",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Epic - Label",
+          "name": "Epic - Label",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Epic Records('06.09〜)",
+          "type-id": "3a1a0c48-d885-3b89-87b2-9e8a483c5675",
+          "name": "Epic Records('06.09〜)",
+          "locale": "ja_JP",
+          "type": "Label name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Epic",
+          "type-id": "3a1a0c48-d885-3b89-87b2-9e8a483c5675",
+          "name": "Epic",
+          "locale": "en",
+          "type": "Label name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Epic Records",
+          "type-id": "3a1a0c48-d885-3b89-87b2-9e8a483c5675",
+          "name": "Epic Records",
+          "locale": "en",
+          "type": "Label name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 1,
+          "name": "américain"
+        },
+        {
+          "count": 1,
+          "name": "usa"
+        },
+        {
+          "count": 1,
+          "name": "pop"
+        },
+        {
+          "count": 0,
+          "name": "american"
+        },
+        {
+          "count": 1,
+          "name": "hip hop"
+        },
+        {
+          "count": 1,
+          "name": "contemporary r&b"
+        },
+        {
+          "count": 0,
+          "name": "contemporary rnb"
+        },
+        {
+          "count": 1,
+          "name": "discogs dump"
+        }
+      ]
+    },
+    {
+      "id": "4b59e4da-ed85-49f9-904c-973f9a698c8b",
+      "type": "Original Production",
+      "type-id": "7aaa37fe-2def-3476-b359-80245850062d",
+      "score": 100,
+      "name": "Tamla Motown",
+      "sort-name": "Tamla Motown",
+      "label-code": 363,
+      "disambiguation": "for non-US releases only",
+      "country": "US",
+      "area": {
+        "id": "489ce91b-6658-3307-9877-795b68554c98",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "United States",
+        "sort-name": "United States",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "life-span": {
+        "begin": "1965",
+        "ended": null
+      }
+    },
+    {
+      "id": "eaeb4138-f477-4f06-b7ab-6ea9624bd0ca",
+      "score": 100,
+      "name": "Tapecar",
+      "sort-name": "Tapecar",
+      "country": "BR",
+      "area": {
+        "id": "f45b47f8-5796-386e-b172-6c31b009a5d8",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Brazil",
+        "sort-name": "Brazil",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "be0fec81-5c18-4494-8bbf-0d81dec006bf",
+      "type": "Original Production",
+      "type-id": "7aaa37fe-2def-3476-b359-80245850062d",
+      "score": 100,
+      "name": "Sire Records",
+      "sort-name": "Sire Records",
+      "label-code": 3228,
+      "isnis": ["0000000123425894"],
+      "country": "US",
+      "area": {
+        "id": "489ce91b-6658-3307-9877-795b68554c98",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "United States",
+        "sort-name": "United States",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "life-span": {
+        "begin": "1966",
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "Sire Records Company",
+          "name": "Sire Records Company",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Sire",
+          "name": "Sire",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 1,
+          "name": "rock"
+        },
+        {
+          "count": 0,
+          "name": "american"
+        },
+        {
+          "count": 0,
+          "name": "usa"
+        },
+        {
+          "count": 0,
+          "name": "américain"
+        },
+        {
+          "count": 1,
+          "name": "anti-folk"
+        }
+      ]
+    },
+    {
+      "id": "c595c289-47ce-4fba-b999-b87503e8cb71",
+      "type": "Imprint",
+      "type-id": "b6285b2a-3514-3d43-80df-fcf528824ded",
+      "score": 100,
+      "name": "Warner Bros. Records",
+      "sort-name": "Warner Bros. Records",
+      "label-code": 392,
+      "disambiguation": "1958–2019; “WB” logo, with or without “records” beneath or on banner across",
+      "country": "US",
+      "area": {
+        "id": "489ce91b-6658-3307-9877-795b68554c98",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "United States",
+        "sort-name": "United States",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "life-span": {
+        "begin": "1958-03-19",
+        "end": "2019-05-28",
+        "ended": true
+      },
+      "aliases": [
+        {
+          "sort-name": "Warner Bros.",
+          "name": "Warner Bros.",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Warner Brothers",
+          "name": "Warner Brothers",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Warner Bros UK",
+          "name": "Warner Bros UK",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Warner Bros",
+          "name": "Warner Bros",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Warner Bros. (Japan)",
+          "name": "Warner Bros. (Japan)",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Warner Bros Records",
+          "name": "Warner Bros Records",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "WB Records",
+          "type-id": "829662f2-a781-3ec8-8b46-fbcea6196f81",
+          "name": "WB Records",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Warner Brothers Records",
+          "name": "Warner Brothers Records",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Warner Bros.-Seven Arts",
+          "type-id": "3a1a0c48-d885-3b89-87b2-9e8a483c5675",
+          "name": "Warner Bros.-Seven Arts",
+          "locale": "en",
+          "type": "Label name",
+          "primary": null,
+          "begin-date": "1967",
+          "end-date": "1970"
+        }
+      ],
+      "tags": [
+        {
+          "count": 2,
+          "name": "rock"
+        },
+        {
+          "count": 1,
+          "name": "electronic"
+        },
+        {
+          "count": 1,
+          "name": "soundtrack"
+        },
+        {
+          "count": 1,
+          "name": "classical"
+        },
+        {
+          "count": 2,
+          "name": "pop"
+        },
+        {
+          "count": 0,
+          "name": "alternative rock"
+        },
+        {
+          "count": 1,
+          "name": "progressive rock"
+        },
+        {
+          "count": 1,
+          "name": "american"
+        },
+        {
+          "count": 1,
+          "name": "usa"
+        },
+        {
+          "count": 1,
+          "name": "funk"
+        },
+        {
+          "count": 1,
+          "name": "score"
+        },
+        {
+          "count": 1,
+          "name": "américain"
+        },
+        {
+          "count": 1,
+          "name": "new prog"
+        }
+      ]
+    },
+    {
+      "id": "1a917e6f-54f5-4964-bebf-5d4e2442ceb4",
+      "type": "Production",
+      "type-id": "a2426aab-2dd4-339c-b47d-b4923a241678",
+      "score": 100,
+      "name": "Big Machine Records",
+      "sort-name": "Big Machine Records",
+      "country": "US",
+      "area": {
+        "id": "489ce91b-6658-3307-9877-795b68554c98",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "United States",
+        "sort-name": "United States",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "life-span": {
+        "begin": "2005-09-01",
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "Big Machine Records, LLC",
+          "type-id": "829662f2-a781-3ec8-8b46-fbcea6196f81",
+          "name": "Big Machine Records, LLC",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 1,
+          "name": "country"
+        }
+      ]
+    },
+    {
+      "id": "cb5bbd34-2903-472c-94e9-16af03881423",
+      "type": "Original Production",
+      "type-id": "7aaa37fe-2def-3476-b359-80245850062d",
+      "score": 100,
+      "name": "Cash Money Records",
+      "sort-name": "Cash Money Records",
+      "area": {
+        "id": "3c5a0506-d852-4e96-8d1e-d8126328f3be",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "New Orleans",
+        "sort-name": "New Orleans",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "life-span": {
+        "begin": "1991",
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "Cash Money Records Inc.",
+          "name": "Cash Money Records Inc.",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 1,
+          "name": "southern hip hop"
+        },
+        {
+          "count": 2,
+          "name": "hip hop"
+        }
+      ]
+    },
+    {
+      "id": "31eb6796-abba-4a02-b650-a556aa65f9ae",
+      "type": "Original Production",
+      "type-id": "7aaa37fe-2def-3476-b359-80245850062d",
+      "score": 100,
+      "name": "Parkwood Entertainment",
+      "sort-name": "Parkwood Entertainment",
+      "area": {
+        "id": "74e50e58-5deb-4b99-93a2-decbb365c07f",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "New York",
+        "sort-name": "New York",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "life-span": {
+        "begin": "2008",
+        "ended": null
+      },
+      "tags": [
+        {
+          "count": 1,
+          "name": "pop"
+        },
+        {
+          "count": 1,
+          "name": "rnb"
+        },
+        {
+          "count": 1,
+          "name": "soul"
+        },
+        {
+          "count": 1,
+          "name": "vocal"
+        }
+      ]
+    },
+    {
+      "id": "011d1192-6f65-45bd-85c4-0400dd45693e",
+      "type": "Imprint",
+      "type-id": "b6285b2a-3514-3d43-80df-fcf528824ded",
+      "score": 100,
+      "name": "Columbia",
+      "sort-name": "Columbia",
+      "label-code": 162,
+      "disambiguation": "owned by Sony Music Entertainment, worldwide except JP; formerly owned by CBS between 1938–1990 within US/CA/MX",
+      "country": "US",
+      "area": {
+        "id": "489ce91b-6658-3307-9877-795b68554c98",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "United States",
+        "sort-name": "United States",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "life-span": {
+        "begin": "1887",
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "Columbia/Sony Music Entertainment (Germany) GmbH & Co. KG",
+          "name": "Columbia/Sony Music Entertainment (Germany) GmbH & Co. KG",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Columbia Records",
+          "type-id": "3a1a0c48-d885-3b89-87b2-9e8a483c5675",
+          "name": "Columbia Records",
+          "locale": "en",
+          "type": "Label name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Columbia US",
+          "name": "Columbia US",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 2,
+          "name": "rock"
+        },
+        {
+          "count": 2,
+          "name": "alternative rock"
+        },
+        {
+          "count": 1,
+          "name": "american"
+        },
+        {
+          "count": 1,
+          "name": "hip hop"
+        },
+        {
+          "count": 2,
+          "name": "usa"
+        },
+        {
+          "count": 2,
+          "name": "indie rock"
+        },
+        {
+          "count": 1,
+          "name": "folk rock"
+        },
+        {
+          "count": 2,
+          "name": "psychedelic rock"
+        },
+        {
+          "count": 1,
+          "name": "américain"
+        },
+        {
+          "count": 1,
+          "name": "heartland rock"
+        },
+        {
+          "count": 1,
+          "name": "live"
+        },
+        {
+          "count": 2,
+          "name": "sony"
+        },
+        {
+          "count": 2,
+          "name": "smec"
+        },
+        {
+          "count": 1,
+          "name": "clean up"
+        },
+        {
+          "count": 2,
+          "name": "discogs dump"
+        }
+      ]
+    },
+    {
+      "id": "c0629488-2aa2-4b46-9de8-decb27147444",
+      "type": "Original Production",
+      "type-id": "7aaa37fe-2def-3476-b359-80245850062d",
+      "score": 100,
+      "name": "Aftermath Entertainment",
+      "sort-name": "Aftermath Entertainment",
+      "label-code": 6406,
+      "disambiguation": "US rap",
+      "country": "US",
+      "area": {
+        "id": "489ce91b-6658-3307-9877-795b68554c98",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "United States",
+        "sort-name": "United States",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "life-span": {
+        "begin": "1996",
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "Aftermath Records",
+          "name": "Aftermath Records",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 0,
+          "name": "606949004422"
+        },
+        {
+          "count": 5,
+          "name": "hip hop"
+        },
+        {
+          "count": 1,
+          "name": "west coast hip hop"
+        },
+        {
+          "count": 1,
+          "name": "gangsta rap"
+        }
+      ]
+    },
+    {
+      "id": "e06695b0-ded1-421f-939f-cde2470a0944",
+      "score": 100,
+      "name": "WEB Entertainment",
+      "sort-name": "WEB Entertainment",
+      "country": "US",
+      "area": {
+        "id": "489ce91b-6658-3307-9877-795b68554c98",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "United States",
+        "sort-name": "United States",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "life-span": {
+        "ended": null
+      },
+      "tags": [
+        {
+          "count": 2,
+          "name": "hip hop"
+        }
+      ]
+    },
+    {
+      "id": "2182a316-c4bd-4605-936a-5e2fac52bdd2",
+      "type": "Original Production",
+      "type-id": "7aaa37fe-2def-3476-b359-80245850062d",
+      "score": 100,
+      "name": "Interscope Records",
+      "sort-name": "Interscope Records",
+      "label-code": 6406,
+      "disambiguation": "part of UMG Recordings, Inc.",
+      "country": "US",
+      "area": {
+        "id": "489ce91b-6658-3307-9877-795b68554c98",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "United States",
+        "sort-name": "United States",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "life-span": {
+        "begin": "1990",
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "Interscope",
+          "type-id": "3a1a0c48-d885-3b89-87b2-9e8a483c5675",
+          "name": "Interscope",
+          "locale": "en",
+          "type": "Label name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 1,
+          "name": "rock"
+        },
+        {
+          "count": 2,
+          "name": "pop"
+        },
+        {
+          "count": 1,
+          "name": "hip hop"
+        },
+        {
+          "count": 1,
+          "name": "pop rap"
+        },
+        {
+          "count": 0,
+          "name": "clean up"
+        }
+      ]
+    },
+    {
+      "id": "abea2d3e-eabf-4480-ab24-9382dd642c73",
+      "type": "Imprint",
+      "type-id": "b6285b2a-3514-3d43-80df-fcf528824ded",
+      "score": 100,
+      "name": "Capitol Records",
+      "sort-name": "Capitol Records",
+      "label-code": 148,
+      "disambiguation": "imprint of Capitol Records, Inc.",
+      "country": "US",
+      "area": {
+        "id": "489ce91b-6658-3307-9877-795b68554c98",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "United States",
+        "sort-name": "United States",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "life-span": {
+        "begin": "1942-04-09",
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "Capitol Records (CAP)",
+          "type-id": "3a1a0c48-d885-3b89-87b2-9e8a483c5675",
+          "name": "Capitol Records (CAP)",
+          "locale": null,
+          "type": "Label name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Capital Recordings",
+          "name": "Capital Recordings",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Capitol Hollywood California",
+          "name": "Capitol Hollywood California",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Capitol USA",
+          "name": "Capitol USA",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Capitol",
+          "type-id": "3a1a0c48-d885-3b89-87b2-9e8a483c5675",
+          "name": "Capitol",
+          "locale": "en",
+          "type": "Label name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Capitol Records",
+          "type-id": "3a1a0c48-d885-3b89-87b2-9e8a483c5675",
+          "name": "Capitol Records",
+          "locale": "en",
+          "type": "Label name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "CAPITOL CATALOG MKT (C92)",
+          "name": "CAPITOL CATALOG MKT (C92)",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Capitol Music",
+          "name": "Capitol Music",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Capital/EMI Records",
+          "name": "Capital/EMI Records",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Capitol Records (US1A)",
+          "name": "Capitol Records (US1A)",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Capitol Catalog Mkt (C92)",
+          "name": "Capitol Catalog Mkt (C92)",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 2,
+          "name": "electronic"
+        },
+        {
+          "count": 1,
+          "name": "pop"
+        },
+        {
+          "count": 2,
+          "name": "alternative rock"
+        },
+        {
+          "count": 0,
+          "name": "american"
+        },
+        {
+          "count": 1,
+          "name": "hip hop"
+        },
+        {
+          "count": 0,
+          "name": "usa"
+        },
+        {
+          "count": 2,
+          "name": "indie rock"
+        },
+        {
+          "count": 0,
+          "name": "américain"
+        },
+        {
+          "count": 1,
+          "name": "art rock"
+        },
+        {
+          "count": 1,
+          "name": "dance-punk"
+        }
+      ]
+    },
+    {
+      "id": "c029628b-6633-439e-bcee-ed02e8a338f7",
+      "type": "Original Production",
+      "type-id": "7aaa37fe-2def-3476-b359-80245850062d",
+      "score": 100,
+      "name": "EMI",
+      "sort-name": "EMI",
+      "label-code": 542,
+      "isnis": ["000000010093264X"],
+      "disambiguation": "EMI Records, or EMI Music only if there is no other imprint",
+      "country": "GB",
+      "area": {
+        "id": "8a754a16-0027-3a29-b6d7-2b40ea0481ed",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "United Kingdom",
+        "sort-name": "United Kingdom",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "life-span": {
+        "begin": "1972",
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "EMI Records",
+          "type-id": "3a1a0c48-d885-3b89-87b2-9e8a483c5675",
+          "name": "EMI Records",
+          "locale": "en",
+          "type": "Label name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "EMI 100",
+          "name": "EMI 100",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "EMI",
+          "name": "EMI",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "EMI Records (UK)",
+          "name": "EMI Records (UK)",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "EMI UK",
+          "name": "EMI UK",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "EMI Recorded Music Australia Pty Ltd",
+          "type-id": "829662f2-a781-3ec8-8b46-fbcea6196f81",
+          "name": "EMI Recorded Music Australia Pty Ltd",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 2,
+          "name": "post-rock"
+        },
+        {
+          "count": 2,
+          "name": "pop"
+        },
+        {
+          "count": 0,
+          "name": "british"
+        },
+        {
+          "count": 2,
+          "name": "uk"
+        },
+        {
+          "count": 0,
+          "name": "britannique"
+        },
+        {
+          "count": 0,
+          "name": "la musique comme vous ne l avez jamais écoutée"
+        },
+        {
+          "count": 0,
+          "name": "english"
+        },
+        {
+          "count": 0,
+          "name": "emi 7253"
+        },
+        {
+          "count": 0,
+          "name": "clean up"
+        },
+        {
+          "count": 0,
+          "name": "discogs dump"
+        },
+        {
+          "count": 1,
+          "name": "christy"
+        }
+      ]
+    },
+    {
+      "id": "14221f01-8939-4ea0-b8f1-b5a21beae80a",
+      "type": "Original Production",
+      "type-id": "7aaa37fe-2def-3476-b359-80245850062d",
+      "score": 100,
+      "name": "XL Recordings",
+      "sort-name": "XL Recordings",
+      "label-code": 5667,
+      "country": "GB",
+      "area": {
+        "id": "8a754a16-0027-3a29-b6d7-2b40ea0481ed",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "United Kingdom",
+        "sort-name": "United Kingdom",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "life-span": {
+        "begin": "1989",
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "XL-Recordings",
+          "name": "XL-Recordings",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Beggars XL Recording",
+          "name": "Beggars XL Recording",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "XL レコーディングス",
+          "name": "XL レコーディングス",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "XLレコーディングス",
+          "name": "XLレコーディングス",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 2,
+          "name": "rock"
+        },
+        {
+          "count": 2,
+          "name": "electronic"
+        },
+        {
+          "count": 1,
+          "name": "post-rock"
+        },
+        {
+          "count": 1,
+          "name": "alternative rock"
+        },
+        {
+          "count": 1,
+          "name": "drum and bass"
+        },
+        {
+          "count": 1,
+          "name": "big beat"
+        },
+        {
+          "count": 1,
+          "name": "80s"
+        },
+        {
+          "count": 1,
+          "name": "instrumental"
+        },
+        {
+          "count": 2,
+          "name": "british"
+        },
+        {
+          "count": 2,
+          "name": "uk"
+        },
+        {
+          "count": 1,
+          "name": "britannique"
+        },
+        {
+          "count": 1,
+          "name": "techno"
+        },
+        {
+          "count": 1,
+          "name": "electronica"
+        },
+        {
+          "count": 1,
+          "name": "english"
+        },
+        {
+          "count": 1,
+          "name": "independent"
+        },
+        {
+          "count": 1,
+          "name": "breakbeat hardcore"
+        },
+        {
+          "count": 1,
+          "name": "electronic rock"
+        },
+        {
+          "count": 1,
+          "name": "21"
+        }
+      ]
+    },
+    {
+      "id": "c518d5f3-690b-432a-8e23-6e17d78b18d6",
+      "score": 100,
+      "name": "Just Music",
+      "sort-name": "Just Music",
+      "disambiguation": "South Africa",
+      "country": "ZA",
+      "area": {
+        "id": "50cc7852-862e-30ae-aa82-385fe7135b7f",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "South Africa",
+        "sort-name": "South Africa",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "life-span": {
+        "begin": "2003-06",
+        "ended": null
+      }
+    },
+    {
+      "id": "a92d1684-4edb-48aa-b913-30e9da213004",
+      "type": "Original Production",
+      "type-id": "7aaa37fe-2def-3476-b359-80245850062d",
+      "score": 100,
+      "name": "Def Jam Recordings",
+      "sort-name": "Def Jam Recordings",
+      "label-code": 8427,
+      "disambiguation": "US",
+      "country": "US",
+      "area": {
+        "id": "489ce91b-6658-3307-9877-795b68554c98",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "United States",
+        "sort-name": "United States",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "life-span": {
+        "begin": "1984",
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "Def Jam Recordings",
+          "type-id": "3a1a0c48-d885-3b89-87b2-9e8a483c5675",
+          "name": "Def Jam Recordings",
+          "locale": "en",
+          "type": "Label name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Def Jam US",
+          "name": "Def Jam US",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Def Jam Records",
+          "name": "Def Jam Records",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Def Jam",
+          "type-id": "3a1a0c48-d885-3b89-87b2-9e8a483c5675",
+          "name": "Def Jam",
+          "locale": null,
+          "type": "Label name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 0,
+          "name": "pop"
+        },
+        {
+          "count": 1,
+          "name": "rap"
+        },
+        {
+          "count": 0,
+          "name": "american"
+        },
+        {
+          "count": 6,
+          "name": "hip hop"
+        },
+        {
+          "count": 0,
+          "name": "usa"
+        },
+        {
+          "count": 0,
+          "name": "contemporary r b"
+        },
+        {
+          "count": 1,
+          "name": "soul"
+        },
+        {
+          "count": 0,
+          "name": "américain"
+        },
+        {
+          "count": 0,
+          "name": "dance-pop"
+        },
+        {
+          "count": 0,
+          "name": "rap rock"
+        },
+        {
+          "count": 1,
+          "name": "r&b"
+        },
+        {
+          "count": 1,
+          "name": "def 318-1"
+        }
+      ]
+    },
+    {
+      "id": "b34fd541-663c-4a26-aa81-1472392d0212",
+      "type": "Distributor",
+      "type-id": "53ab8dcc-9946-3b62-966e-7634d78e5034",
+      "score": 100,
+      "name": "Virgin Music Canada",
+      "sort-name": "Virgin Music Canada",
+      "area": {
+        "id": "23b82a5a-5a5e-4b62-ab84-5222a8e443cd",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Mississauga",
+        "sort-name": "Mississauga",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "life-span": {
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "Virgin Music Canada",
+          "type-id": "3a1a0c48-d885-3b89-87b2-9e8a483c5675",
+          "name": "Virgin Music Canada",
+          "locale": "en",
+          "type": "Label name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        }
+      ]
+    },
+    {
+      "id": "68803e28-86fe-4a95-985f-8e493795ab31",
+      "type": "Original Production",
+      "type-id": "7aaa37fe-2def-3476-b359-80245850062d",
+      "score": 100,
+      "name": "DGC Records",
+      "sort-name": "DGC Records",
+      "label-code": 6406,
+      "country": "US",
+      "area": {
+        "id": "489ce91b-6658-3307-9877-795b68554c98",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "United States",
+        "sort-name": "United States",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "life-span": {
+        "begin": "1990",
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "David Geffen Company",
+          "name": "David Geffen Company",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "DGC",
+          "name": "DGC",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "DCG Records",
+          "name": "DCG Records",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 1,
+          "name": "rock"
+        }
+      ]
+    },
+    {
+      "id": "7306f7ec-97d1-45d8-bda5-d51c5c901b4c",
+      "type": "Imprint",
+      "type-id": "b6285b2a-3514-3d43-80df-fcf528824ded",
+      "score": 100,
+      "name": "Warner Music Canada",
+      "sort-name": "Warner Music Canada",
+      "disambiguation": "imprint of Warner Music Canada Co.",
+      "country": "CA",
+      "area": {
+        "id": "71bbafaa-e825-3e15-8ca9-017dcad1748b",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Canada",
+        "sort-name": "Canada",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "life-span": {
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "Warner Music Canada",
+          "type-id": "3a1a0c48-d885-3b89-87b2-9e8a483c5675",
+          "name": "Warner Music Canada",
+          "locale": "en",
+          "type": "Label name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "WM Canada",
+          "type-id": "3a1a0c48-d885-3b89-87b2-9e8a483c5675",
+          "name": "WM Canada",
+          "locale": null,
+          "type": "Label name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 1,
+          "name": "record label"
+        },
+        {
+          "count": 1,
+          "name": "distributor"
+        }
+      ]
+    },
+    {
+      "id": "993af7f6-bb99-456b-83e7-5e728ea80a0e",
+      "type": "Original Production",
+      "type-id": "7aaa37fe-2def-3476-b359-80245850062d",
+      "score": 100,
+      "name": "Harvest",
+      "sort-name": "Harvest",
+      "label-code": 1305,
+      "disambiguation": "UK based sub‐label of EMI, re‐activated in 2013 under Capitol Music Group in Hollywood, CA",
+      "country": "GB",
+      "area": {
+        "id": "8a754a16-0027-3a29-b6d7-2b40ea0481ed",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "United Kingdom",
+        "sort-name": "United Kingdom",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "life-span": {
+        "begin": "1969",
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "Harvest Records",
+          "name": "Harvest Records",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ]
+    },
+    {
+      "id": "ad2f9216-86dd-4235-91af-0e1e57537254",
+      "type": "Original Production",
+      "type-id": "7aaa37fe-2def-3476-b359-80245850062d",
+      "score": 100,
+      "name": "Tower",
+      "sort-name": "Tower",
+      "disambiguation": "60s Capitol Records subsidiary",
+      "country": "US",
+      "area": {
+        "id": "489ce91b-6658-3307-9877-795b68554c98",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "United States",
+        "sort-name": "United States",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "life-span": {
+        "begin": "1964",
+        "end": "1970",
+        "ended": true
+      },
+      "aliases": [
+        {
+          "sort-name": "Tower",
+          "name": "Tower",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ]
+    },
+    {
+      "id": "ad6f8706-c95e-443b-8579-8e3ecd27126c",
+      "type": "Original Production",
+      "type-id": "7aaa37fe-2def-3476-b359-80245850062d",
+      "score": 100,
+      "name": "Columbia Records",
+      "sort-name": "Columbia Records",
+      "label-code": 162,
+      "disambiguation": "EMI‐owned 1931–1990, worldwide except US, CA, MX, ES, & JP; largely defunct since Jan 1973",
+      "country": "GB",
+      "area": {
+        "id": "8a754a16-0027-3a29-b6d7-2b40ea0481ed",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "United Kingdom",
+        "sort-name": "United Kingdom",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "life-span": {
+        "begin": "1931-04-21",
+        "end": "1990",
+        "ended": true
+      },
+      "aliases": [
+        {
+          "sort-name": "EMI Columbia",
+          "type-id": "3a1a0c48-d885-3b89-87b2-9e8a483c5675",
+          "name": "EMI Columbia",
+          "locale": "en",
+          "type": "Label name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Columbia",
+          "name": "Columbia",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 1,
+          "name": "discogs dump"
+        }
+      ]
+    },
+    {
+      "id": "f18f3b31-8263-4de3-966a-fda317492d3d",
+      "type": "Imprint",
+      "type-id": "b6285b2a-3514-3d43-80df-fcf528824ded",
+      "score": 100,
+      "name": "Decca Records",
+      "sort-name": "Decca Records",
+      "label-code": 171,
+      "country": "GB",
+      "area": {
+        "id": "8a754a16-0027-3a29-b6d7-2b40ea0481ed",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "United Kingdom",
+        "sort-name": "United Kingdom",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "life-span": {
+        "begin": "1929",
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "Decca Records",
+          "type-id": "3a1a0c48-d885-3b89-87b2-9e8a483c5675",
+          "name": "Decca Records",
+          "locale": "en",
+          "type": "Label name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Decca",
+          "name": "Decca",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Decca (UMO)",
+          "type-id": "3a1a0c48-d885-3b89-87b2-9e8a483c5675",
+          "name": "Decca (UMO)",
+          "locale": null,
+          "type": "Label name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Decca Disques",
+          "name": "Decca Disques",
+          "locale": "fr",
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 3,
+          "name": "classical"
+        },
+        {
+          "count": 1,
+          "name": "jazz"
+        },
+        {
+          "count": 0,
+          "name": "decca 193.486-x"
+        },
+        {
+          "count": 1,
+          "name": "schumann"
+        },
+        {
+          "count": 1,
+          "name": "royal philharmonic orchestra"
+        },
+        {
+          "count": 1,
+          "name": "discogs dump"
+        }
+      ]
+    },
+    {
+      "id": "60a0dd34-2333-4679-9050-38c21f7bc616",
+      "type": "Original Production",
+      "type-id": "7aaa37fe-2def-3476-b359-80245850062d",
+      "score": 100,
+      "name": "London Records",
+      "sort-name": "London Records",
+      "label-code": 253,
+      "disambiguation": "UK, 1947–1999, re-launched 2011–present",
+      "area": {
+        "id": "f03d09b3-39dc-4083-afd6-159e3f0d462f",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "London",
+        "sort-name": "London",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "life-span": {
+        "begin": "1947",
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "London Records US",
+          "name": "London Records US",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "London Records",
+          "name": "London Records",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "London/Victory",
+          "name": "London/Victory",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "London Decca",
+          "type-id": "829662f2-a781-3ec8-8b46-fbcea6196f81",
+          "name": "London Decca",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "London Recordings",
+          "name": "London Recordings",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "London Records, Ltd",
+          "name": "London Records, Ltd",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "London",
+          "name": "London",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 1,
+          "name": "london 443024"
+        },
+        {
+          "count": 1,
+          "name": "handel messiah"
+        }
+      ]
+    },
+    {
+      "id": "b3f4e6a5-ece0-43be-a530-68ad0d49fee8",
+      "type": "Original Production",
+      "type-id": "7aaa37fe-2def-3476-b359-80245850062d",
+      "score": 100,
+      "name": "RCA Victor",
+      "sort-name": "RCA Victor",
+      "label-code": 316,
+      "country": "US",
+      "area": {
+        "id": "489ce91b-6658-3307-9877-795b68554c98",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "United States",
+        "sort-name": "United States",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "life-span": {
+        "begin": "1929",
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "RCA Victor Canada International",
+          "name": "RCA Victor Canada International",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 2,
+          "name": "classical music"
+        },
+        {
+          "count": 0,
+          "name": "kes 103"
+        }
+      ]
+    },
+    {
+      "id": "9d39ce55-18f6-4989-bcb6-d56862e18dcb",
+      "type": "Original Production",
+      "type-id": "7aaa37fe-2def-3476-b359-80245850062d",
+      "score": 100,
+      "name": "Deram",
+      "sort-name": "Deram",
+      "label-code": 942,
+      "country": "GB",
+      "area": {
+        "id": "8a754a16-0027-3a29-b6d7-2b40ea0481ed",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "United Kingdom",
+        "sort-name": "United Kingdom",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "life-span": {
+        "begin": "1966",
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "DERAM",
+          "name": "DERAM",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ]
+    },
+    {
+      "id": "995428e7-81b6-41dd-bd38-5a7a0ece8ad6",
+      "type": "Imprint",
+      "type-id": "b6285b2a-3514-3d43-80df-fcf528824ded",
+      "score": 100,
+      "name": "Mercury Records",
+      "sort-name": "Mercury Records",
+      "label-code": 268,
+      "disambiguation": "or just “Mercury”; a UMG imprint, do not use it for ©/℗ credits",
+      "country": "US",
+      "area": {
+        "id": "489ce91b-6658-3307-9877-795b68554c98",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "United States",
+        "sort-name": "United States",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "life-span": {
+        "begin": "1945",
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "Universal Music S.A. Division Mercury",
+          "name": "Universal Music S.A. Division Mercury",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Mercury Records (Finland)",
+          "name": "Mercury Records (Finland)",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Mercury Records (Australia)",
+          "name": "Mercury Records (Australia)",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Mercury US",
+          "name": "Mercury US",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Mercury Records (Germany)",
+          "name": "Mercury Records (Germany)",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Mercury Records B.V.",
+          "name": "Mercury Records B.V.",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Mercury Records BV",
+          "name": "Mercury Records BV",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Mercury Records (Europe)",
+          "name": "Mercury Records (Europe)",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Mercury Records (Norway)",
+          "name": "Mercury Records (Norway)",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Mercury (Universal)",
+          "name": "Mercury (Universal)",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Mercury Records Ltd.",
+          "name": "Mercury Records Ltd.",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Mercury Records (Japan)",
+          "name": "Mercury Records (Japan)",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Mercury Records (Belgium)",
+          "name": "Mercury Records (Belgium)",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Mercury Records Limited",
+          "name": "Mercury Records Limited",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Mercury Records (New Zealand)",
+          "name": "Mercury Records (New Zealand)",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Mercury NZ",
+          "name": "Mercury NZ",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Mercury Records",
+          "name": "Mercury Records",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Universal Music Division Mercury Records",
+          "name": "Universal Music Division Mercury Records",
+          "locale": "fr",
+          "type": null,
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Mercury Records (Canada)",
+          "name": "Mercury Records (Canada)",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Mercury",
+          "name": "Mercury",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 0,
+          "name": "pop"
+        },
+        {
+          "count": 0,
+          "name": "folk"
+        },
+        {
+          "count": 0,
+          "name": "francophone"
+        },
+        {
+          "count": 0,
+          "name": "chanson française"
+        },
+        {
+          "count": 0,
+          "name": "hip hop"
+        },
+        {
+          "count": 0,
+          "name": "indie"
+        },
+        {
+          "count": 0,
+          "name": "indie pop"
+        },
+        {
+          "count": 0,
+          "name": "chanson"
+        },
+        {
+          "count": 0,
+          "name": "label by lytron"
+        },
+        {
+          "count": 0,
+          "name": "rap rock"
+        },
+        {
+          "count": 1,
+          "name": "miracles"
+        }
+      ]
+    },
+    {
+      "id": "56d2501f-12b7-4cfd-b8f8-e95189ea27f5",
+      "type": "Original Production",
+      "type-id": "7aaa37fe-2def-3476-b359-80245850062d",
+      "score": 100,
+      "name": "Top Dawg Entertainment",
+      "sort-name": "Top Dawg Entertainment",
+      "country": "US",
+      "area": {
+        "id": "489ce91b-6658-3307-9877-795b68554c98",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "United States",
+        "sort-name": "United States",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "life-span": {
+        "begin": "2004",
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "TDE",
+          "type-id": "829662f2-a781-3ec8-8b46-fbcea6196f81",
+          "name": "TDE",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Interscope Records (Top Dawg Entertainment)",
+          "type-id": "3a1a0c48-d885-3b89-87b2-9e8a483c5675",
+          "name": "Interscope Records (Top Dawg Entertainment)",
+          "locale": null,
+          "type": "Label name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 1,
+          "name": "hip hop"
+        }
+      ]
+    },
+    {
+      "id": "7c0b209a-0974-416d-bf52-b41889f5c0d3",
+      "type": "Imprint",
+      "type-id": "b6285b2a-3514-3d43-80df-fcf528824ded",
+      "score": 100,
+      "name": "Darkroom Records",
+      "sort-name": "Darkroom Records",
+      "area": {
+        "id": "dbacf2e3-7e3e-4cee-8804-999b109285fa",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Santa Monica",
+        "sort-name": "Santa Monica",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "life-span": {
+        "begin": "2014",
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "Darkroom, The",
+          "type-id": "3a1a0c48-d885-3b89-87b2-9e8a483c5675",
+          "name": "The Darkroom",
+          "locale": "en",
+          "type": "Label name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Darkroom Records",
+          "type-id": "3a1a0c48-d885-3b89-87b2-9e8a483c5675",
+          "name": "Darkroom Records",
+          "locale": "en",
+          "type": "Label name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Darkroom",
+          "type-id": "3a1a0c48-d885-3b89-87b2-9e8a483c5675",
+          "name": "Darkroom",
+          "locale": "en",
+          "type": "Label name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ]
+    },
+    {
+      "id": "036ded0b-d709-4f3c-b08d-b3c1df6c4fdf",
+      "score": 100,
+      "name": "Eagle Rock Entertainment",
+      "sort-name": "Eagle Rock Entertainment",
+      "disambiguation": "folded into Mercury Studios in 2020-12",
+      "life-span": {
+        "begin": "1997-04",
+        "end": "2020-12",
+        "ended": true
+      }
+    },
+    {
+      "id": "dfd92cd3-4888-46d2-b968-328b1feb2642",
+      "type": "Imprint",
+      "type-id": "b6285b2a-3514-3d43-80df-fcf528824ded",
+      "score": 100,
+      "name": "Island",
+      "sort-name": "Island",
+      "label-code": 407,
+      "disambiguation": "imprint of Island Records, a division of Universal Music Group",
+      "country": "XW",
+      "area": {
+        "id": "525d4e18-3d00-31b9-a58b-a146a916de8f",
+        "name": "[Worldwide]",
+        "sort-name": "[Worldwide]",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "life-span": {
+        "begin": "1959-07-04",
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "Island",
+          "type-id": "3a1a0c48-d885-3b89-87b2-9e8a483c5675",
+          "name": "Island",
+          "locale": "en",
+          "type": "Label name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "アイランド",
+          "type-id": "3a1a0c48-d885-3b89-87b2-9e8a483c5675",
+          "name": "アイランド",
+          "locale": "ja",
+          "type": "Label name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Island Records",
+          "type-id": "3a1a0c48-d885-3b89-87b2-9e8a483c5675",
+          "name": "Island Records",
+          "locale": "en",
+          "type": "Label name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Island UK",
+          "name": "Island UK",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Island Records Canada",
+          "name": "Island Records Canada",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Island Records America",
+          "name": "Island Records America",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Island Records Italy",
+          "name": "Island Records Italy",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Island Records Germany",
+          "name": "Island Records Germany",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Island Records France",
+          "name": "Island Records France",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Universal-Island Records Ltd.",
+          "type-id": "829662f2-a781-3ec8-8b46-fbcea6196f81",
+          "name": "Universal-Island Records Ltd.",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Island Records Ltd.",
+          "name": "Island Records Ltd.",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Island Records US",
+          "name": "Island Records US",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Island Records Australia",
+          "name": "Island Records Australia",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 1,
+          "name": "pop"
+        },
+        {
+          "count": 2,
+          "name": "hip hop"
+        },
+        {
+          "count": 3,
+          "name": "folk rock"
+        },
+        {
+          "count": 3,
+          "name": "electropop"
+        },
+        {
+          "count": 3,
+          "name": "pop rock"
+        },
+        {
+          "count": 1,
+          "name": "imprint"
+        }
+      ]
+    }
+  ]
+}
